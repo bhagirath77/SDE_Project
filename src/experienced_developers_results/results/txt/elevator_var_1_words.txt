@@ -1,0 +1,10 @@
+﻿Elevator
+Number of words
+English [25]: Replace var1 with a name you would have used.
++---+---------+
+|   | English |
++---+---------+
+| 1 | 1       |
+| 2 | 22      |
+| 3 | 2       |
++---+---------+

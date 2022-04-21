@@ -1,0 +1,30 @@
+﻿Elevator
+Responses
+English [5]: Stav wants to check whether the code was properly corrected. She goes into the elevator on the 0 ground floor and presses all the buttons together. It is expected that the elevator will rise and open at each floor.
+Write a pseudo code loop that passes all the floors in ascending order from floor 0 and opens the door on each floor.
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+|                                                                                                                                                                                                                                                                                                               | English |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| for i in floors:
+open()
+close()                                                                                                                                                                                                                                                                               | 2       |
+| for i in range(1,top):
+     door_status=true
+     passenger(release)
+     door_status=false                                                                                                                                                                                                                   | 1       |
+| int max_floor= 10, open_time;
+bool is_dest[max_floor];    
+for (int i=0; i<=max_floor; i++)  is_dest[i]= false;
+int i= curr_floor;
+while (i<=max_floor)
+{    if (is_dest[i])
+    {   open_door(open_time);
+        is_dest[i]= false; break;
+    }
+    for (; i<=max_floor, i++)  if (is_dest[i]) break;   
+} | 1       |
+| while currentFloor < MAX_FLOOR:
+  closeDoor()
+  goUp( 1 )
+  openDoor()                                                                                                                                                                                                                                        | 1       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+

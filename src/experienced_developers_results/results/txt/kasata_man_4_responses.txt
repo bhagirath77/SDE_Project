@@ -1,0 +1,9 @@
+﻿Kasata
+Responses
+English [19]: What is the purpose of the "price" parameter?
++----------------------------+---------+
+|                            | English |
++----------------------------+---------+
+| Price per unit             | 9       |
+| Selling price per sandwich | 10      |
++----------------------------+---------+

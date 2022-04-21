@@ -1,0 +1,24 @@
+﻿Benefits card
+Names
+English [29]: Name the constant holding the value 4 according to its purpose.
++------------------------------------------------+---------+
+|                                                | English |
++------------------------------------------------+---------+
+| accumulation_month_limit                       | 1       |
+| benefits_accumulated_limit                     | 1       |
+| benefits_limit                                 | 1       |
+| benefits_max_num                               | 1       |
+| c_benefits_per_month                           | 1       |
+| max_acc_benefits                               | 1       |
+| max_benefits                                   | 5       |
+| max_benefits_amount                            | 1       |
+| max_benefits_num                               | 1       |
+| max_benefits_per_month                         | 6       |
+| max_month_benefits                             | 1       |
+| max_monthly_benefits                           | 3       |
+| max_num_of_benefits                            | 1       |
+| max_number_of_benefits                         | 2       |
+| monthly_benefits_limit                         | 1       |
+| private_static_int_max_benefits_per_month_=_4; | 1       |
+| used_benefits_count                            | 1       |
++------------------------------------------------+---------+

@@ -1,0 +1,21 @@
+﻿Maze
+Number of characters
+English (Maze) [18]: How would you call the variable holding the location of the cheese today?
+English (Labyrinth) [24]: How would you call the variable holding the location of the cheese today?
++----+----------------+---------------------+
+|    | English (Maze) | English (Labyrinth) |
++----+----------------+---------------------+
+| 6  | 2              | 0                   |
+| 8  | 0              | 1                   |
+| 9  | 0              | 1                   |
+| 10 | 2              | 2                   |
+| 12 | 1              | 1                   |
+| 13 | 3              | 0                   |
+| 14 | 4              | 5                   |
+| 15 | 2              | 6                   |
+| 17 | 2              | 2                   |
+| 18 | 0              | 1                   |
+| 21 | 2              | 2                   |
+| 23 | 0              | 2                   |
+| 90 | 0              | 1                   |
++----+----------------+---------------------+

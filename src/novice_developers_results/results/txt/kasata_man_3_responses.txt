@@ -1,0 +1,15 @@
+﻿Kasata
+Responses
+English [9]: What is the purpose of the "cost" parameter?
++-----------------------------------------------+---------+
+|                                               | English |
++-----------------------------------------------+---------+
+| Cost per unit                                 | 1       |
+| Denotes the cost per unit.                    | 1       |
+| How much it costs to make a unit              | 1       |
+| Represents cost of sandwich                   | 1       |
+| cost per oreo                                 | 1       |
+| manufacturing price of sandwich               | 1       |
+| manufacturing price of the ice cream sandwich | 2       |
+| manufacturing price of the item               | 1       |
++-----------------------------------------------+---------+

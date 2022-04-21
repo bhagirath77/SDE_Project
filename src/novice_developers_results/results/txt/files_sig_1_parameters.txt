@@ -1,0 +1,13 @@
+﻿Files
+Parameters
+English [11]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
++-------------------------+---------+
+|                         | English |
++-------------------------+---------+
+| (no parameters)         | 4       |
+| avail, avail, file      | 1       |
+| avail, avail, increment | 1       |
+| avail, file, increment  | 3       |
+| avail, increment        | 1       |
+| file, increment         | 1       |
++-------------------------+---------+

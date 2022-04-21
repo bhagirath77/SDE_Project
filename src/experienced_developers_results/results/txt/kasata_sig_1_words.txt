@@ -1,0 +1,13 @@
+﻿Kasata
+Number of words
+English [22]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
++---+---------+
+|   | English |
++---+---------+
+| 2 | 3       |
+| 3 | 8       |
+| 4 | 4       |
+| 5 | 2       |
+| 6 | 1       |
+| 7 | 4       |
++---+---------+

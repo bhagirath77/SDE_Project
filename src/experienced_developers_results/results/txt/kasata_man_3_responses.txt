@@ -1,0 +1,9 @@
+﻿Kasata
+Responses
+English [18]: What is the purpose of the "cost" parameter?
++---------------------------------------+---------+
+|                                       | English |
++---------------------------------------+---------+
+| Cost per unit                         | 17      |
+| Not clear if it is unit or total cost | 1       |
++---------------------------------------+---------+

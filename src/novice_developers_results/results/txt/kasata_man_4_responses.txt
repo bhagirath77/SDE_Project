@@ -1,0 +1,12 @@
+﻿Kasata
+Responses
+English [9]: What is the purpose of the "price" parameter?
++-------------------------------------+---------+
+|                                     | English |
++-------------------------------------+---------+
+| Denotes the selling price per unit. | 3       |
+| Price charged per unit              | 1       |
+| Selling price                       | 1       |
+| Selling price of sandwich           | 3       |
+| selling price per oreo              | 1       |
++-------------------------------------+---------+

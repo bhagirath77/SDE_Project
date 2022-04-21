@@ -1,0 +1,16 @@
+﻿Elevator
+Names
+English [10]: How would you call the variable describing the state of the elevator's door (open/closed)?
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+|                                                                                                                                                                | English |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| cad                                                                                                                                                            | 1       |
+| door_open                                                                                                                                                      | 1       |
+| door_status                                                                                                                                                    | 2       |
+| doorisopen                                                                                                                                                     | 1       |
+| elevator_direction                                                                                                                                             | 1       |
+| flag_door_status                                                                                                                                               | 1       |
+| it_a_boolean_var_open_true_if_door_it_open_false_otherwise_put_it_under_a_while_loop_for_continuous_checking,_which_calls_a_function_depending_on_the_variable | 1       |
+| it_elevator_open                                                                                                                                               | 1       |
+| on                                                                                                                                                             | 1       |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+

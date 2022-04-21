@@ -1,0 +1,19 @@
+﻿Files
+Responses
+English [22]: What do you think it returns?
++--------------------------------------------------------+---------+
+|                                                        | English |
++--------------------------------------------------------+---------+
+| Array                                                  | 1       |
+| Either sorted list of files or void (in-place sorting) | 1       |
+| List of files                                          | 1       |
+| Ordered list of files                                  | 1       |
+| Sorted copy of input                                   | 1       |
+| Sorted list                                            | 2       |
+| Sorted list of files                                   | 8       |
+| Sorted reference to input object, or void              | 1       |
+| True if succeeded sorting, false otherwise             | 1       |
+| void                                                   | 2       |
+| void (in-place sorting)                                | 2       |
+| void or success/failure                                | 1       |
++--------------------------------------------------------+---------+

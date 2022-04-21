@@ -1,0 +1,13 @@
+﻿Files
+Names
+English [11]: The implementation contains a class which describes a file within the system. How would you name the field describing the file's size?
++--------------------+---------+
+|                    | English |
++--------------------+---------+
+| arrange_file_by_sz | 1       |
+| asd                | 1       |
+| bytes              | 1       |
+| file_sz            | 3       |
+| fsize              | 1       |
+| sz                 | 4       |
++--------------------+---------+

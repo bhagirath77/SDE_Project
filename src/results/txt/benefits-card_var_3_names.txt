@@ -1,0 +1,16 @@
+﻿Benefits card
+Names
+English [9]: Name the variable holding the number of benefits the client is entitled to during the current month.
++------------------------+---------+
+|                        | English |
++------------------------+---------+
+| 0                      | 1       |
+| acd                    | 1       |
+| benefit_entitlement    | 1       |
+| benefits_awarded       | 1       |
+| current_count_benefits | 1       |
+| max_per_month          | 1       |
+| monthly_benefits       | 1       |
+| number_of_benefit      | 1       |
+| remaining_benefits     | 1       |
++------------------------+---------+

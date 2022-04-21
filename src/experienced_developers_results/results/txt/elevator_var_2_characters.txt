@@ -1,0 +1,16 @@
+﻿Elevator
+Number of characters
+English [25]: Replace var2 with a name you would have used.
++----+---------+
+|    | English |
++----+---------+
+| 4  | 1       |
+| 9  | 1       |
+| 10 | 3       |
+| 11 | 2       |
+| 12 | 9       |
+| 13 | 6       |
+| 16 | 1       |
+| 17 | 1       |
+| 19 | 1       |
++----+---------+

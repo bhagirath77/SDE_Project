@@ -1,0 +1,10 @@
+﻿Gum
+Responses
+English [10]: What do you think the interface does?
++-----------------------------------------------------------------------------------------+---------+
+|                                                                                         | English |
++-----------------------------------------------------------------------------------------+---------+
+| Calculate the pay wages                                                                 | 2       |
+| Calculates payment                                                                      | 1       |
+| Gives the total wage of an employee based on the hourly rate and number of hours worked | 7       |
++-----------------------------------------------------------------------------------------+---------+

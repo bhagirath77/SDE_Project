@@ -1,0 +1,18 @@
+﻿Files
+Names
+English [11]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
++-------------------------+---------+
+|                         | English |
++-------------------------+---------+
+| asd                     | 1       |
+| blahsdvshhuraah         | 1       |
+| can_increase_size       | 1       |
+| check_available_space   | 1       |
+| check_space_availabilty | 1       |
+| increase_size           | 1       |
+| is_space_available      | 1       |
+| is_space_enough         | 1       |
+| is_storage_available    | 1       |
+| space                   | 1       |
+| space_is_available      | 1       |
++-------------------------+---------+

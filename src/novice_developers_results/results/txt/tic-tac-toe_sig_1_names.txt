@@ -1,0 +1,15 @@
+﻿Tic-Tac-Toe
+Names
+English (Grid) [4]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters) function_name(parameters...)
+English (Board) [5]: Playing requires displaying the board to the user. Propose a function signature for this purpose function_name(parameters)
++---------------+----------------+-----------------+
+|               | English (Grid) | English (Board) |
++---------------+----------------+-----------------+
+| display       | 1              | 2               |
+| draw_board    | 1              | 0               |
+| fsvf          | 0              | 1               |
+| ok            | 1              | 0               |
+| print_matrix  | 0              | 1               |
+| show_board    | 0              | 1               |
+| show_playarea | 1              | 0               |
++---------------+----------------+-----------------+

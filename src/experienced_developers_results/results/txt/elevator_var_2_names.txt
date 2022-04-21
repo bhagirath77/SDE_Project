@@ -1,0 +1,18 @@
+﻿Elevator
+Names
+English [25]: Replace var2 with a name you would have used.
++---------------------+---------+
+|                     | English |
++---------------------+---------+
+| curr_floor          | 2       |
+| current_floor       | 14      |
+| current_pos         | 1       |
+| destination_floor   | 1       |
+| dir2                | 1       |
+| floor_from          | 1       |
+| i_src_floor         | 1       |
+| n_current_floor     | 1       |
+| press_button_level2 | 1       |
+| src_floor           | 1       |
+| var2=current_floor  | 1       |
++---------------------+---------+

@@ -1,0 +1,17 @@
+﻿Kasata
+Responses
+English [9]: What do you think
+
+profit (units, cost, price)
+
+function does?
++--------------------------------------------------------------------------------------------------------+---------+
+|                                                                                                        | English |
++--------------------------------------------------------------------------------------------------------+---------+
+| Calcs profits based on number of units produced, their cost to produce and the proce charged per unit. | 1       |
+| Calculates profit based on how many units produced, the cost of making it and cost of selling it       | 4       |
+| Calculates the profit by selling the ice cream sandwiches                                              | 1       |
+| Takes the units sold, multiplies them by price and cost, and subtracts units*cost from units*price     | 1       |
+| calculate profit from selling                                                                          | 1       |
+| determines how much money Ori will make                                                                | 1       |
++--------------------------------------------------------------------------------------------------------+---------+

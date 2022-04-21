@@ -1,0 +1,13 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [15]: The implementation includes a function make_turn(int row, int col) What do you think it does?
+English (Board) [23]: The implementation includes a function make_turn(int row, int col) What do you think it does?
++-----------------------------------------------------------------------------------------+----------------+-----------------+
+|                                                                                         | English (Grid) | English (Board) |
++-----------------------------------------------------------------------------------------+----------------+-----------------+
+| Change position to given position                                                       | 0              | 1               |
+| Checks board state at given position, updates with player's mark and checks if won/lost | 1              | 0               |
+| Initializes the cell for user input                                                     | 1              | 0               |
+| Unclear, maybe requesting user input                                                    | 1              | 0               |
+| Updates board with player's mark at given position                                      | 12             | 22              |
++-----------------------------------------------------------------------------------------+----------------+-----------------+

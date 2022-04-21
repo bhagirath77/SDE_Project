@@ -1,0 +1,18 @@
+﻿Tic-Tac-Toe
+Number of characters
+English (Grid) [16]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters)
+English (Board) [21]: Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters)
++----+----------------+-----------------+
+|    | English (Grid) | English (Board) |
++----+----------------+-----------------+
+| 4  | 0              | 2               |
+| 7  | 3              | 4               |
+| 8  | 1              | 0               |
+| 9  | 4              | 1               |
+| 10 | 3              | 2               |
+| 11 | 1              | 1               |
+| 12 | 2              | 6               |
+| 13 | 1              | 4               |
+| 14 | 0              | 1               |
+| 17 | 1              | 0               |
++----+----------------+-----------------+

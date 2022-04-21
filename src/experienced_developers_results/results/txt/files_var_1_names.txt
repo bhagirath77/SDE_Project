@@ -1,0 +1,16 @@
+﻿Files
+Names
+English [22]: The implementation contains a class which describes a file within the system. How would you name the field describing the file's size?
++------------------+---------+
+|                  | English |
++------------------+---------+
+| d_file_size      | 1       |
+| field_size_bytes | 1       |
+| file_size        | 5       |
+| fsize            | 1       |
+| m_file_size      | 1       |
+| m_n_size         | 1       |
+| mfile_size       | 1       |
+| size             | 10      |
+| size_in_bytes    | 1       |
++------------------+---------+

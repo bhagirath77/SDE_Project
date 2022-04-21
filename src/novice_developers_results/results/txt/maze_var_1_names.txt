@@ -1,0 +1,15 @@
+﻿Maze
+Names
+English (Maze) [4]: How would you call the variable holding the location of the cheese today?
+English (Labyrinth) [4]: How would you call the variable holding the location of the cheese today?
++------------------------------------------------------------------------+----------------+---------------------+
+|                                                                        | English (Maze) | English (Labyrinth) |
++------------------------------------------------------------------------+----------------+---------------------+
+| cheese_location                                                        | 1              | 1                   |
+| cheese_room                                                            | 0              | 1                   |
+| curr_cheese_loc                                                        | 1              | 0                   |
+| curr_location                                                          | 1              | 0                   |
+| destination                                                            | 0              | 1                   |
+| goal                                                                   | 0              | 1                   |
+| pair<int,_int>dest_room;_//two_co_ordinates_for_one_room;_in_a_2d_maze | 1              | 0                   |
++------------------------------------------------------------------------+----------------+---------------------+

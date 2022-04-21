@@ -1,0 +1,13 @@
+﻿Benefits card
+Names
+English [9]: Name the constant holding the value 4 according to its purpose.
++------------------------+---------+
+|                        | English |
++------------------------+---------+
+| 4                      | 1       |
+| dca                    | 1       |
+| max_benefits           | 3       |
+| max_benefits_per_month | 2       |
+| monthly_benefits       | 1       |
+| number_of_benefit      | 1       |
++------------------------+---------+

@@ -1,0 +1,28 @@
+﻿Gum
+Names
+English [23]: Name the constant containing the value 45:
++---------------------------------+---------+
+|                                 | English |
++---------------------------------+---------+
+| base_rate                       | 1       |
+| base_salary_hours               | 1       |
+| base_weekly_hours               | 1       |
+| basic_time                      | 1       |
+| c_weekly_work_hours             | 1       |
+| days_payment_threshold          | 1       |
+| full_time_cap                   | 1       |
+| full_time_hours                 | 1       |
+| full_time_weekly_hours          | 3       |
+| fulltime_position               | 1       |
+| fulltime_weekly_work_hours      | 1       |
+| hourly_wage_pay_increase_thr_es | 1       |
+| max_weekly_hours                | 1       |
+| min_hour                        | 1       |
+| min_weekly_hours                | 1       |
+| normal_week_hours               | 1       |
+| overtime_thresh                 | 1       |
+| required_hours                  | 1       |
+| required_work_hours             | 1       |
+| standard_pay_hours              | 1       |
+| weekly_hours                    | 1       |
++---------------------------------+---------+

@@ -1,0 +1,89 @@
+Q54,Q55,Q61,Q62,Q63,Q79,Q80,Q81a,Q81b,Q93,Q99,Q123,Q124,Q125,Q127,Q136,Q137,Q138,Q84,Q96a,Q103,Q117,Q139
+Name the constant containing the value 45:,Name the variable for the hourly wage during overtime pay:,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the maze?,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the labyrinth?,How would you name the variable (or data structure) describing the current state of the game board?,How would you name the variable (or data structure) describing the current state of the game grid?,The implementation contains a class which describes a file within the system. How would you name the field describing the file’s size?,Replace var1 with a name you would have used.,Replace var2 with a name you would have used.,Replace var3 with a name you would have used.,How would you call the variable describing the state of the elevator’s door (open/closed)?,Name the constant holding the value 4 according to its purpose.,Name the constant holding the value 2000 according to its purpose.,Name the variable holding the number of benefits the client is entitled to during the current month.,Playing requires displaying the board to the user. Propose a function signature for this purpose function_name(parameters),Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters) function_name(parameters...),"The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.","Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.","When a customer wants to use a benefit, the system executes a function which works as follows:
+
+Input:
+
+   Number of benefits the customer is entitled to during the current month
+
+   Number of benefits the customer has used during the current month
+
+The function calculates the difference, and returns TRUE if the balance is positive.
+
+Write a function signature for this function."
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+cda,adcad,,,,,,,sfvsfv,,asd,ac,dca,cda,cad,dca,adc,acd,fsvf,,asd,svs,ac
+,,,,,cheese_location,visited_rooms,labyrinth.traverse(cheese_location),,,size,,,,,max_benefits,benefit_threshold,monthly_benefits,,,"bool check_available_space(file, increment, available_space)","int units_produced(biscuits, ice_cream, wrapping_paper)","bool benefit_available(monthly_benefits, max_benefits)"
+FULL_TIME_HOURS,overtime_rate,,,,destination,visited,maze,state_matrix,,,,,,,,,,print_matrix(),,,"compute_preparable_quantity(biscuit_count, ice_cream_amount, wrapping_paper)",
+full_time_hours,Overtime,Cheese_location,Visited,Path,,,,,,,,,,,Max_benefits,CostOfBenefit,Current_count_benefits,,,,"Return min(chocolate_biscuit/2, cupsofVanilla/2, no of 20×10 sheets from available sheet)","Function AvailableBalance(Max_benefits, Current_count_benefits) { return Max_benefits - Current_count_benefits} "
+,,curr_location,visited,maze,,,,,curr_grid_state,fsize,,,,,,,,,display(),"is_space_enough(inc_space, avail_space)","int sandwich_produced(int biscuits, double vanilla, int paperLen, int paperWidth){return min({biscuits/2, vanilla*2, paperLen/20, paperWidth/10});}",
+full_time,over_time_perhour,,,,,,,curr_state,,size,,,,,max_benefits,unit_spend,max_per_month,display(board),,"increase_size(file,add, remaining)",,"bool canAvail(max,used)"
+full_time_hours,overtime_rate,,,,goal,visited,map,,,size,current_floor,selected_floor,floor_difference,elevator_direction,,,,,,"checkSpaceAvailabilty(file,increase,space_available)",,
+const int weekly_fixed_hours,double overtime_rate,"pair<int, int>dest_room; //two co-ordinates for one room in a 2D Maze","vector<pair<int, int>> visited; //two co-ordinates for one room in a 2D Maze",vector<vector<int>> maze; //for 2D maze,,,,,,,dest_floor,curr_floor,skip_floors,"Set a boolean var open, true if door is open, false otherwise. Put it under a while loop for continuous checking, which calls a function depending on the variable.",,,,,,,"int possible_sandwiches(int choco_bis, double vanilla, double paper)",
+none,none,,,,,,,,tic,,one,n,none,none,4,2000,0,,ok,,,1
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Monthly benefits ,Billed amount per benefit,Benefit entitlement ,,,,,"Fun benefit balance( entitled, redeemed)...return balance"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+FullTimeRequiredHours,HourlyOvertimeRate,,,,,,,,board,bytes,,,,,,,,,drawBoard(board),"canIncreaseSize(file, additionalBytes, availableSpace)","sandwichCapacity(biscuits, iceCream, wrappingPaper)",
+time_required,overtime_pay,,,,,,,,,arrangeFilesBySize,value_1,value_2,resultany,door_status,number_of_benefit,amount_entitled,number_of_benefit,,,isStorageAvailable,,remaining_benefits
+,,,,,,,,,,,,,,,,,,,,,,
+MAX_STANDARD_HOURS_PER_WEEK,overtimeRate,,,,,,,,,size,desiredFloor,currentFloor,distance,doorStatus,MAX_BENEFITS_PER_MONTH,SPENDING_NEEDED_FOR_BENEFIT,benefitsAwarded,,,"Boolean spaceIsAvailable(Object file, int increase)",,"Boolean benefitIsAvailable( int benefitsAwarded, int benefitsUsed )"
+,,,,,,,,board_state,,file_size,destination_floor,current_floor,floor_difference,door_open,max_benefits_per_month,spend_per_benefit,remaining_benefits,void display(board_state),,"bool is_space_available(increase_by, available_space, used_space)",,"bool is_available(max_benefits_per_month, benefits_used)"
+,,,,,,,,,,,,,,,,,,,,,,
+baseWage,overtimeWage,,,,cheeseRoom,visitedRooms,Linked list,2D list/array,,,,,,,,,,showBoard(parameters),,,numSandwiches(parameters),
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,curr_cheese_loc,visited_loc,maze_path,,,,,,file_sz,final_floor,initial_floor,floor_travelled,flag door_status,,,,,,blahsdvshhuraah,apigoesbrrrrrrr,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,"getNumberOfProducibleSandwiches(numBiscuits: number, cupsIceCream: number, wrappingPapers: number): number;",
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,file_size,Destination_floor,Current_floor,Nfloors_move,doorisopen,,,,,,Checkif_sufficient _space(),,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+threshold,hour_pay,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,Attach variables and coordinates to each block on the grid and declare the winning patterns. If any winning pattern ends up with all X or all O then that player wins,,,,,,,,,,"show_playarea(int row, int col)",,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,input1,input2,input3,is_elevator_open,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [3]: What is the purpose of the "row" parameter?
+English (Board) [4]: What is the purpose of the "row" parameter?
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+
+|                                                                                                                                                                                                                 | English (Grid) | English (Board) |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+
+| If any row has all O or all X it should declare that variable the winner. Also if a row has 2 X with one blank or two O with one blank it may also warn the other player of a possible loss. It also checks for | 1              | 0               |
+| It denotes the vertical level of the block to be marked.                                                                                                                                                        | 0              | 1               |
+| denote row in board                                                                                                                                                                                             | 0              | 3               |
+| indicates which horizontal row the player has selected                                                                                                                                                          | 2              | 0               |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+

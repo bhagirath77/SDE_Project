@@ -1,0 +1,10 @@
+﻿Files
+Number of words
+English [11]: The implementation contains a class which describes a file within the system. How would you name the field describing the file's size?
++---+---------+
+|   | English |
++---+---------+
+| 1 | 7       |
+| 2 | 3       |
+| 4 | 1       |
++---+---------+

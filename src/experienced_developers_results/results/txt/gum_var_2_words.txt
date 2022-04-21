@@ -1,0 +1,12 @@
+﻿Gum
+Number of words
+English [23]: Name the variable for the hourly wage during overtime pay:
++---+---------+
+|   | English |
++---+---------+
+| 1 | 1       |
+| 2 | 17      |
+| 3 | 2       |
+| 4 | 2       |
+| 5 | 1       |
++---+---------+

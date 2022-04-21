@@ -1,0 +1,20 @@
+﻿Benefits card
+Parameters
+English [28]: When a customer wants to use a benefit, the system executes a function which works as follows:
+Input:
+
+ Number of benefits the customer is entitled to during the current month
+
+ Number of benefits the customer has used during the current month
+The function calculates the difference, and returns TRUE if the balance is positive.
+Write a function signature for this function.
++--------------------------------------+---------+
+|                                      | English |
++--------------------------------------+---------+
+| (no parameters)                      | 4       |
+| invalid                              | 1       |
+| max_benefits, monthly_benefits       | 16      |
+| max_benefits, monthly_benefits, user | 1       |
+| monthly_benefits, monthly_benefits   | 5       |
+| user                                 | 1       |
++--------------------------------------+---------+

@@ -1,0 +1,16 @@
+﻿Elevator
+Names
+English [10]: Replace var3 with a name you would have used.
++--------------------+---------+
+|                    | English |
++--------------------+---------+
+| cda                | 1       |
+| distance           | 1       |
+| input3             | 1       |
+| nfloors_difference | 2       |
+| nfloors_move       | 1       |
+| nfloors_travelled  | 1       |
+| none               | 1       |
+| resultany          | 1       |
+| skip_nfloors       | 1       |
++--------------------+---------+

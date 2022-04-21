@@ -1,0 +1,10 @@
+﻿Gum
+Responses
+English [10]: What is the purpose of hours parameter?
++------------------------------------------------------+---------+
+|                                                      | English |
++------------------------------------------------------+---------+
+| It provides imperative information to calculate pay. | 1       |
+| It tells the no of hours an employee has worked      | 8       |
+| Shows how much to multiply the rate by               | 1       |
++------------------------------------------------------+---------+

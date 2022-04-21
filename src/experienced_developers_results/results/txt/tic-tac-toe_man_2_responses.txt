@@ -1,0 +1,9 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [15]: What is the purpose of the "row" parameter?
+English (Board) [21]: What is the purpose of the "row" parameter?
++---------------------------+----------------+-----------------+
+|                           | English (Grid) | English (Board) |
++---------------------------+----------------+-----------------+
+| Row's index to be updated | 15             | 21              |
++---------------------------+----------------+-----------------+

@@ -1,0 +1,34 @@
+﻿Benefits card
+Names
+English [29]: Name the variable holding the number of benefits the client is entitled to during the current month.
++------------------------------------------+---------+
+|                                          | English |
++------------------------------------------+---------+
+| accumulated_benefits                     | 1       |
+| benefits                                 | 1       |
+| benefits_balance                         | 1       |
+| benefits_entitlement_current_month       | 1       |
+| client_benefits                          | 1       |
+| client_benefits_count                    | 1       |
+| cnt_benefits                             | 1       |
+| curr_balance                             | 1       |
+| curr_benefits                            | 1       |
+| curr_month_benefits_amount               | 1       |
+| current_benefits_count                   | 1       |
+| current_benefits_entitlement             | 1       |
+| current_month_benefits                   | 1       |
+| current_month_benefits_count             | 3       |
+| current_month_entitlement                | 1       |
+| current_num_of_benefits                  | 1       |
+| entitled_benefits                        | 1       |
+| entitled_benefits_curr_month             | 1       |
+| n_benefits_entitled                      | 1       |
+| n_entitled_benefits                      | 1       |
+| num_benefits                             | 1       |
+| num_benefits_for_month                   | 1       |
+| num_of_benefits_allowed                  | 1       |
+| num_potential_benefits                   | 1       |
+| number_of_benefits_to_grant              | 1       |
+| numof_benefits                           | 1       |
+| private_int_current_month_benefits_numof | 1       |
++------------------------------------------+---------+

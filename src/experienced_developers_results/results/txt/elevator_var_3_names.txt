@@ -1,0 +1,26 @@
+﻿Elevator
+Names
+English [25]: Replace var3 with a name you would have used.
++-----------------------------------------+---------+
+|                                         | English |
++-----------------------------------------+---------+
+| delta_pos                               | 1       |
+| delta_request_vs_current                | 1       |
+| diff_floors                             | 1       |
+| different_between                       | 1       |
+| direction                               | 1       |
+| distance                                | 1       |
+| floor_diff                              | 4       |
+| floor_distance                          | 1       |
+| floors_delta                            | 1       |
+| floors_diff                             | 2       |
+| floors_to_climb                         | 1       |
+| floors_to_move                          | 2       |
+| i_delta_floor                           | 1       |
+| n_num_of_floors_to_move_/_n_delta_floor | 1       |
+| num_floors_to_move                      | 1       |
+| num_of_floor_to_move                    | 1       |
+| number_of_floors                        | 2       |
+| number_of_floors_to_climb               | 1       |
+| var3=num_of_floors_to_go                | 1       |
++-----------------------------------------+---------+

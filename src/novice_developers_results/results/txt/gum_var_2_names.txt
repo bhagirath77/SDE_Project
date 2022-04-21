@@ -1,0 +1,17 @@
+﻿Gum
+Names
+English [12]: Name the variable for the hourly wage during overtime pay:
++----------------------+---------+
+|                      | English |
++----------------------+---------+
+| adcad                | 1       |
+| double_overtime_rate | 1       |
+| hour_pay             | 1       |
+| hourly_overtime_rate | 1       |
+| none                 | 1       |
+| over_time_perhour    | 1       |
+| overtime             | 1       |
+| overtime_pay         | 1       |
+| overtime_rate        | 3       |
+| overtime_wage        | 1       |
++----------------------+---------+

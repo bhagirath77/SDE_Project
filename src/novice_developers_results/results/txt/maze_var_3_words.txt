@@ -1,0 +1,12 @@
+﻿Maze
+Number of words
+English (Maze) [4]: How would you call the data structure describing the maze?
+English (Labyrinth) [4]: How would you call the data structure describing the labyrinth?
++---+----------------+---------------------+
+|   | English (Maze) | English (Labyrinth) |
++---+----------------+---------------------+
+| 1 | 2              | 2                   |
+| 2 | 1              | 1                   |
+| 3 | 0              | 1                   |
+| 5 | 1              | 0                   |
++---+----------------+---------------------+

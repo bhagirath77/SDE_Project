@@ -1,0 +1,11 @@
+﻿Benefits card
+Number of words
+English [29]: Name the constant holding the value 4 according to its purpose.
++---+---------+
+|   | English |
++---+---------+
+| 2 | 6       |
+| 3 | 12      |
+| 4 | 10      |
+| 9 | 1       |
++---+---------+

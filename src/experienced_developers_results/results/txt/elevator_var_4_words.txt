@@ -1,0 +1,11 @@
+﻿Elevator
+Number of words
+English [24]: How would you call the variable describing the state of the elevator's door (open/closed)?
++----+---------+
+|    | English |
++----+---------+
+| 2  | 14      |
+| 3  | 7       |
+| 4  | 2       |
+| 12 | 1       |
++----+---------+

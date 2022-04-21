@@ -1,0 +1,25 @@
+﻿Kasata
+Names
+English [22]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
++--------------------------------------+---------+
+|                                      | English |
++--------------------------------------+---------+
+| calc_quantity                        | 1       |
+| calc_sandwich_num                    | 1       |
+| calculate_how_many_sandwiches        | 1       |
+| calculate_num_of_sandwiches          | 1       |
+| calculate_potential_sandwiches       | 1       |
+| get_num_of_sandwiches                | 1       |
+| get_num_sandwiches                   | 1       |
+| get_posibble_quant_of_biscuits       | 1       |
+| how_many_can_make                    | 1       |
+| how_many_possiblesandwiches          | 1       |
+| how_many_sandwiches                  | 1       |
+| how_many_sandwiches_from_ingredients | 1       |
+| how_much_icecream_can_i_make         | 1       |
+| ingredients_to_cookies               | 1       |
+| invalid                              | 4       |
+| max_sandwiches                       | 1       |
+| num_able                             | 1       |
+| number_of_sandwiches                 | 2       |
++--------------------------------------+---------+

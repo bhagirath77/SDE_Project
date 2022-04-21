@@ -1,0 +1,9 @@
+﻿Gum
+Responses
+English [10]: Complete the above interface pay(hours,rate).
++--------------------+---------+
+|                    | English |
++--------------------+---------+
+| pay = hours × rate | 6       |
+| return hours*rate  | 4       |
++--------------------+---------+

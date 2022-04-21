@@ -1,0 +1,17 @@
+﻿Gum
+Names
+English [12]: Name the constant containing the value 45:
++------------------------------+---------+
+|                              | English |
++------------------------------+---------+
+| base_wage                    | 1       |
+| cda                          | 1       |
+| const_int_weekly_fixed_hours | 1       |
+| full_time                    | 1       |
+| full_time_hours              | 3       |
+| full_time_required_hours     | 1       |
+| max_standard_hours_per_week  | 1       |
+| none                         | 1       |
+| threshold                    | 1       |
+| time_required                | 1       |
++------------------------------+---------+

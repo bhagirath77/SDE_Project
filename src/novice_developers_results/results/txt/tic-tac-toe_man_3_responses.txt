@@ -1,0 +1,12 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [3]: What is the purpose of the "col" parameter?
+English (Board) [4]: What is the purpose of the "col" parameter?
++------------------------------------------------------------+----------------+-----------------+
+|                                                            | English (Grid) | English (Board) |
++------------------------------------------------------------+----------------+-----------------+
+| It denotes the horizontal level of the block to be marked. | 0              | 1               |
+| column in grid                                             | 1              | 0               |
+| denote column in board                                     | 0              | 3               |
+| indicates which vertical column the player has selected    | 2              | 0               |
++------------------------------------------------------------+----------------+-----------------+

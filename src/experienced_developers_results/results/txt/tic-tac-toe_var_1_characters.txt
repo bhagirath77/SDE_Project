@@ -1,0 +1,22 @@
+﻿Tic-Tac-Toe
+Number of characters
+English (Grid) [16]: How would you name the variable (or data structure) describing the current state of the game grid?
+English (Board) [21]: How would you name the variable (or data structure) describing the current state of the game board?
++-----+----------------+-----------------+
+|     | English (Grid) | English (Board) |
++-----+----------------+-----------------+
+| 4   | 4              | 0               |
+| 5   | 1              | 3               |
+| 6   | 0              | 4               |
+| 8   | 0              | 1               |
+| 9   | 4              | 2               |
+| 10  | 2              | 5               |
+| 11  | 2              | 0               |
+| 13  | 0              | 3               |
+| 14  | 0              | 1               |
+| 16  | 1              | 0               |
+| 17  | 0              | 1               |
+| 18  | 0              | 1               |
+| 20  | 1              | 0               |
+| 218 | 1              | 0               |
++-----+----------------+-----------------+

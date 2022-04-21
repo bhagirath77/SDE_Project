@@ -1,0 +1,11 @@
+﻿Gum
+Responses
+English [25]: What is the purpose of hours parameter?
++---------------------------------------------------------+---------+
+|                                                         | English |
++---------------------------------------------------------+---------+
+| Number of work hours by an employee                     | 22      |
+| Number of work hours by an employee since last paid     | 1       |
+| Number of work hours in a month by an employee          | 1       |
+| Number of work hours in a payment period by an employee | 1       |
++---------------------------------------------------------+---------+

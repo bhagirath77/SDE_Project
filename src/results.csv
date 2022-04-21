@@ -1,0 +1,150 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,DistributionChannel,UserLanguage,Q183_1,Q61,Q62,Q63,Q79,Q80,Q81,Q49,Q50,Q51,Q53,Q54,Q55,Q81,Q82,Q83,Q160,Q84,Q93,Q94,Q95,Q159,Q96,Q99,Q100,Q101,Q102,Q103,Q117,Q118,Q119,Q157,Q158,Q122,Q123,Q124,Q125,Q127,Q126,Q136,Q137,Q138,Q139
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Distribution Channel,User Language,Years of programming/software experience - Years,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the maze?,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the labyrinth?,What do you think the interface does?,What is the purpose of hours parameter?,What is the purpose of rate parameter?,"Complete the above interface pay(hours,rate).",Name the constant containing the value 45:,Name the variable for the hourly wage during overtime pay:,How would you name the variable (or data structure) describing the current state of the game board?,"The implementation includes a function make_turn(int row, int col)
+What do you think it does?","What is the purpose of the ""row"" parameter?","What is the purpose of the ""col"" parameter?",Playing requires displaying the board to the user. Propose a function signature for this purpose function_name(parameters),How would you name the variable (or data structure) describing the current state of the game grid?,"The implementation includes a function make_turn(int row, int col)
+What do you think it does?","What is the purpose of the ""row"" parameter?","What is the purpose of the ""col"" parameter?",Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters) function_name(parameters...),The implementation contains a class which describes a file within the system. How would you name the field describing the file’s size?,"The implementation contains a function arrangeFilesByName(files)
+
+In your opinion, what does it do?",What is the role of the parameter? what is its type?,What do you think it returns?,"The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.","Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.","What do you think
+
+profit (units, cost, price)
+
+function does?","What is the purpose of the ""units"" parameter?","What is the purpose of the ""cost"" parameter?","What is the purpose of the ""price"" parameter?",What does this code do?,Replace var1 with a name you would have used.,Replace var2 with a name you would have used.,Replace var3 with a name you would have used.,How would you call the variable describing the state of the elevator’s door (open/closed)?,"Stav wants to check whether the code was properly corrected. She goes into the elevator on the 0 ground floor and presses all the buttons together. It is expected that the elevator will rise and open at each floor.
+Write a pseudo code loop that passes all the floors in ascending order from floor 0 and opens the door on each floor.",Name the constant holding the value 4 according to its purpose.,Name the constant holding the value 2000 according to its purpose.,Name the variable holding the number of benefits the client is entitled to during the current month.,"When a customer wants to use a benefit, the system executes a function which works as follows:
+
+Input:
+
+   Number of benefits the customer is entitled to during the current month
+
+   Number of benefits the customer has used during the current month
+
+The function calculates the difference, and returns TRUE if the balance is positive.
+
+Write a function signature for this function."
+2022-04-11 7:46:02,2022-04-11 7:49:13,Survey Preview,100,190,TRUE,2022-04-11 7:49:14,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 8:00:17,2022-04-11 8:00:55,Survey Preview,100,37,TRUE,2022-04-11 8:00:56,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 8:01:41,2022-04-11 8:02:14,Survey Preview,100,32,TRUE,2022-04-11 8:02:15,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 8:12:17,2022-04-11 8:14:56,Survey Preview,100,158,TRUE,2022-04-11 8:14:58,preview,EN,,,,,,,,ac,acac,ac,acd,cda,adcad,sfvsfv,sfvvf,vfsfvs,sfvfs,fsvf,,,,,,asd,asd,ads,asd,asd,svs,sfvsfv,sfvs,sf,vsfsf,ac,ac,dca,cda,cad,ac,dca,adc,acd,ac
+2022-04-11 9:22:41,2022-04-11 9:42:35,IP Address,100,1194,TRUE,2022-04-11 9:42:35,anonymous,EN,3,,,,cheese_location,visited_rooms,labyrinth.traverse(cheese_location),,,,,,,,,,,,,,,,,size,"Given an array (or some other data type containing an assortment of files),
+
+sorts the files on some metric, most probably in alphabetical order of the file names.","The ""files"" parameter are the files that would be sorted by the method. In a general implementation, ""files"" would be an array of the ""File"" class objects.","It should return another array of ""File"" objects which are sorted as described earlier.","bool check_available_space(file, increment, available_space)","int units_produced(biscuits, ice_cream, wrapping_paper)",Calculates the profit by selling the ice cream sandwiches ,"""units"" could be used to determine the profit on the entire batch instead of a single item.","""cost"" could be the manufacturing price of the ice cream sandwich.","""price"" could be the price the sandwiches were sold at.",,,,,,,max_benefits,benefit_threshold,monthly_benefits,"bool benefit_available(monthly_benefits, max_benefits)"
+2022-04-11 10:13:22,2022-04-11 10:27:06,IP Address,100,824,TRUE,2022-04-11 10:27:07,anonymous,EN,1,,,,destination,visited,maze,It calculates and returns the amount payable to an employee working for 'hours' hours at 'rate' rate.,It provides imperative information to calculate pay.,It provides imperative information to calculate pay.,"pay (hours, rate) = hours * rate",FULL_TIME_HOURS,overtime_rate,state_matrix,"It checks and marks [row, col] as taken (by the appropriate player, and updates the next player) if it is free, or throws an exception.",It denotes the vertical level of the block to be marked.,It denotes the horizontal level of the block to be marked.,print_matrix(),,,,,,,,,,,"compute_preparable_quantity(biscuit_count, ice_cream_amount, wrapping_paper)","It computes and returns the amount of profit generated if 'units' unit sandwiches are made at 'cost' cost, sold at 'price' price.",It provides number of ice cream sandwiches to be sold.,It provides production expenditure per ice cream sandwich.,It provides the selling price per unit ice cream sandwich.,,,,,,,,,,
+2022-04-11 9:17:56,2022-04-11 14:03:31,IP Address,100,17135,TRUE,2022-04-11 14:03:32,anonymous,EN,3,Cheese_location,Visited,Path,,,,It calculates the income of an employee by multiplying rate(in rupees/hour) and hours,It tells the no of hours an employee has worked ,It tells the income of an employee for an hour.,pay = hours × rate,full_time_hours,Overtime,,,,,,,,,,,,,,,,"Return min(chocolate_biscuit/2, cupsofVanilla/2, no of 20×10 sheets from available sheet)","Calculates profit based on how many units produced, the cost of making it and cost of selling it",More the number of units more will be profit.,Represents cost of sandwich,Selling price,,,,,,,Max_benefits,CostOfBenefit,Current_count_benefits,"Function AvailableBalance(Max_benefits, Current_count_benefits) { return Max_benefits - Current_count_benefits} "
+2022-04-13 11:40:50,2022-04-13 12:01:33,IP Address,100,1243,TRUE,2022-04-13 12:01:34,anonymous,EN,2,curr_location,visited,maze,,,,,,,,,,,,,,,curr_grid_state,Mark the given row and col,row in grid,column in grid,display(),fsize,sorting files basef on their names' order,"keeps a list of file structure, type=array",a list of file structures,"is_space_enough(inc_space, avail_space)","int sandwich_produced(int biscuits, double vanilla, int paperLen, int paperWidth){return min({biscuits/2, vanilla*2, paperLen/20, paperWidth/10});}",calculate profit from selling,The number of units produced,The cost of making an item,The selling price of an item,,,,,,,,,,
+2022-04-13 13:57:18,2022-04-13 14:08:41,IP Address,100,682,TRUE,2022-04-13 14:08:41,anonymous,EN,3,,,,,,,Calculates payment ,Number of hours worked ,Rate per hour,"pay(hour,rate):
+ return hour*rate",full_time,over_time_perhour,curr_state,Mark the row and column ,denote row in board,denote column in board,display(board),,,,,,size,sorts the files by name,list of files,arranged order of files ,"increase_size(file,add, remaining)",,,,,,,,,,,,max_benefits,unit_spend,max_per_month,"bool canAvail(max,used)"
+2022-04-13 22:20:28,2022-04-13 22:28:55,IP Address,100,506,TRUE,2022-04-13 22:28:55,anonymous,EN,2,,,,goal,visited,map,Gives the total wage of an employee based on the hourly rate and number of hours worked,Total number of hours worked,Hourly rate,return hours*rate,full_time_hours,overtime_rate,,,,,,,,,,,size,sort files by name,list of files,sorted list of files,"checkSpaceAvailabilty(file,increase,space_available)",,,,,,Move the elevator to the selected floor,current_floor,selected_floor,floor_difference,elevator_direction,,,,,
+2022-04-14 1:49:36,2022-04-15 1:04:26,IP Address,100,83689,TRUE,2022-04-15 1:04:26,anonymous,EN,5,"pair<int, int>dest_room; //two co-ordinates for one room in a 2D Maze","vector<pair<int, int>> visited; //two co-ordinates for one room in a 2D Maze",vector<vector<int>> maze; //for 2D maze,,,,"It calculates the salary of the employee, credited for the actual hours worked by him/her.",The hours denotes the actual working hours of the employee.,The rate denotes the fixed hourly wage value of the employee.,"double pay (double hours, double rate)
+{
+    return hours * rate;
+}",const int weekly_fixed_hours,double overtime_rate,,,,,,,,,,,,,,,,"int possible_sandwiches(int choco_bis, double vanilla, double paper)","Calculates the total profit generated by producing ""units"" number of units at ""cost"" investment/unit and ""price"" selling price/unit.
+
+Expected return value: units*(price-cost)",Denoted the number of units produced.,Denotes the cost per unit.,Denotes the selling price per unit.,Determines the number of floors the lift has to go up or go down.,dest_floor,curr_floor,skip_floors,"Set a boolean var open, true if door is open, false otherwise. Put it under a while loop for continuous checking, which calls a function depending on the variable.","int max_floor= 10;
+bool is_dest[max_floor];    //to note whether the floor is the destination for one trip of the lift
+int open_time;  //time till the door remains open
+
+for (int i=0; i<=max_floor; i++)
+    is_dest[i]= false;
+    
+int i= curr_floor;
+
+while (i<=max_floor)
+{
+    if (is_dest[i])
+    {
+        open_door(open_time);
+        is_dest[i]= false;
+        break;
+    }
+    
+    for (; i<=max_floor, i++)   //works for any floor which is the destination
+    {
+        if (is_dest[i])
+            break;
+    }
+    
+}",,,,
+2022-04-17 0:44:55,2022-04-17 0:46:19,IP Address,100,83,TRUE,2022-04-17 0:46:19,anonymous,EN,28,,,,,,,none,none,none,none,none,none,,,,,,tic,none,none,none,ok,,,,,,,,,,,n,one,n,none,none,"none
+",4,2000,0,1
+2022-04-11 9:16:47,2022-04-11 9:16:51,IP Address,56,4,FALSE,2022-04-18 9:16:51,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:16:36,2022-04-11 9:17:03,IP Address,50,26,FALSE,2022-04-18 9:17:04,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:16:49,2022-04-11 9:17:09,IP Address,41,20,FALSE,2022-04-18 9:17:10,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:17:46,2022-04-11 9:17:53,Spam,41,6,FALSE,2022-04-18 9:17:56,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:18:07,2022-04-11 9:18:11,IP Address,50,3,FALSE,2022-04-18 9:18:16,anonymous,EN,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:17:55,2022-04-11 9:18:14,IP Address,54,19,FALSE,2022-04-18 9:18:24,anonymous,EN,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:16:54,2022-04-11 9:18:28,IP Address,43,93,FALSE,2022-04-18 9:18:43,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:18:01,2022-04-11 9:18:59,Spam,43,58,FALSE,2022-04-18 9:19:04,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:19:54,2022-04-11 9:20:32,Spam,41,38,FALSE,2022-04-18 9:20:36,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:26:53,2022-04-11 9:27:41,IP Address,57,48,FALSE,2022-04-18 9:27:48,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:32:17,2022-04-11 9:32:51,IP Address,44,34,FALSE,2022-04-18 9:32:57,anonymous,EN,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:35:41,2022-04-11 9:36:06,Spam,57,25,FALSE,2022-04-18 9:36:11,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:23:07,2022-04-11 9:42:38,IP Address,52,1170,FALSE,2022-04-18 9:42:41,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:43:20,2022-04-11 9:43:27,IP Address,41,6,FALSE,2022-04-18 9:43:35,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:42:46,2022-04-11 9:43:30,IP Address,54,43,FALSE,2022-04-18 9:43:38,anonymous,EN,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:44:34,2022-04-11 9:44:55,IP Address,44,20,FALSE,2022-04-18 9:45:00,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:51:42,2022-04-11 9:51:52,IP Address,41,10,FALSE,2022-04-18 9:51:56,anonymous,EN,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 9:52:19,2022-04-11 9:52:41,Spam,48,22,FALSE,2022-04-18 9:52:42,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 10:01:09,2022-04-11 10:01:25,IP Address,54,16,FALSE,2022-04-18 10:01:29,anonymous,EN,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 10:12:17,2022-04-11 10:12:23,Spam,52,6,FALSE,2022-04-18 10:12:23,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 10:58:06,2022-04-11 10:58:17,IP Address,52,10,FALSE,2022-04-18 10:58:21,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 10:54:37,2022-04-11 11:01:22,IP Address,57,405,FALSE,2022-04-18 11:01:28,anonymous,EN,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Monthly benefits ,Billed amount per benefit,Benefit entitlement ,"Fun benefit balance( entitled, redeemed)...return balance"
+2022-04-11 11:08:09,2022-04-11 11:08:22,IP Address,50,13,FALSE,2022-04-18 11:08:26,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 12:28:25,2022-04-11 12:32:48,IP Address,39,262,FALSE,2022-04-18 12:32:50,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 13:00:36,2022-04-11 13:01:13,IP Address,39,37,FALSE,2022-04-18 13:01:14,anonymous,EN,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 13:42:02,2022-04-11 13:42:16,IP Address,46,14,FALSE,2022-04-18 13:42:21,anonymous,EN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-11 14:40:32,2022-04-11 14:40:56,Spam,43,23,FALSE,2022-04-18 14:40:59,anonymous,EN,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-18 23:11:11,2022-04-18 23:28:56,IP Address,100,1064,TRUE,2022-04-18 23:28:56,anonymous,EN,20,,,,,,,determines how much each worker should be paid,indicates how many hours the worker worked,indicates how much money the worker earns per hour,return hours * rate;,FullTimeRequiredHours,HourlyOvertimeRate,,,,,,board,it places the X or O on a specific tile,indicates which horizontal row the player has selected,indicates which vertical column the player has selected,drawBoard(board),bytes,"returns a list of the files, sorted alphabetically by file name",the parameter is the unordered list of files. it's an array of file objects,it returns an ordered array of the file objects,"canIncreaseSize(file, additionalBytes, availableSpace)","sandwichCapacity(biscuits, iceCream, wrappingPaper)",determines how much money Ori will make,indicates how many ice cream sandwiches Ori sold,indicates how much Ori spent on the materials for each sandwich,indicates how much Ori sold each sandwich for ,,,,,,,,,,
+2022-04-18 22:54:46,2022-04-18 23:46:34,IP Address,100,3108,TRUE,2022-04-18 23:46:34,anonymous,EN,2,,,,,,,Calculate the pay wages,Pay depends upon the number of hours,Cost per hour,"pay (hours, rate)
+
+",time_required,overtime_pay,,,,,,,,,,,arrangeFilesBySize,arrange the files in alphabetical order,Take the file name. string,files,isStorageAvailable,,,,,,Movement of Elevator,value_1,value_2,resultany,door_status,"for i in floors:
+open()
+close()
+",number_of_benefit,amount_entitled,number_of_benefit,remaining_benefits
+2022-04-12 0:37:11,2022-04-12 0:37:22,IP Address,50,10,FALSE,2022-04-19 0:37:23,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 1:49:05,2022-04-19 3:07:18,IP Address,100,4693,TRUE,2022-04-19 3:07:18,anonymous,EN,25,,,,,,,Calculate the worker's pay for a given number of hours at a given rate,Number of hours the worker would be paid for,Worker's hourly pay rate,"Decimal pay(Decimal hours, Decimal rate)
+hours, rate => hours * rate",MAX_STANDARD_HOURS_PER_WEEK,overtimeRate,,,,,,,,,,,size,Unclear without more context. Maybe it builds a dictionary or tree of the files (but then it should be called buildDictionary- or buildTree-). Maybe it sorts them by name alphabetically (but then it should be called sort-).,files should be an array of file objects,No idea without more information,"Boolean spaceIsAvailable(Object file, int increase)",,,,,,Send the elevator from the current floor to the desired floor,desiredFloor,currentFloor,distance,doorStatus,"while currentFloor < MAX_FLOOR:
+  closeDoor()
+  goUp( 1 )
+  openDoor()",MAX_BENEFITS_PER_MONTH,SPENDING_NEEDED_FOR_BENEFIT,benefitsAwarded,"Boolean benefitIsAvailable( int benefitsAwarded, int benefitsUsed )"
+2022-04-19 3:39:10,2022-04-19 3:52:26,IP Address,100,796,TRUE,2022-04-19 3:52:27,anonymous,EN,3,,,,,,,,,,,,,board_state,Mark the cell.,Row in the board,Column in the board.,void display(board_state),,,,,,file_size,Sorts the files by alphabetic order.,It is a list of files,Sorted order of files,"bool is_space_available(increase_by, available_space, used_space)",,,,,,Determines whether to go up or down.,destination_floor,current_floor,floor_difference,door_open,,max_benefits_per_month,spend_per_benefit,remaining_benefits,"bool is_available(max_benefits_per_month, benefits_used)"
+2022-04-12 8:23:13,2022-04-12 8:23:34,IP Address,52,20,FALSE,2022-04-19 8:23:35,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 8:36:07,2022-04-19 8:45:14,IP Address,100,547,TRUE,2022-04-19 8:45:14,anonymous,EN,,,,,cheeseRoom,visitedRooms,Linked list,Calculates pay based on wages and hours worked,Shows how much to multiply the rate by,Shows how much to pay for each hour,"def pay(hours, rate):
+    return hours*rate",baseWage,overtimeWage,2D list/array,"Places an X/O in the box with co-ordinates (row, col)",Defines which row to play on,Defines which column to play on,showBoard(parameters),,,,,,,,,,,numSandwiches(parameters),"Takes the units sold, multiplies them by price and cost, and subtracts units*cost from units*price",How many ice cream sandwiches were sold,How much it costs to make 1 ice cream sandwich,How much 1 ice cream sandwich sells for,,,,,,,,,,
+2022-04-12 22:31:48,2022-04-12 22:32:24,IP Address,56,36,FALSE,2022-04-19 22:32:31,anonymous,EN,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 19:48:12,2022-04-19 19:48:17,IP Address,54,5,FALSE,2022-04-19 23:49:34,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 23:54:59,2022-04-20 0:01:57,IP Address,100,417,TRUE,2022-04-20 0:01:58,anonymous,EN,,curr_cheese_loc,visited_loc,maze_path,,,,,,,,,,,,,,,,,,,,file_sz,arranges files by name,"it sends the files directory, it is a dictionary",sorted dictionary,blahsdvshhuraah,apigoesbrrrrrrr,returns the profit based on the three values,amount of oreos returned,cost per oreo,selling price per oreo,Sends the perons up or down by the difference,final_floor,initial_floor,floor_travelled,flag door_status,"for i in range(1,top):
+     door_status=true
+     passenger(release)
+     door_status=false
+",,,,
+2022-04-19 18:54:18,2022-04-19 18:54:21,IP Address,46,3,FALSE,2022-04-20 0:19:52,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-13 11:40:32,2022-04-13 11:44:29,IP Address,35,236,FALSE,2022-04-20 0:21:28,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-14 1:35:49,2022-04-14 1:36:03,IP Address,39,13,FALSE,2022-04-20 0:21:29,anonymous,EN,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 6:56:05,2022-04-17 6:57:05,IP Address,39,59,FALSE,2022-04-20 0:21:29,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 14:42:41,2022-04-19 14:45:05,IP Address,54,144,FALSE,2022-04-20 0:22:28,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 1:47:26,2022-04-19 1:48:47,IP Address,52,81,FALSE,2022-04-20 0:22:33,anonymous,EN,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 0:54:06,2022-04-19 0:56:03,IP Address,59,116,FALSE,2022-04-20 0:22:34,anonymous,EN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 3:41:43,2022-04-19 3:41:53,IP Address,46,10,FALSE,2022-04-20 0:22:36,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-19 3:41:36,2022-04-19 3:42:16,Spam,50,40,FALSE,2022-04-20 0:22:37,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-18 22:48:48,2022-04-18 22:49:17,Spam,54,28,FALSE,2022-04-20 0:22:38,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-18 22:30:34,2022-04-18 22:31:23,IP Address,52,48,FALSE,2022-04-20 0:22:40,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-18 23:46:07,2022-04-18 23:52:23,IP Address,65,375,FALSE,2022-04-20 0:22:41,anonymous,EN,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,"getNumberOfProducibleSandwiches(numBiscuits: number, cupsIceCream: number, wrappingPapers: number): number;","Calcs profits based on number of units produced, their cost to produce and the proce charged per unit.",Number of units produced,Cost per unit produced,Price charged per unit,,,,,,,,,,
+2022-04-17 20:00:36,2022-04-17 20:00:49,IP Address,52,12,FALSE,2022-04-20 0:22:43,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 8:30:04,2022-04-17 8:37:05,IP Address,63,421,FALSE,2022-04-20 0:22:44,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,file_size,Arrange files by name(ascending) on the display ,Role is as a helper function,Returns a array of sorted file objects,Checkif_sufficient _space(),,,,,,It takes present floor and destination floor and moves lift to destination floor ,Destination_floor,Current_floor,Nfloors_move,doorisopen,,,,,
+2022-04-17 7:47:33,2022-04-17 7:47:40,Spam,41,6,FALSE,2022-04-20 0:22:47,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 7:09:05,2022-04-17 7:09:58,Spam,43,53,FALSE,2022-04-20 0:22:48,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 6:59:20,2022-04-17 7:04:38,IP Address,67,317,FALSE,2022-04-20 0:22:50,anonymous,EN,2,,,,,,,takes hours and rate as input and calculate the wage of a worker,no of hours a worker has worked,rate of employment,"amount = hours*rate
+return amount",threshold,hour_pay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 7:05:02,2022-04-17 7:13:00,IP Address,72,478,FALSE,2022-04-20 0:22:54,anonymous,EN,6,,,,,,,,,,,,,,,,,,Attach variables and coordinates to each block on the grid and declare the winning patterns. If any winning pattern ends up with all X or all O then that player wins,It checks for the possible patterns of win by constantly checking for horizontal (rows) vertically (column) and diagonally (step pattern in both parameters),If any row has all O or all X it should declare that variable the winner. Also if a row has 2 X with one blank or two O with one blank it may also warn the other player of a possible loss. It also checks for ,Same thing as row just in columns,"show_playarea(int row, int col)",,,,,,,,,,,,,,,,,,,,
+2022-04-17 6:57:01,2022-04-17 6:57:31,IP Address,44,30,FALSE,2022-04-20 0:22:56,anonymous,EN,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 4:15:51,2022-04-17 4:23:07,IP Address,63,435,FALSE,2022-04-20 0:22:56,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Depending upon the values of var1 and var2, the elevator goes either up or down.",input1,input2,input3,is_elevator_open,"While (not last floor){
+go_up(1);
+Open();
+Close();
+}",,,,
+2022-04-17 1:27:51,2022-04-17 1:27:57,Spam,43,5,FALSE,2022-04-20 0:22:56,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-13 22:48:42,2022-04-13 22:48:50,IP Address,46,8,FALSE,2022-04-20 0:22:57,anonymous,EN,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-13 3:56:47,2022-04-13 3:57:04,Spam,57,17,FALSE,2022-04-20 0:22:59,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-14 1:34:20,2022-04-14 1:34:29,Spam,52,8,FALSE,2022-04-20 0:23:00,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-13 22:12:11,2022-04-13 22:12:28,Spam,48,17,FALSE,2022-04-20 0:23:01,anonymous,EN,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-13 12:26:58,2022-04-13 12:27:27,IP Address,50,28,FALSE,2022-04-20 0:23:01,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 7:28:30,2022-04-17 7:28:49,IP Address,39,19,FALSE,2022-04-20 0:23:01,anonymous,EN,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-04-17 7:10:13,2022-04-17 7:11:52,IP Address,39,99,FALSE,2022-04-20 0:23:45,anonymous,EN,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

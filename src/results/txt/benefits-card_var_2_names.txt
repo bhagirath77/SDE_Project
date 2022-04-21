@@ -1,0 +1,16 @@
+﻿Benefits card
+Names
+English [9]: Name the constant holding the value 2000 according to its purpose.
++-----------------------------+---------+
+|                             | English |
++-----------------------------+---------+
+| 2000                        | 1       |
+| adc                         | 1       |
+| amount_entitled             | 1       |
+| benefit_threshold           | 1       |
+| billed_amount_per_benefit   | 1       |
+| cost_of_benefit             | 1       |
+| spend_per_benefit           | 1       |
+| spending_needed_for_benefit | 1       |
+| unit_spend                  | 1       |
++-----------------------------+---------+

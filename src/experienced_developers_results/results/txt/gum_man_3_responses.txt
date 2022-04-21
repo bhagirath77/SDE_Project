@@ -1,0 +1,9 @@
+﻿Gum
+Responses
+English [22]: Implement the interface.
++-------------------+---------+
+|                   | English |
++-------------------+---------+
+| hours*rate        | 21      |
+| return hours*rate | 1       |
++-------------------+---------+

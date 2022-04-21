@@ -1,0 +1,15 @@
+﻿Kasata
+Names
+English [10]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
++-----------------------------+---------+
+|                             | English |
++-----------------------------+---------+
+| apigoesbrrrrrrr             | 1       |
+| compute_preparable_quantity | 1       |
+| invalid                     | 3       |
+| num_sandwiches              | 1       |
+| possible_sandwiches         | 1       |
+| sandwich_capacity           | 1       |
+| svs                         | 1       |
+| units_produced              | 1       |
++-----------------------------+---------+

@@ -1,0 +1,10 @@
+﻿Elevator
+Responses
+English [25]: What does this code do?
++------------------------------------------------------------------------------+---------+
+|                                                                              | English |
++------------------------------------------------------------------------------+---------+
+| Determines the direction of the elevator                                     | 3       |
+| Determines the direction of the elevator then travels to the requested floor | 20      |
+| Operates an elevator                                                         | 2       |
++------------------------------------------------------------------------------+---------+

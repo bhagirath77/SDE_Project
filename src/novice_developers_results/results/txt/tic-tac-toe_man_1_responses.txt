@@ -1,0 +1,15 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [3]: The implementation includes a function make_turn(int row, int col)
+What do you think it does?
+English (Board) [4]: The implementation includes a function make_turn(int row, int col)
+What do you think it does?
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+
+|                                                                                                                                                              | English (Grid) | English (Board) |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+
+| It checks and marks [row, col] as taken (by the appropriate player, and updates the next player) if it is free, or throws an exception.                      | 0              | 2               |
+| It checks for the possible patterns of win by constantly checking for horizontal (rows) vertically (column) and diagonally (step pattern in both parameters) | 2              | 0               |
+| Mark the cell.                                                                                                                                               | 0              | 1               |
+| Places an X/O in the box with co-ordinates (row, col)                                                                                                        | 0              | 1               |
+| it places the X or O on a specific tile                                                                                                                      | 1              | 0               |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------+

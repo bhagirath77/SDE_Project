@@ -1,0 +1,8 @@
+﻿Kasata
+Responses
+English [17]: What is the purpose of the "units" parameter?
++---------------------------+---------+
+|                           | English |
++---------------------------+---------+
+| Number of sold sandwiches | 17      |
++---------------------------+---------+

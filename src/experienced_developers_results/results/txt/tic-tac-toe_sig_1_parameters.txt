@@ -1,0 +1,13 @@
+﻿Tic-Tac-Toe
+Parameters
+English (Grid) [16]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters)
+English (Board) [21]: Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters)
++-----------------+----------------+-----------------+
+|                 | English (Grid) | English (Board) |
++-----------------+----------------+-----------------+
+| (no parameters) | 4              | 5               |
+| board_category  | 3              | 10              |
+| others          | 0              | 2               |
+| state           | 8              | 4               |
+| state, turn     | 1              | 0               |
++-----------------+----------------+-----------------+

@@ -1,0 +1,14 @@
+﻿Files
+Responses
+English [10]: What do you think it returns?
++----------------------------------+---------+
+|                                  | English |
++----------------------------------+---------+
+| No idea without more information | 1       |
+| Sorted order of files            | 1       |
+| a list of files                  | 1       |
+| arranged order of files          | 2       |
+| files                            | 1       |
+| sorted dictionary                | 1       |
+| sorted list of files             | 3       |
++----------------------------------+---------+

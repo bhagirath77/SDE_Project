@@ -1,0 +1,14 @@
+﻿Files
+Number of characters
+English [11]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
++----+---------+
+|    | English |
++----+---------+
+| 3  | 1       |
+| 6  | 1       |
+| 13 | 1       |
+| 15 | 3       |
+| 16 | 1       |
+| 18 | 2       |
+| 21 | 2       |
++----+---------+

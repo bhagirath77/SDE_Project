@@ -1,0 +1,21 @@
+﻿Elevator
+Responses
+English [16]: Stav wants to check whether the code was properly corrected. She goes into the elevator on the 0 ground floor and presses all the buttons together. It is expected that the elevator will rise and open at each floor. Write a pseudo code loop that passes all the floors in ascending order from floor 0 and opens the door on each floor.
++------------------------------+---------+
+|                              | English |
++------------------------------+---------+
+| cur_floor, max_floors        | 1       |
+| current_floor                | 1       |
+| current_floor, max_floor     | 1       |
+| current_floor, request_floor | 1       |
+| current_floor, top_floor     | 2       |
+| floor, floors                | 2       |
+| i, floors                    | 1       |
+| i, levels                    | 1       |
+| i, max_floors, current_pos   | 1       |
+| i, n                         | 1       |
+| i, num_floors                | 1       |
+| i, top_floor                 | 1       |
+| start_floor, end_floor       | 1       |
+| top_floor                    | 1       |
++------------------------------+---------+

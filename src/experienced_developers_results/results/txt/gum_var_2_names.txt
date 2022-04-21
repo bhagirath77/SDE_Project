@@ -1,0 +1,19 @@
+﻿Gum
+Names
+English [23]: Name the variable for the hourly wage during overtime pay:
++-------------------------------+---------+
+|                               | English |
++-------------------------------+---------+
+| bonus_money_per_hour          | 1       |
+| extra_wage                    | 1       |
+| full_time_hourly_overtime_pay | 1       |
+| hourly_over_time_wage         | 1       |
+| hourly_rate                   | 1       |
+| over_pay                      | 1       |
+| over_wage                     | 1       |
+| overtime_hourly_wage          | 2       |
+| overtime_pay                  | 1       |
+| overtime_rate                 | 8       |
+| overtime_wage                 | 4       |
+| shold                         | 1       |
++-------------------------------+---------+

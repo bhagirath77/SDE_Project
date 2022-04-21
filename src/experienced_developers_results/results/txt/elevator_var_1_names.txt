@@ -1,0 +1,24 @@
+﻿Elevator
+Names
+English [25]: Replace var1 with a name you would have used.
++-----------------------+---------+
+|                       | English |
++-----------------------+---------+
+| current_floor         | 1       |
+| desirable_floor       | 1       |
+| desired_floor         | 1       |
+| dest_floor            | 1       |
+| destination_floor     | 4       |
+| dir1                  | 1       |
+| floor_to              | 1       |
+| i_dest_floor          | 1       |
+| input_floor           | 2       |
+| n_dstfloor            | 1       |
+| new_floor             | 1       |
+| press_buttom_level1   | 1       |
+| requested_floor       | 3       |
+| requested_pos         | 1       |
+| selected_floor        | 1       |
+| target_floor          | 3       |
+| var1=designated_floor | 1       |
++-----------------------+---------+

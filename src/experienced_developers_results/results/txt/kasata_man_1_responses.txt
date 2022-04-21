@@ -1,0 +1,12 @@
+﻿Kasata
+Responses
+English [20]: What do you think
+profit (units, cost, price)
+function does?
++---------------------------------------------+---------+
+|                                             | English |
++---------------------------------------------+---------+
+| Calculates profit of selling the sandwiches | 9       |
+| price-cost                                  | 1       |
+| units*(price-cost)                          | 10      |
++---------------------------------------------+---------+

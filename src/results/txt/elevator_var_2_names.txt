@@ -1,0 +1,15 @@
+﻿Elevator
+Names
+English [10]: Replace var2 with a name you would have used.
++----------------+---------+
+|                | English |
++----------------+---------+
+| curr_floor     | 1       |
+| current_floor  | 3       |
+| dca            | 1       |
+| initial_floor  | 1       |
+| input2         | 1       |
+| n              | 1       |
+| selected_floor | 1       |
+| value_2        | 1       |
++----------------+---------+

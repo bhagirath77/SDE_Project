@@ -1,0 +1,16 @@
+﻿Kasata
+Responses
+English [9]: What is the purpose of the "units" parameter?
++---------------------------------------------------------------------------------------------+---------+
+|                                                                                             | English |
++---------------------------------------------------------------------------------------------+---------+
+| "units" could be used to determine the profit on the entire batch instead of a single item. | 1       |
+| Denoted the number of units produced.                                                       | 1       |
+| How many ice cream sandwiches were sold                                                     | 1       |
+| It provides number of ice cream sandwiches to be sold.                                      | 1       |
+| More the number of units more will be profit.                                               | 1       |
+| Number of units produced                                                                    | 1       |
+| The number of units produced                                                                | 1       |
+| amount of oreos returned                                                                    | 1       |
+| indicates how many ice cream sandwiches Ori sold                                            | 1       |
++---------------------------------------------------------------------------------------------+---------+

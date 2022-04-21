@@ -1,0 +1,12 @@
+﻿Maze
+Names
+English (Maze) [4]: How would you call the variable (or data structure) keeping track of where has he already visited?
+English (Labyrinth) [4]: How would you call the variable (or data structure) keeping track of where has he already visited?
++-----------------------------------------------------------------------------+----------------+---------------------+
+|                                                                             | English (Maze) | English (Labyrinth) |
++-----------------------------------------------------------------------------+----------------+---------------------+
+| vector<pair<int,_int>>_visited_//two_co_ordinates_for_one_room_in_a_2d_maze | 1              | 0                   |
+| visited                                                                     | 2              | 2                   |
+| visited_loc                                                                 | 1              | 0                   |
+| visited_rooms                                                               | 0              | 2                   |
++-----------------------------------------------------------------------------+----------------+---------------------+

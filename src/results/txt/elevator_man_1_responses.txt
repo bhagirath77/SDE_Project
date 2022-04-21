@@ -1,0 +1,12 @@
+﻿Elevator
+Responses
+English [8]: What does this code do?
++----------------------------------------------------------------------------------+---------+
+|                                                                                  | English |
++----------------------------------------------------------------------------------+---------+
+| Depending upon the values of var1 and var2, the elevator goes either up or down. | 1       |
+| Determines the number of floors the lift has to go up or go down.                | 4       |
+| Determines whether to go up or down.                                             | 1       |
+| Move the elevator to the selected floor                                          | 1       |
+| Movement of Elevator                                                             | 1       |
++----------------------------------------------------------------------------------+---------+

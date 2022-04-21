@@ -1,0 +1,22 @@
+﻿Elevator
+Names
+English [24]: How would you call the variable describing the state of the elevator's door (open/closed)?
++---------------------------------------------------------------------+---------+
+|                                                                     | English |
++---------------------------------------------------------------------+---------+
+| b_elevator_door_state                                               | 1       |
+| b_is_door_open                                                      | 1       |
+| curr_state                                                          | 1       |
+| current_doors_state                                                 | 1       |
+| door_open_(boolean)                                                 | 1       |
+| door_state                                                          | 7       |
+| elevator_door_state                                                 | 1       |
+| elevator_state                                                      | 1       |
+| is_closed                                                           | 1       |
+| is_door_closed                                                      | 1       |
+| is_door_open                                                        | 2       |
+| is_door_opened                                                      | 1       |
+| is_open                                                             | 3       |
+| is_opened                                                           | 1       |
+| is_opened_un_cases_that_the_state_is_(boolean)_door_state_otherwise | 1       |
++---------------------------------------------------------------------+---------+

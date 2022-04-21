@@ -1,0 +1,11 @@
+﻿Kasata
+Parameters
+English [10]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
++----------------------------+---------+
+|                            | English |
++----------------------------+---------+
+| (no parameters)            | 2       |
+| biscuits, ice_cream, paper | 4       |
+| invalid                    | 3       |
+| parameters                 | 1       |
++----------------------------+---------+

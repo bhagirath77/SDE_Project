@@ -1,0 +1,16 @@
+﻿Maze
+Names
+English (Maze) [4]: How would you call the data structure describing the maze?
+English (Labyrinth) [4]: How would you call the data structure describing the labyrinth?
++------------------------------------------+----------------+---------------------+
+|                                          | English (Maze) | English (Labyrinth) |
++------------------------------------------+----------------+---------------------+
+| labyrinth_traverse(cheese_location)      | 0              | 1                   |
+| linked_list                              | 0              | 1                   |
+| map                                      | 0              | 1                   |
+| maze                                     | 0              | 1                   |
+| maze;                                    | 1              | 0                   |
+| maze;_path                               | 1              | 0                   |
+| path                                     | 1              | 0                   |
+| vector<vector<int>>_maze;_//for_2d_maze; | 1              | 0                   |
++------------------------------------------+----------------+---------------------+

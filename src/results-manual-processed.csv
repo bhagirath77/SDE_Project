@@ -1,0 +1,109 @@
+Q183_1,Q49,Q50,Q51,Q53,Q82,Q83,Q160,Q94a,Q95a,Q159,Q100,Q101,Q102,Q118,Q119,Q157,Q158,Q122,Q126
+Years of programming/software experience - Years,What do you think the interface does?,What is the purpose of hours parameter?,What is the purpose of rate parameter?,"Complete the above interface pay(hours,rate).","The implementation includes a function make_turn(int row, int col)
+What do you think it does?","What is the purpose of the ""row"" parameter?","What is the purpose of the ""col"" parameter?","The implementation includes a function make_turn(int row, int col)
+What do you think it does?","What is the purpose of the ""row"" parameter?","What is the purpose of the ""col"" parameter?","The implementation contains a function arrangeFilesByName(files)
+
+In your opinion, what does it do?",What is the role of the parameter? what is its type?,What do you think it returns?,"What do you think
+
+profit (units, cost, price)
+
+function does?","What is the purpose of the ""units"" parameter?","What is the purpose of the ""cost"" parameter?","What is the purpose of the ""price"" parameter?",What does this code do?,"Stav wants to check whether the code was properly corrected. She goes into the elevator on the 0 ground floor and presses all the buttons together. It is expected that the elevator will rise and open at each floor.
+Write a pseudo code loop that passes all the floors in ascending order from floor 0 and opens the door on each floor."
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,Sorts the files by alphabetic order.,"The ""files"" parameter are the files that would be sorted by the method. In a general implementation, ""files"" would be an array of the ""File"" class objects.",sorted list of files,Calculates the profit by selling the ice cream sandwiches,"""units"" could be used to determine the profit on the entire batch instead of a single item.",manufacturing price of the ice cream sandwich,Selling price of sandwich,,
+1,Gives the total wage of an employee based on the hourly rate and number of hours worked,It provides imperative information to calculate pay.,It provides imperative information to calculate pay.,pay = hours × rate,"It checks and marks [row, col] as taken (by the appropriate player, and updates the next player) if it is free, or throws an exception.",It denotes the vertical level of the block to be marked.,It denotes the horizontal level of the block to be marked.,,,,,,,"Calculates profit based on how many units produced, the cost of making it and cost of selling it",It provides number of ice cream sandwiches to be sold.,manufacturing price of the ice cream sandwich,Selling price of sandwich,,
+3,Gives the total wage of an employee based on the hourly rate and number of hours worked,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,pay = hours × rate,,,,,,,,,,"Calculates profit based on how many units produced, the cost of making it and cost of selling it",More the number of units more will be profit.,Represents cost of sandwich,Selling price,,
+2,,,,,,,,It checks for the possible patterns of win by constantly checking for horizontal (rows) vertically (column) and diagonally (step pattern in both parameters),indicates which horizontal row the player has selected,column in grid,sort files by name,It is a list of files,a list of files,calculate profit from selling,The number of units produced,manufacturing price of the item,Denotes the selling price per unit.,,
+3,Calculates payment,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,pay = hours × rate,"It checks and marks [row, col] as taken (by the appropriate player, and updates the next player) if it is free, or throws an exception.",denote row in board,denote column in board,,,,sort files by name,It is a list of files,arranged order of files,,,,,,
+2,Gives the total wage of an employee based on the hourly rate and number of hours worked,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,pay = hours × rate,,,,,,,sort files by name,It is a list of files,sorted list of files,,,,,Move the elevator to the selected floor,
+5,Gives the total wage of an employee based on the hourly rate and number of hours worked,It tells the no of hours an employee has worked,The rate denotes the fixed hourly wage value of the employee.,return hours*rate,,,,,,,,,,"Calculates profit based on how many units produced, the cost of making it and cost of selling it",Denoted the number of units produced.,Denotes the cost per unit.,Denotes the selling price per unit.,Determines the number of floors the lift has to go up or go down.,"int max_floor= 10, open_time;
+bool is_dest[max_floor];    
+for (int i=0; i<=max_floor; i++)  is_dest[i]= false;
+int i= curr_floor;
+while (i<=max_floor)
+{    if (is_dest[i])
+    {   open_door(open_time);
+        is_dest[i]= false; break;
+    }
+    for (; i<=max_floor, i++)  if (is_dest[i]) break;   
+}"
+28,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+20,Calculate the pay wages,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,pay = hours × rate,,,,it places the X or O on a specific tile,indicates which horizontal row the player has selected,indicates which vertical column the player has selected,Sorts the files by alphabetic order.,It is a list of files,arranged order of files,determines how much money Ori will make,indicates how many ice cream sandwiches Ori sold,manufacturing price of sandwich,Selling price of sandwich,,
+2,Calculate the pay wages,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,return hours*rate,,,,,,,Sorts the files by alphabetic order.,Take the file name. string,files,,,,,Movement of Elevator,"for i in floors:
+open()
+close()"
+1,,,,,,,,,,,,,,,,,,,
+25,Gives the total wage of an employee based on the hourly rate and number of hours worked,It tells the no of hours an employee has worked,It tells the income of an employee for an hour.,pay = hours × rate,,,,,,,Unclear without more context. Maybe it builds a dictionary or tree of the files (but then it should be called buildDictionary- or buildTree-). Maybe it sorts them by name alphabetically (but then it should be called sort-).,It is a list of files,No idea without more information,,,,,Determines the number of floors the lift has to go up or go down.,"while currentFloor < MAX_FLOOR:
+  closeDoor()
+  goUp( 1 )
+  openDoor()"
+3,,,,,Mark the cell.,denote row in board,denote column in board,,,,Sorts the files by alphabetic order.,It is a list of files,Sorted order of files,,,,,Determines whether to go up or down.,
+2,,,,,,,,,,,,,,,,,,,
+,Gives the total wage of an employee based on the hourly rate and number of hours worked,Shows how much to multiply the rate by,It tells the income of an employee for an hour.,return hours*rate,"Places an X/O in the box with co-ordinates (row, col)",denote row in board,denote column in board,,,,,,,"Takes the units sold, multiplies them by price and cost, and subtracts units*cost from units*price",How many ice cream sandwiches were sold,How much it costs to make a unit,Denotes the selling price per unit.,,
+100,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,sort files by name,"it sends the files directory, it is a dictionary",sorted dictionary,"Calculates profit based on how many units produced, the cost of making it and cost of selling it",amount of oreos returned,cost per oreo,selling price per oreo,Determines the number of floors the lift has to go up or go down.,"for i in range(1,top):
+     door_status=true
+     passenger(release)
+     door_status=false
+"
+,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,"Calcs profits based on number of units produced, their cost to produce and the proce charged per unit.",Number of units produced,Cost per unit ,Price charged per unit,,
+2,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Sorts the files by alphabetic order.,Role is as a helper function,sorted list of files,,,,,Determines the number of floors the lift has to go up or go down.,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+2,Gives the total wage of an employee based on the hourly rate and number of hours worked,It tells the no of hours an employee has worked,rate of employment,return hours*rate,,,,,,,,,,,,,,,
+6,,,,,,,,It checks for the possible patterns of win by constantly checking for horizontal (rows) vertically (column) and diagonally (step pattern in both parameters),If any row has all O or all X it should declare that variable the winner. Also if a row has 2 X with one blank or two O with one blank it may also warn the other player of a possible loss. It also checks for,indicates which vertical column the player has selected,,,,,,,,,
+50,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,"Depending upon the values of var1 and var2, the elevator goes either up or down.","for i in floors:
+open()
+close()"
+,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,31 @@
+﻿Benefits card
+Names
+English [29]: Name the constant holding the value 2000 according to its purpose.
++--------------------------------------------+---------+
+|                                            | English |
++--------------------------------------------+---------+
+| amount_needed_for_befit                    | 1       |
+| amount_per_befit                           | 1       |
+| befit_amount_ils                           | 1       |
+| befit_entitlement                          | 1       |
+| befit_rate                                 | 1       |
+| befit_threshold                            | 3       |
+| befit_value                                | 1       |
+| billed_amount_for_befit                    | 1       |
+| c_entitling_sum                            | 1       |
+| entitlements_threshold                     | 1       |
+| expense                                    | 1       |
+| ils_for_befit                              | 1       |
+| ils_per_befit                              | 4       |
+| ils_to_befit                               | 1       |
+| low_bound_ils                              | 1       |
+| max_befit_value                            | 1       |
+| min_accumulated_target                     | 1       |
+| min_shekels                                | 1       |
+| minimal_befit_expense                      | 1       |
+| one_befit                                  | 1       |
+| price_for_befit                            | 1       |
+| private_static_int_money_for_befit_=_2000; | 1       |
+| shekel_per_befit                           | 1       |
+| value_of_befit                             | 1       |
++--------------------------------------------+---------+

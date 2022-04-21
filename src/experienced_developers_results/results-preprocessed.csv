@@ -1,0 +1,123 @@
+Q54,Q55,Q61,Q62,Q63,Q79,Q80,Q81a,Q81b,Q93,Q99,Q123,Q124,Q125,Q127,Q136,Q137,Q138,Q84,Q96a,Q103,Q117,Q139
+Name the constant containing the value 45:,Name the variable for the hourly wage during overtime pay:,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the maze?,How would you call the variable holding the location of the cheese today?,How would you call the variable (or data structure) keeping track of where has he already visited?,How would you call the data structure describing the labyrinth?,How would you name the variable (or data structure) describing the current state of the game board?,How would you name the variable (or data structure) describing the current state of the game grid?,The implementation contains a class which describes a file within the system. How would you name the field describing the file’s size?,Replace var1 with a name you would have used.,Replace var2 with a name you would have used.,Replace var3 with a name you would have used.,How would you call the variable describing the state of the elevator’s door (open/closed)?,Name the constant holding the value 4 according to its purpose.,Name the constant holding the value 2000 according to its purpose.,Name the variable holding the number of benefits the client is entitled to during the current month.,Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters),Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters),"The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.","Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.","When a customer wants to use a benefit, the system executes a function which works as follows:  Input:     Number of benefits the customer is entitled to during the current month     Number of benefits the customer has used during the current month  The function calculates the difference, and returns TRUE if the balance is positive.  Write a function signature for this function."
+,,,,,,,,,grid,,,,,,MAX_BENEFITS_NUM,BENEFIT_THRESHOLD,client_benefits,,show_grid(grid),,"max_sandwiches(biscuits, icecream, paper length, paper width)","bool is_bal_positive(entitled, used)"
+FULL_TIME_WEEKLY_HOURS,overtime_rate,,,,,,,currentBoardState,,,,,,,MAX_BENEFITS_PER_MONTH,ILS_PER_BENEFIT,current_month_benefits_count,displayBoard(Board board),,,,has_available_benefits
+,,,,,,,,,,,,,,,MAX_MONTHLY_BENEFITS,BENEFIT_AMOUNT_ILS,currentMonthBenefits,,,,,HasSufficientBenefits
+,,,,,,,,,,size,,,,,,,,,,"expand_file(int add_size, int size_left)",,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,"nt wrapWidth, int wrapLength)int numSandwitchesPossible(int biacuits,int iceCream,i",
+,,cheeseLocation,locationsVisited,maze,,,,,,,,,,,,,,,,,,
+FULLTIME_POSITION,overtimeWage,,,,,,,,,,,,,,MAX_MONTH_BENEFITS,MINIMAL_BENEFIT_EXPENSE,benefits,,,,"int howManyPossiblesandwiches(biscuits, icecream, wrappingPaper)","hasMoreBenefits(benefits, used)"
+,,,,,cheeseLocation,visitedRooms,maze,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,currentGameState,,,,,,,,,,show_grid(currentGameState),,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+MIN_WEEKLY_HOURS,OVERTIME_WAGE,,,,cheese_loc,visited,graph,board,,size,,,,,MAX_BENEFITS,ILS_PER_BENEFIT,num_potential_benefits,void draw(),,"bool enough_space_left(FILE* fp, uint space_left, uint new_size)",,"bool (int num_potential_benefits, int num_used_benefits)"
+FULL_TIME_WEEKLY_HOURES,OVERTIME_WEDGE,,,,curr_pos,Position,Labyrinth,,,,input_floor,curr_floor,floor_diff,curr_state,,,,,,,,
+NORMAL_WEEK_HOURS,bonusMoneyPerHour,,,,cheeseLocation or prizeLocation or cheesePos or prizePos or targetPos or tgtPos or goalPos,"visitedLocation or visitedLoc, or visitedPos, or usedCells",labyrinth or maze or map or gameMap or level,,,,,,,,,,,,,,,
+,,,,,,,,current_state,,,,,,,,,,display_board(boolean[][] board),,,,
+,,,,,,,,,,size_in_bytes,,,,,BENEFIT_MAX_NUM,ILS_TO_BENEFIT,number_of_benefits_to_grant,,,"bool is_enough_space_to_increase_file_size(file, size_to_increase, space_available_on_disk)",,"bool does_user_has_more_benefits(number_of_benefits_to_grant, number_of_benefits_used)"
+,,currentLocation,roomsVisited,maze,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+REQUIRED_HOURS,overtime_rate,,,,,,,,,,input_floor,current_floor,floors_diff,is_closed,,,,,,,"calculate_how_many_sandwiches(biscuits, ice_cream_cups, papers)",
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,cheese_loc,checked_locs,labyrinth,,,file_size,,,,,,,,,,can_file_size_be_increased,,
+,,targetLocation,visited,maze,,,,,,,,,,,BENEFITS_ACCUMULATED_LIMIT,ILS_PER_BENEFIT,benefitsBalance,,,,,"boolean hasRemainingBenefits(int startingBalance, int amountUsed)"
+OVERTIME_THRESH,overtimeRate,curCheeseLoc,visitiedLocs,Maze,,,,curBoardState,,,,,,,,,,dispBoard(curBoardState),,,,
+,,,,,cheeseCoords,visited,labyrinth,,,,requestedFloor,currentFloor,diffFloors,doorState,,,,,,,"ingrediantsToCookies(int bis, int haldIceCreamCup, int wrapWidth, int wrapHeight)",
+,,,,,,,,,,,requested_floor,current_floor,floors_to_move,is_door_open,,,,,,,,
+,,,,,cheeseLocation,VisitedRooms,Labyrinth,,,,,,,,,,,,,,,
+,,,,,,,,,,file_size,target_floor,current_floor,floors_to_climb,is_open,MAX_NUMBER_OF_BENEFITS,AMOUNT_NEEDED_FOR_BENEFIT,benefits_entitlement_current_month,,,"check_availability (File file_to_expand, int expansion_size, int free_space)","number_of_sandwiches (int number_of_biscuits, int cups_of_ice_cream, int wrapping_paper_in_square_meters)","has_benefits(int benefits_entitlement, int benefits_used)"
+BASE_WEEKLY_HOURS,overtimeHourlyWage,dailyLocation,traversedLocations,totalLocations,,,,,,fileSize,desiredFloor,currentFloor,floorDiff,doorState,ACCUMULATION_MONTH_LIMIT,BENEFIT_RATE,curBalance,,,"public boolean checkSpace(MyFile file, int requiredSpace,int freeDiskSpace)",,"public boolean isEligible (benefitsBalance,usedBenefits)"
+BASE_SALARY_HOURS,OVERTIME_RATE,current_place,VisitedRooms,Maze,,,,GameState,,,,,,,,,,show_board(),,,"calc_sandwich_num(biscuits, icecream_cups, wrap_paper)",
+,,,,,,,,,GameBoard,,,,,,,,,,Display (),,,
+,,,,,,,,,,,target_floor,current_floor,number_of_floors_to_climb,is_open,,,,,,,,
+,,,,,,,,Status,,,,,,,,,,"Bool draw(const Board* b,const unsigned int N, const unsigned int M)",,,,
+,,cheese_location,rooms_visited,maze,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,selectedFloor,currentFloor,floorsDelta,doorState,,,,,,,,
+,,,,,Curr_cheese_loc,Visited,Lab_desc,,,,,,,,,,,,,,,
+,,,,,Cheese_room_index,Visited_rooms,Maze_board,Current_game_board,,,Press_buttom_level1,Press_button_level2,Different_between,Elevator_state,,,,"Display_game_Board(Board game_Board, UserOutput useroutput",,,,
+,,,,,,,,,,size,destinationFloor,currentFloor,floorDiff,isDoorOpened,MONTHLY_BENEFIT_LIMIT,BENEFIT_THRESHOLD,entitledBenefits,,,"private boolean canAdd(File file, int dataAmount, int freeDiskSpace)",,"boolean hasBenefits(entitledBenefits, usedBenefits)"
+,,,,,cheeseLocation,visitedCoordinates,labyrinth,boardCurrState,,,,,,,MAX_MONTHLY_BENEFITS,ENTITLEMENTS_THRESHOLD,currentMonthEntitlement,List&lt;List&lt;string&gt;&gt; getBoard(),,,,"public boolean isEntitledToUse(int currentMonthEntitlement, int currentMonthUsage)"
+,,,,,,,,,,fieldSizeBytes,,,,,,,,,,"boolean verifyFileEnhancement(File file, int bytesToEnhance, int diskFreeBytes)","int getNumSandwiches(int biscuits, double iceCreamCups, int wrapperWidth, int wrapperHeight)",
+,,,,,cheese_location,visited_map - a 2D array,a 2D array,,,_fileSize,,,,,,,,,,"boolean CanIncreaseFile(File file, int delta_bytes, int free_disk_space_bytes)",,
+,,,,,,,,,,,,,,,,,,,,,CalcQuantity,
+,,,,,,,,Matrix,,,,,,,,,,Char[][] display_matrix(),,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,MAX_ACC_BENEFITS,MAX_BENEFIT_VALUE,curr_month_benefits_amount,,,,,"boolean is_entitled(int curr_month_benefits, int used_benefits)"
+,,,,,,,,,,,targetFloor,currentFloor,distance,doorState,,,,,,,,
+,,,,,,,,,,__size,,,,,,,,,,"check_available_size(file, size)",,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,Target,Trail_history,Maze,,,,,,,,,,,,,,,,,"get_posibble_quant_of_biscuits(chock, vanila, wrap)",
+,,,,,room curCheeseRoom,bool visited,room[] Rooms,,,size,,,,,,,,,,"attemptToIncrease(file, newSize, availableSpace)",,
+,,cheese_loc,visited_locs,Maze,,,,,,,Floor_to,Floor_from,Floors_diff,Is_door_open,Max_benifits_amount,ILS_FOR_BENIFIT,Client_benifits_count,,,,,Bool is_eligible_for_benifit
+DAYS_PAYMENT_THRESHOLD,extra_wage,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Dir1,Dir2,Direction,,,,,,,,,
+BASE_RATE,hourly_rate,,,,,,,,,_size,,,,,,,,,,increaseFileSize(file),"min(biscuits//2, floor(vanilla/0.5), (wrapping_paper_height//20) * (wrapping_paper_width//10))",
+required_work_hours,overtime_rate,cheese_loc,visited_locs,maze,,,,,,,,,,,max_benefits,shekel_per_benefit,entitled_benefits_per_month,,,,"calculate_num_of_sandwiches(biscuit, ice_cream, paper)","can_use_benefit(entitled_benefits_per_month, used_benefits)"
+,,,,,,,,,,,,,,,,,,,,,"HowManySandiwichesFromIngredients(biacuitsNum, IceCreamCups, PaperArea)",
+,,,,,,,,,,_size,,,,,MAX_BENEFITS_PER_MONTH,BILLED_AMOUNT_FOR_BENEFIT,_currentNumOfBenefits,,,"hasEnoughSpaceToIncrease(File file, Number increasBy)",,"CanUseABenefit(currentNumOfBenefits, currentNumOfBenefitsUsed)"
+maxWeeklyHours,hourlyOverTimeWage,,,,cheeseLocation,visitedTree,labyrinthTree,,,,requestedFloor,currentFloor,deltaRequestVsCurrent,elevatorDoorState,,,,,,,,
+,,,,,curren_location,locations_tried,available_locations,,,size,new_floor,curren_floor,floors_to_move,is_opened,,,,,,"can_increase_file(file, size_to_@dd, availabl_space)",,
+,,cheese_posion,visited,maze,,,,,game_screen,,,,,,,,,,display_game(game_screen),,"how_many_sandwiches(biscuits,cups of ice cream, higth paper, wigth paper)",
+,,,,,,,,,,,,,,,MAX_NUMBER_OF_BENEFITS,expense,nBenefitsEntitled,,,,"int HowMuchIcecreamCanIMake(float nBiscuits, float nOfCups, float area)",
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,cheeseLoc,cheeseLocPast,labyrinth,boardState,,size,,,,,benefitsLimit,LowBoundILS,numOfBenefitsAllowed,boardDisplay(list boardMat),,"canIncreasw(file f,int space)",,canUseBenefit(user u)
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,cheeseLocation,visited,maze,,,,,,,,,,,,,,,,,,
+,,,,,,,,Board,,,,,,,,,,Print_board,,,,
+,,,,,,,,game_state,,,,,,,,,,display_noard(board),,,how_many_can_make(),
+weeklyHours,OVERTIME_PAY,,,,,,,,state,,,,,,MAX_BENEFITS,ONE_BENEFIT,numBenefits,,printState,,,"calcBenefits(entitled, used)"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,CurrentCheeseLocation,LocationsVisited,labyrinth,,,,,,,,,,,,,,,
+MIN_HOUR,OVER_WAGE,,,,,,,,,,,,,,MAX_BENEFITS,MIN_SHEKELS,cur_benefits,,,,Num_able,have_remain
+,,,,,,,,,,,,,,,MaxNumOfBenefits,ValueOfBenefit,NumofBenefits,,,,,"Boolean CheckHaveBenefits (int entitledbenefits, int usedBenefits)"
+,,,,,,,,boardState,,,,,,,,,,public void displayBoard(self),,,,
+Basic_time,Over_pay,,,,,,,,,,,,,,,,,,,,"(Public int quantity( int chocko, int vanilla,int paper",
+,,,,,,,,,game,,,,,,,,,,void DrawGrid(),,,
+,,,,,,,,,,,requested_pos,current_pos,delta_pos,door_open (boolean),,,,,,,,
+,,,,,cheese_location,areas_already_visited,labyrinth_areas_graph,,,,destination_floor,curr_floor,num_floors_to_move,door_state,,,,,,,,
+,,,,,,,,,,,currentFloor,destinationFloor,floorDistance,"isOpened un cases that the state is Boolean, doorState otherwise",,,,,,,,
+,,,,,,,,,,m_nSize,nDstfloor,nCurrentFloor,nNumOfFloorsToMove / nDeltaFloor,bIsDoorOpen,,,,,,"No need for such function. The function does not need the file argument. If we insist then: CanFileBeEnlarged(cFile, nAdditionalFileSize, nAvailableDiskSpace)",,
+,,CurrentCheeseLocation,MouseVisitedLocations,Universe,,,,,,,,,,,,,,,,,,
+,,,,,,,,current_state,,,,,,,,,,plot (current_state),,,"def how_many_sandwitches(b, v, p)",
+,,,,,,,,cState,,fsize,,,,,max_benefits_per_month,benefit_value,cntBenefits,display_state(cState),,"is_realloc_ok(newsize,available)",,"def is_balance_positive (nBenefits_Month,nBenefits_Used): return nBenefit_Month-nBenefits_Used&gt;0"
+FULL_TIME_WEEKLY_HOURS,FULL_TIME_HOURLY_OVERTIME_PAY,,,,,,,BoardState,,,,,,,,,,void displayBoard(),,,,
+,,,,,currentCheeseLocation,visitedLocations,Maze,,,,,,,,,,,,,,,
+,,,,,,,,,grid,,destinationFloor,currentFloor,numberOfFloors,isDoorClosed,,,,,()grid.draw,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,MAX_BENEFITS_PER_MONTH,ILS_PER_BENEFIT,currentBenefitsEntitlement,,,,,"bool canUseBenefit(int currentBenefitsEntitlement, int currentBenefitsUsed);"
+,,,,,,,,MBoard,,MfileSize,,,,,,,,DisplayBoard(step),,"CheckFileIncrease(file,newSize,spacer)",,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,game_state,,,,,,,,,,draw_state(game_state),,,
+FULLTIME_WEEKLY_WORK_HOURS,overtimeHourlyWage,,,,,,,,,,,,,,MAX_MONTHLY_BENEFITS,BENEFIT_THRESHOLD,numBenefitsForMonth,,,,"int calculatePotentialSandwiches(int numBiscuits, float numVanillaCups, long paperLengthCm, long paperWidthCm)","bool clientHasBalance(Client client, int numBenefitsForMonth, int numUsedBenefits)"
+,,curLoc,visited,Matrix,,,,,,m_fileSize,,,,,,,,,,"Bool isEnoughSpace(File f, unsigned int enlarge, unsigned int available)",,
+,,,,,cur_cheese_loc,visited_rooms,labyrinth,,current_board_status,,,,,,max_benefits,benefit_entitlement,accumulated_benefits,,"display_board(current_board_status, turn)",,,"use_benefit(accumulated_benefits, used_benefits)"
+,,,,,,,,,,,,,,,,,,,,,,
+,,curCheeseLocation,visitedLocations,mazeDescriptor,,,,gameBoard,,,,,,,,,,displayBoard(gameBoard),,,,
+STANDARD_PAY_HOURS,overtime_rate,,,,Current_cheese_location,visited,maze,board,,,dest_floor,src_floor,floor_diff,is_open,,,,void board::display(void) const;,,,"Int number_of_sandwiches(int biscuits, double icecream, int wrappers)",
+,,,,,,,,,,,,,,,,,,,,,,
+,,locCheeseLocation,"lstVisitedRooms (אפשר לחלק את המבוך ל""חדרים"" ו""מעברים"" ולשמור אותם. כל ""חדר"" הוא מבוי סתום).","mzMaze. שמכיל את מיקום הגבינה, מיקום העכבר הנוכחי, רשימת החברים שהעכבר ביקר בהם. ועץ החדרים(/מעברים). חדרים הם data structure קצת יותר מורכב אם לא מדובר במבוך עם מעברים מלבניים.",,,,,"למה החלק הזה של השאלון באנגלית? לא אוהב כל כך את ההתייפיפות סביב ישראלים בישראל שמדברים אנגלית, במגזר ההייטק... לא מסתדר לי אידיאולוגית. לעניין השאלה: קלאסי לממש מטריצה (מערך של מערכים) שמכיל enums של: ריק, איקס, עיגול",dFileSize,,,,,MAX_BENEFITS_PER_MONTH,PRICE_FOR_BENEFIT,nEntitledBenefits,,"התצוגה בדרך כלל רצה ב-thread נפרד, כך שפעולה שמתבצעת לא תתקע את ה-GUI. אם אני שומר את מצב הלוח במטריצה של enums, אז הייתי משתמש ב-updateBoardPresentation(matrix) כדי לעדכן את תצוגת הלוח.","bool IsEnoughSpaceForFileEnlarge(File file, double dNewSize, FileSystem fsFileSystem). כמובן שבתרחיש כזה לא מספיק לדעת *כמה* מקום פנוי יש על הדיסק, צריך גם לדעת כמה מקום פנוי רצוף יש על הדיסק. ה-FileSystem כבר ינהל איפה לשים את הקובץ. אם הייתי מקבל פרמטר כמה מקום פנוי רצוף הכי גדול יש על הדיסק, לא הייתי צריך פונקציה כדי לממש את הבדיקה הזו. בשורה אחת הייתי בודק. את הקובץ עצמו צריך רק כדי לחשב את המקום הפנוי הכי גדול על הדיסק כולל המקום של הקובץ הנוכחי, כמובן.",,"bool IsEnoughBenefitsLeft(int nEntitledBenefits, int nUsedBenefits)"
+,,,,,,,,,gameBoard,,,,,,MAX_BENEFITES_PER_MONTH,AMOUNT_PER_BENEFIT,current_month_benefits_count,,displayBoard(board),,"int getNumOfSandwiches(int biscuits, int iceCreamCups, int wrappingPaperWidth, int wrappingPaperHeight)","boolean canUseBenefit(int totalBenefits, int usedBenefits)"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,game_state,,,,,,,,,,print_game(game_state),,,
+FULL_TIME_CAP,OVERTIME_WAGE,,,,,,,,grid,,,,,,,,,,draw_grid(grid),,,
+,,,,,,,,,,,Destination_floor,Current_floor,Number_of_floors,Door_state,,,,,,,,
+,,,,,cheese_location,visited,labyrinth,,board_state,file_size,,,,,,,,,draw_grid(board_state),"isValidIncrease(file, addSpaceSize, freeSpaceSize)",,
+FULL_TIME_HOURS,OVERTIME_RATE,TODAY_CHEESE_LOCATION,visitedLocations,maze,,,,,,size,,,,,,,,,,"bool canIncreaseFilSize(file,byAmount,diskCapacity)",,
+,,targetPosition,visitedPositions,mazeMap,,,,,,,,,,,usedBenefitsCount,minAccumulatedTarget,currentBenefitsCount,,,,,"stillHasBenefits(int totalBenefits, int usedBenefits)"
+,,,,,,,,curr_board,,,,,,,,,,draw_board(Board board),,,,
+,,,,,,,,,,,,,,,,,,,,,,
+C_weeklyWorkHours,overtimeRate,,,,,,,,gridState,,var1=designatedFloor,var2=currentFloor,var3=numOfFloorsToGo,doorState,C_benefitsPerMonth,C_EntitlingSum,currentMonthBenefitsCount,,displayGrid(),,,"benefitsCurrentBalance(currentMonthBenefitsCount, currentMonthUsedBenefitsCount)"
+,,,,,cheese_location,locations_visited,labyrinth_data,,game_grid,,,,,,,,,,display_game_grid(game grid),,,
+HOURLY_WAGE_PAY_INCREASE_THREs,SHOLD,,,,current_cheese_location,rooms_visited,maze,,,,,,,,,,,,,,,
+,,,,,,,,,,,i_dest_floor,i_src_floor,i_delta_floor,b_elevator_door_state,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,cheeseCoordinates,visitedRooms,labyrinthGraph,matState,,,,,,,,,,PrintMatState(matState),,,,
+,,,,,,,,,,,desirableFloor,currentFloor,numOfFloorToMove,currentDoorsState,private static int MAX_BENEFITS_PER_MONTH = 4;,private static int MONEY_FOR_BEFIT = 2000;,private int currentMonthBenefitsNum;,,,,,"private static boolean isCanUserUseBenefit(int thisMonthBenefits, int usedBenefits);"

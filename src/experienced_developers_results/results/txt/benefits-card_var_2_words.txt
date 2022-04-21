@@ -1,0 +1,12 @@
+﻿Benefits card
+Number of words
+English [29]: Name the constant holding the value 2000 according to its purpose.
++---+---------+
+|   | English |
++---+---------+
+| 1 | 1       |
+| 2 | 9       |
+| 3 | 16      |
+| 4 | 2       |
+| 8 | 1       |
++---+---------+

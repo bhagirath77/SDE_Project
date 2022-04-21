@@ -1,0 +1,11 @@
+﻿Files
+Responses
+English [22]: The implementation contains a function arrangeFilesByName(files)
+In your opinion, what does it do?
++------------------------------------------------------------------------------+---------+
+|                                                                              | English |
++------------------------------------------------------------------------------+---------+
+| Sorts in-place                                                               | 1       |
+| returns an ordered list of the files, ordered lexicography ascending by name | 2       |
+| returns an ordered list of the files, ordered lexicography by name           | 19      |
++------------------------------------------------------------------------------+---------+

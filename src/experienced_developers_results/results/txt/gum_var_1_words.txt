@@ -1,0 +1,11 @@
+﻿Gum
+Number of words
+English [23]: Name the constant containing the value 45:
++---+---------+
+|   | English |
++---+---------+
+| 2 | 7       |
+| 3 | 10      |
+| 4 | 5       |
+| 6 | 1       |
++---+---------+

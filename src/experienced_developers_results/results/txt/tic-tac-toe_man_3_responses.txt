@@ -1,0 +1,9 @@
+﻿Tic-Tac-Toe
+Responses
+English (Grid) [15]: What is the purpose of the "col" parameter?
+English (Board) [21]: What is the purpose of the "col" parameter?
++------------------------------+----------------+-----------------+
+|                              | English (Grid) | English (Board) |
++------------------------------+----------------+-----------------+
+| Column's index to be updated | 15             | 21              |
++------------------------------+----------------+-----------------+

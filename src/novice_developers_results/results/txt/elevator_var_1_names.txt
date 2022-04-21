@@ -1,0 +1,16 @@
+﻿Elevator
+Names
+English [10]: Replace var1 with a name you would have used.
++-------------------+---------+
+|                   | English |
++-------------------+---------+
+| ac                | 1       |
+| current_floor     | 1       |
+| desired_floor     | 1       |
+| dest_floor        | 1       |
+| destination_floor | 2       |
+| final_floor       | 1       |
+| input1            | 1       |
+| one               | 1       |
+| value_1           | 1       |
++-------------------+---------+

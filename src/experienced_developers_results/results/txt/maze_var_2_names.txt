@@ -1,0 +1,29 @@
+﻿Maze
+Names
+English (Maze) [18]: How would you call the variable (or data structure) keeping track of where has he already visited?
+English (Labyrinth) [24]: How would you call the variable (or data structure) keeping track of where has he already visited?
++----------------------------------------------------------------------------------------------+----------------+---------------------+
+|                                                                                              | English (Maze) | English (Labyrinth) |
++----------------------------------------------------------------------------------------------+----------------+---------------------+
+| areas_already_visited                                                                        | 0              | 1                   |
+| bool_visited                                                                                 | 0              | 1                   |
+| checked_loc,                                                                                 | 0              | 1                   |
+| cheese_loc_past                                                                              | 0              | 1                   |
+| locations_tried                                                                              | 0              | 1                   |
+| locations_visited                                                                            | 1              | 2                   |
+| lst_visited_rooms_(אפשר_לחלק_את_המבוך_ל"חדרים"_ו"מעברים"_ולשמור_אותם_כל_"חדר"_הוא_מבוי_סתום) | 1              | 0                   |
+| mouse_visited_locations                                                                      | 1              | 0                   |
+| position                                                                                     | 0              | 1                   |
+| rooms_visited                                                                                | 2              | 1                   |
+| trail_history                                                                                | 1              | 0                   |
+| traversed_locations                                                                          | 1              | 0                   |
+| visited                                                                                      | 4              | 5                   |
+| visited_coordinates                                                                          | 0              | 1                   |
+| visited_location_or_visited_loc,_or_visited_pos,_or_used_cells                               | 0              | 1                   |
+| visited_locations                                                                            | 2              | 1                   |
+| visited_locs                                                                                 | 3              | 0                   |
+| visited_map_a_2d_array                                                                       | 0              | 1                   |
+| visited_positions                                                                            | 1              | 0                   |
+| visited_rooms                                                                                | 1              | 5                   |
+| visited_tree                                                                                 | 0              | 1                   |
++----------------------------------------------------------------------------------------------+----------------+---------------------+

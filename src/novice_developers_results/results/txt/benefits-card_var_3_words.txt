@@ -1,0 +1,10 @@
+﻿Benefits card
+Number of words
+English [9]: Name the variable holding the number of benefits the client is entitled to during the current month.
++---+---------+
+|   | English |
++---+---------+
+| 1 | 2       |
+| 2 | 4       |
+| 3 | 3       |
++---+---------+

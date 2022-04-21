@@ -1,0 +1,38 @@
+﻿Benefits card
+Names
+English [28]: When a customer wants to use a benefit, the system executes a function which works as follows:
+Input:
+
+ Number of benefits the customer is entitled to during the current month
+
+ Number of benefits the customer has used during the current month
+The function calculates the difference, and returns TRUE if the balance is positive.
+Write a function signature for this function.
++-----------------------------+---------+
+|                             | English |
++-----------------------------+---------+
+| benefits_current_balance    | 1       |
+| bool                        | 1       |
+| calc_benefits               | 1       |
+| can_use_a_benefit           | 1       |
+| can_use_benefit             | 4       |
+| check_have_benefits         | 1       |
+| client_has_balance          | 1       |
+| does_user_has_more_benefits | 1       |
+| has_available_benefits      | 1       |
+| has_benefits                | 2       |
+| has_more_benefits           | 1       |
+| has_remaining_benefits      | 1       |
+| has_sufficient_benefits     | 1       |
+| have_remain                 | 1       |
+| invalid                     | 1       |
+| is_calc_positive            | 1       |
+| is_can_user_use_benefit     | 1       |
+| is_eligible                 | 1       |
+| is_eligible_for_benefit     | 1       |
+| is_enough_benefits_left     | 1       |
+| is_entitled                 | 1       |
+| is_entitled_to_use          | 1       |
+| still_has_benefits          | 1       |
+| use_benefit                 | 1       |
++-----------------------------+---------+
