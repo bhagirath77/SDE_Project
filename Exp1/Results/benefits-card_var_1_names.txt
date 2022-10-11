@@ -1,0 +1,66 @@
+﻿Benefits card
+Names
+English [55]: Name the constant holding the value 4 according to its purpose.
+Hebrew [44]: תנו שם לקבוע שמחזיק את המספר 4 בהתאם לתפקידו.
++----------------------------+--------+---------+
+|                            | Hebrew | English |
++----------------------------+--------+---------+
+| accumulation_month_limit   | 0      | 1       |
+| benefit4                   | 0      | 1       |
+| benefit_max_num            | 0      | 1       |
+| benefits                   | 0      | 1       |
+| benefits_accumulated_limit | 0      | 1       |
+| benefits_limit             | 0      | 1       |
+| benefits_per_month         | 0      | 1       |
+| c_benefits_per_month       | 0      | 1       |
+| credit_limit               | 1      | 0       |
+| gift                       | 1      | 0       |
+| k_max_benefits             | 0      | 1       |
+| max                        | 1      | 0       |
+| max_acc_benefits           | 0      | 1       |
+| max_accu_per_month         | 0      | 1       |
+| max_allowed_benefits       | 0      | 1       |
+| max_ben                    | 1      | 0       |
+| max_benefit_num            | 0      | 1       |
+| max_benefits               | 1      | 14      |
+| max_benefits_amount        | 0      | 1       |
+| max_benefits_num           | 0      | 2       |
+| max_benefits_per_month     | 1      | 12      |
+| max_bonus                  | 1      | 0       |
+| max_bonus_per_month        | 1      | 0       |
+| max_gifts                  | 1      | 0       |
+| max_gifts_per_month        | 3      | 0       |
+| max_month_benefits         | 0      | 1       |
+| max_month_pinukim          | 1      | 0       |
+| max_monthly_benefits       | 0      | 3       |
+| max_monthly_gifts          | 1      | 0       |
+| max_monthly_treats         | 2      | 0       |
+| max_num_benefits           | 0      | 1       |
+| max_num_of_benefits        | 1      | 1       |
+| max_number_of_benefits     | 0      | 3       |
+| max_number_of_treats       | 1      | 0       |
+| max_pampers_per_month      | 1      | 0       |
+| max_perks                  | 2      | 0       |
+| max_pinuk                  | 2      | 0       |
+| max_pinuk_in_month         | 1      | 0       |
+| max_pinukim                | 3      | 0       |
+| max_pinukim_per_month      | 1      | 0       |
+| max_pinuks                 | 1      | 0       |
+| max_points_for_month       | 1      | 0       |
+| max_prizes                 | 1      | 0       |
+| max_rewards_per_month      | 1      | 0       |
+| max_treats                 | 2      | 0       |
+| max_treats_per_month       | 2      | 0       |
+| maximum_monthly_matanot    | 1      | 0       |
+| monthly_benefit_limit      | 0      | 1       |
+| monthly_treats_limit       | 1      | 0       |
+| num_of_possible_benefits   | 0      | 1       |
+| number_of_pinukim          | 1      | 0       |
+| numpinooks                 | 1      | 0       |
+| pinuk_counter              | 1      | 0       |
+| top_benefits               | 1      | 0       |
+| treat                      | 1      | 0       |
+| used                       | 1      | 0       |
+| used_benefits_count        | 0      | 1       |
+| user_gifts                 | 0      | 1       |
++----------------------------+--------+---------+

@@ -1,0 +1,13 @@
+﻿Tic-Tac-Toe
+Number of words
+English (Grid) [27]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters)
+English (Board) [40]: Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters)
+Hebrew [28]: כדי לשחק צריך להציג את הלוח למשתמש. הצע חתימה לפונקציה שעושה זאת (שם פונקציה + פרמטרים).
++---+--------+----------------+-----------------+
+|   | Hebrew | English (Grid) | English (Board) |
++---+--------+----------------+-----------------+
+| 1 | 4      | 3              | 7               |
+| 2 | 18     | 22             | 31              |
+| 3 | 5      | 2              | 2               |
+| 4 | 1      | 0              | 0               |
++---+--------+----------------+-----------------+

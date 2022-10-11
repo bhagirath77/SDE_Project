@@ -1,0 +1,92 @@
+﻿Benefits card
+Names
+English [55]: Name the variable holding the number of benefits the client is entitled to during the current month.
+Hebrew [44]: תנו שם משתנה למספר הפינוקים להם זכאי הלקוח בחודש הנוכחי.
++------------------------------------+--------+---------+
+|                                    | Hebrew | English |
++------------------------------------+--------+---------+
+| accumulated_benefits               | 0      | 1       |
+| allowed_perks                      | 1      | 0       |
+| aquired_pinukim                    | 1      | 0       |
+| available_benefit                  | 0      | 1       |
+| available_customer_pinukim         | 1      | 0       |
+| available_pinuks                   | 2      | 0       |
+| availablepinook                    | 1      | 0       |
+| benefitnum                         | 0      | 1       |
+| benefits                           | 0      | 2       |
+| benefits_balance                   | 0      | 1       |
+| benefits_entitlement_current_month | 0      | 1       |
+| benefits_gained                    | 0      | 1       |
+| benefits_number                    | 0      | 2       |
+| benefits_per_month                 | 0      | 1       |
+| client_benefits                    | 0      | 2       |
+| client_benefits_count              | 0      | 1       |
+| client_prizes_num                  | 1      | 0       |
+| cnt_benefits                       | 0      | 1       |
+| count_benefits                     | 1      | 0       |
+| credit_balance                     | 1      | 0       |
+| curr_balance                       | 0      | 1       |
+| curr_ben                           | 1      | 0       |
+| curr_benefits                      | 0      | 2       |
+| curr_month_benefit                 | 0      | 1       |
+| curr_month_benefits                | 0      | 1       |
+| curr_month_benefits_amount         | 0      | 1       |
+| curr_monthly_bonuses               | 1      | 0       |
+| curr_num_rewards_available         | 1      | 0       |
+| curr_pinuk                         | 1      | 0       |
+| current_benefits                   | 0      | 2       |
+| current_benefits_count             | 0      | 1       |
+| current_benefits_entitlement       | 0      | 1       |
+| current_benefits_num               | 0      | 1       |
+| current_gift                       | 1      | 0       |
+| current_gift_this_month            | 1      | 0       |
+| current_month_benefits             | 0      | 2       |
+| current_month_benefits_count       | 0      | 3       |
+| current_month_benefits_entitled    | 0      | 1       |
+| current_month_benefits_num         | 0      | 1       |
+| current_month_entitlement          | 0      | 1       |
+| current_month_entitlness           | 1      | 0       |
+| current_month_treats               | 1      | 0       |
+| current_num_benefits               | 0      | 1       |
+| current_num_of_benefits            | 0      | 1       |
+| current_number_of_treats           | 1      | 0       |
+| current_period_treats              | 1      | 0       |
+| current_perks                      | 1      | 0       |
+| current_points                     | 1      | 0       |
+| customer_benefits                  | 0      | 1       |
+| customer_treats                    | 1      | 0       |
+| eligible_treats_curr_month         | 1      | 0       |
+| entitled_benefits                  | 0      | 2       |
+| entitled_benefits_per_month        | 0      | 1       |
+| gained_treats                      | 1      | 0       |
+| gifts_amount                       | 1      | 0       |
+| gifts_num                          | 1      | 0       |
+| max_treat                          | 1      | 0       |
+| month_bonus                        | 1      | 0       |
+| month_gifts                        | 0      | 1       |
+| monthly_benefits                   | 0      | 1       |
+| monthly_gifts_left                 | 1      | 0       |
+| monthly_treats_limit               | 1      | 0       |
+| n_benefits_entitled                | 0      | 1       |
+| n_current_benefits                 | 0      | 1       |
+| n_entitled_benefits                | 0      | 1       |
+| n_gifts_in_current_month           | 1      | 0       |
+| num_benefits                       | 0      | 3       |
+| num_benefits_for_month             | 0      | 1       |
+| num_of_benefits                    | 2      | 1       |
+| num_of_benefits_allowed            | 0      | 1       |
+| num_of_entitled                    | 0      | 1       |
+| num_of_pinukim                     | 1      | 0       |
+| num_of_treats                      | 1      | 0       |
+| num_pinukim                        | 2      | 0       |
+| num_potential_benefits             | 0      | 1       |
+| number_of_benefits_to_grant        | 0      | 1       |
+| number_of_deserved_pinuks          | 1      | 0       |
+| numof_benefits                     | 0      | 1       |
+| personal_pampers                   | 1      | 0       |
+| pinukim_curr_month                 | 1      | 0       |
+| pinuks                             | 1      | 0       |
+| total_bonus                        | 1      | 0       |
+| use                                | 1      | 0       |
+| user_num_gifts                     | 1      | 0       |
++------------------------------------+--------+---------+

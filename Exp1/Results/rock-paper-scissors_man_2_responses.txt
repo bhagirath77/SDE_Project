@@ -1,0 +1,25 @@
+﻿Rock Paper Scissors
+Responses
+Hebrew [95]: מה הערכים האפשריים לערך המוחזר?
++--------------------------------------+--------+
+|                                      | Hebrew |
++--------------------------------------+--------+
+| "Player A", "Player B"               | 4      |
+| -1, 0, 1                             | 8      |
+| -1, 0, 1 or winner's name            | 1      |
+| -1, 1                                | 1      |
+| 0, 1                                 | 20     |
+| 0, 1, 2                              | 7      |
+| 1, 2                                 | 6      |
+| 1=A, 2=B, 0=Tie                      | 1      |
+| A, B                                 | 2      |
+| ID or name                           | 1      |
+| MatchResult containing winner or tie | 1      |
+| Player ID or tie                     | 1      |
+| PlayerA, PlayerB (enum)              | 3      |
+| PlayerA, PlayerB, Tie (enum)         | 6      |
+| Reference to winner                  | 17     |
+| Reference to winner or null          | 6      |
+| True, false                          | 9      |
+| Winner's name                        | 1      |
++--------------------------------------+--------+

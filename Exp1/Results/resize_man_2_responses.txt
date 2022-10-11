@@ -1,0 +1,17 @@
+﻿Resize
+Responses
+Hebrew [103]: לאובייקט תמונה יש שדה המציין את רוחב התמונה, width.כתוב את שורת הקוד המעדכנת את שדה זה בפונקציה הנ"ל.
++-----------------------+--------+
+|                       | Hebrew |
++-----------------------+--------+
+| I don't know          | 1      |
+| Resize(width)         | 3      |
+| width *= factor       | 62     |
+| width *= factor^2     | 1      |
+| width *= sqrt(factor) | 4      |
+| width += factor       | 1      |
+| width /= factor       | 5      |
+| width = 30            | 1      |
+| width = new_width     | 23     |
+| width = width + delta | 2      |
++-----------------------+--------+

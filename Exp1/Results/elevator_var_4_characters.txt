@@ -1,0 +1,20 @@
+﻿Elevator
+Number of characters
+English [40]: How would you call the variable describing the state of the elevator's door (open/closed)?
+Hebrew [49]: איך הייתם קוראים למשתנה שמתאר את מצב הדלת (פתוחה/סגורה)?
++----+--------+---------+
+|    | Hebrew | English |
++----+--------+---------+
+| 4  | 3      | 1       |
+| 5  | 0      | 1       |
+| 6  | 7      | 1       |
+| 7  | 2      | 4       |
+| 8  | 0      | 1       |
+| 9  | 7      | 12      |
+| 10 | 15     | 9       |
+| 11 | 3      | 1       |
+| 12 | 7      | 5       |
+| 14 | 3      | 2       |
+| 17 | 2      | 2       |
+| 21 | 0      | 1       |
++----+--------+---------+

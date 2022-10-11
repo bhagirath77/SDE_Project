@@ -1,0 +1,55 @@
+﻿Maze
+Names
+English (Maze) [27]: How would you call the variable (or data structure) keeping track of where has he already visited?
+English (Labyrinth) [43]: How would you call the variable (or data structure) keeping track of where has he already visited?
+Hebrew [35]: איך תקרא למשתנה (או למבנה הנתונים) שעוקב אחרי איפה הוא כבר היה?
++--------------------------+--------+----------------+---------------------+
+|                          | Hebrew | English (Maze) | English (Labyrinth) |
++--------------------------+--------+----------------+---------------------+
+| already_been_there       | 1      | 0              | 0                   |
+| already_has_been         | 1      | 0              | 0                   |
+| already_visited          | 0      | 0              | 2                   |
+| areas_already_visited    | 0      | 0              | 1                   |
+| bad_list                 | 0      | 0              | 1                   |
+| checked_locs             | 0      | 0              | 1                   |
+| cheese_loc_past          | 0      | 0              | 1                   |
+| cheese_location_history  | 2      | 0              | 0                   |
+| cheese_locations         | 1      | 0              | 0                   |
+| chy                      | 1      | 0              | 0                   |
+| columbus_was_here        | 0      | 0              | 1                   |
+| former_locations         | 1      | 0              | 0                   |
+| list_of_visited_location | 0      | 0              | 1                   |
+| loc_history              | 1      | 0              | 0                   |
+| location_history         | 1      | 0              | 0                   |
+| locations_tried          | 0      | 0              | 1                   |
+| locations_visited        | 0      | 1              | 2                   |
+| lst_visited_rooms        | 0      | 1              | 0                   |
+| mouse_pos_history        | 1      | 0              | 0                   |
+| mouse_track              | 1      | 0              | 0                   |
+| mouse_visited_locations  | 0      | 1              | 0                   |
+| passed_path              | 1      | 0              | 0                   |
+| past_visits              | 1      | 0              | 0                   |
+| places_searched          | 1      | 0              | 0                   |
+| position                 | 0      | 0              | 1                   |
+| prev_cheese_locs         | 1      | 0              | 0                   |
+| prev_location            | 0      | 0              | 1                   |
+| rooms_history            | 0      | 1              | 0                   |
+| rooms_visited            | 1      | 2              | 2                   |
+| seen_locations           | 1      | 0              | 0                   |
+| trace_map                | 1      | 0              | 0                   |
+| trail_history            | 0      | 1              | 0                   |
+| traversed_locations      | 0      | 1              | 0                   |
+| visit_location_history   | 1      | 0              | 0                   |
+| visited                  | 7      | 9              | 13                  |
+| visited_cells            | 1      | 0              | 0                   |
+| visited_coordinates      | 0      | 0              | 2                   |
+| visited_location         | 0      | 2              | 1                   |
+| visited_locations        | 1      | 2              | 1                   |
+| visited_locs             | 0      | 3              | 1                   |
+| visited_map              | 1      | 0              | 1                   |
+| visited_places           | 1      | 0              | 1                   |
+| visited_positions        | 1      | 1              | 0                   |
+| visited_rooms            | 3      | 2              | 7                   |
+| visited_tree             | 0      | 0              | 1                   |
+| wherethemicewas          | 1      | 0              | 0                   |
++--------------------------+--------+----------------+---------------------+

@@ -1,0 +1,12 @@
+﻿Benefits card
+Number of words
+English [55]: Name the constant holding the value 4 according to its purpose.
+Hebrew [44]: תנו שם לקבוע שמחזיק את המספר 4 בהתאם לתפקידו.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 5      | 2       |
+| 2 | 18     | 16      |
+| 3 | 7      | 18      |
+| 4 | 14     | 19      |
++---+--------+---------+

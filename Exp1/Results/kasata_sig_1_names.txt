@@ -1,0 +1,87 @@
+﻿Kasata
+Names
+English [41]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
+Hebrew [47]: כתבו חתימה לממשק שיעזור לאורי לחשב, בהינתן כמויות המצרכים הבסיסים שבידיו, כמה קסטות יוכל להכין.
++------------------------------------------+--------+---------+
+|                                          | Hebrew | English |
++------------------------------------------+--------+---------+
+| amount                                   | 2      | 0       |
+| amount_can_be_made                       | 1      | 0       |
+| amount_of_cookies                        | 1      | 0       |
+| amount_of_kasatas                        | 1      | 0       |
+| calc_amount_of_possible_casatot          | 1      | 0       |
+| calc_cassets_amount                      | 1      | 0       |
+| calc_kasata                              | 1      | 0       |
+| calc_num_of_kasata                       | 1      | 0       |
+| calc_num_of_kasatas                      | 1      | 0       |
+| calc_num_units                           | 1      | 0       |
+| calc_number_of_kasata                    | 1      | 0       |
+| calc_number_sandwiches_possible          | 0      | 1       |
+| calc_quantity                            | 1      | 2       |
+| calc_sandwich_num                        | 0      | 1       |
+| calc_sandwiches_num                      | 0      | 1       |
+| calculate_amount_of_casatot              | 1      | 0       |
+| calculate_amount_of_kasata               | 1      | 0       |
+| calculate_how_many_sandwiches            | 0      | 1       |
+| calculate_ice                            | 1      | 0       |
+| calculate_ice_quantity_from_ingredients  | 1      | 0       |
+| calculate_ingredients                    | 0      | 1       |
+| calculate_kasata_num                     | 1      | 0       |
+| calculate_kasatas_units                  | 1      | 0       |
+| calculate_max_sandwiches_for_ingredients | 0      | 1       |
+| calculate_num_of_sandwiches              | 0      | 1       |
+| calculate_potential_sandwiches           | 0      | 1       |
+| calculate_profit                         | 0      | 1       |
+| calculation                              | 0      | 1       |
+| can_make                                 | 1      | 0       |
+| can_produce                              | 0      | 2       |
+| casetas_available                        | 1      | 0       |
+| casetas_num                              | 1      | 0       |
+| cassette                                 | 1      | 0       |
+| cassette_cap                             | 1      | 0       |
+| get_num_kasatas                          | 1      | 0       |
+| get_num_of_sandwiches                    | 0      | 1       |
+| get_num_products                         | 1      | 0       |
+| get_num_sandwiches                       | 0      | 1       |
+| get_possible_quant_of_biscuits           | 0      | 1       |
+| how_many                                 | 0      | 1       |
+| how_many_bisx                            | 1      | 0       |
+| how_many_can_make                        | 0      | 1       |
+| how_many_casetas                         | 1      | 0       |
+| how_many_kasata                          | 2      | 0       |
+| how_many_possiblesandwiches              | 0      | 1       |
+| how_many_sandwiches                      | 0      | 2       |
+| how_many_sandwiches_from_ingredients     | 0      | 1       |
+| how_much_icecream_can_i_make             | 0      | 1       |
+| ice_cream_units                          | 1      | 0       |
+| icecakefactory                           | 1      | 0       |
+| ingredients_to_cookies                   | 0      | 1       |
+| kasata                                   | 1      | 0       |
+| kasata_amount_per_stock                  | 1      | 0       |
+| kasata_number                            | 1      | 0       |
+| kasata_potential                         | 1      | 0       |
+| kasatas_num                              | 1      | 0       |
+| kasatas_number                           | 1      | 0       |
+| max_kasatas                              | 1      | 0       |
+| max_num_of_sandwiches                    | 0      | 1       |
+| max_num_sandwiches                       | 0      | 1       |
+| max_sandwiches                           | 0      | 2       |
+| num_able                                 | 0      | 1       |
+| num_ice_cream_sandwich                   | 0      | 1       |
+| num_kasata_possible                      | 1      | 0       |
+| num_of_casetas                           | 1      | 0       |
+| num_of_icecream                          | 2      | 0       |
+| num_of_kasatas                           | 1      | 0       |
+| num_sandwiches_possible                  | 0      | 1       |
+| number_of_sandwiches                     | 0      | 2       |
+| numof_casetas_from_ingredients           | 1      | 0       |
+| potential_cookies                        | 0      | 1       |
+| predict_yield                            | 0      | 1       |
+| product_expected_quantity                | 1      | 0       |
+| quantity                                 | 0      | 1       |
+| sandwich_amount                          | 0      | 1       |
+| sandwich_potential                       | 0      | 1       |
+| sandwich_quantity                        | 0      | 1       |
+| total_amount_productable                 | 0      | 1       |
+| units                                    | 1      | 0       |
++------------------------------------------+--------+---------+

@@ -1,0 +1,79 @@
+﻿Minesweeper
+Names
+English [43]: We will have a data structure which assigns a number to each square in the board as follows:
+• -1 if the square contains a mine
+• The number of mines in the adjacent squares otherwise
+How will you name this data structure?
+Hebrew [52]: נחזיק מבנה נתונים שמתאים לכל משבצת בלוח מספר באופן הבא:​ ​• 1- אם המשבצת מכילה מוקש. • מספר המוקשים במשבצות הצמודות אליה, אחרת.
+איזה שם תיתן בקוד שלך למבנה נתונים זה?
++--------------------------------+--------+---------+
+|                                | Hebrew | English |
++--------------------------------+--------+---------+
+| adjacent_mines                 | 0      | 2       |
+| adjacent_mines_array           | 0      | 1       |
+| board                          | 6      | 3       |
+| board_config                   | 1      | 0       |
+| board_game                     | 0      | 1       |
+| board_matrix                   | 1      | 0       |
+| board_mines                    | 0      | 1       |
+| board_proerties                | 1      | 0       |
+| board_setting                  | 1      | 0       |
+| board_values                   | 1      | 0       |
+| bombs_state                    | 1      | 0       |
+| cell                           | 2      | 2       |
+| cell_data                      | 2      | 1       |
+| cell_info                      | 1      | 0       |
+| cell_val                       | 1      | 0       |
+| cell_values                    | 1      | 0       |
+| cells_value                    | 0      | 1       |
+| coordinates_info               | 1      | 0       |
+| danger                         | 1      | 0       |
+| game_board                     | 2      | 2       |
+| game_cell                      | 1      | 1       |
+| game_map                       | 0      | 1       |
+| game_mat                       | 0      | 1       |
+| game_square_mines_in_proximity | 1      | 0       |
+| game_table                     | 1      | 0       |
+| grid                           | 0      | 5       |
+| grid_mine_map                  | 0      | 1       |
+| grid_score                     | 0      | 1       |
+| grid_structure                 | 0      | 1       |
+| is_bomb                        | 1      | 0       |
+| m_cell_state                   | 1      | 0       |
+| map_of_bombs                   | 1      | 0       |
+| matrix                         | 1      | 0       |
+| mine_board                     | 1      | 0       |
+| mine_data_grid                 | 0      | 1       |
+| mine_field                     | 2      | 0       |
+| mine_field_map                 | 0      | 1       |
+| mine_grid                      | 2      | 0       |
+| mine_map                       | 1      | 0       |
+| mine_number                    | 1      | 0       |
+| mine_or_adj_count              | 1      | 0       |
+| mine_status                    | 1      | 1       |
+| mine_teller                    | 0      | 1       |
+| mine_value_assigner            | 0      | 1       |
+| minefield                      | 1      | 0       |
+| mines                          | 0      | 1       |
+| mines_in_square                | 1      | 0       |
+| mines_indicator                | 1      | 0       |
+| mines_info_map                 | 0      | 1       |
+| mines_map                      | 1      | 2       |
+| mines_mat                      | 1      | 0       |
+| mines_matrix                   | 1      | 0       |
+| mines_num                      | 1      | 0       |
+| mines_per_square               | 0      | 1       |
+| mines_square                   | 1      | 0       |
+| minesweeper_board              | 1      | 1       |
+| num_mines                      | 1      | 0       |
+| num_of_mines                   | 0      | 1       |
+| number_of_mines                | 0      | 1       |
+| pannel                         | 1      | 0       |
+| slot                           | 1      | 0       |
+| slot_mine_val                  | 0      | 1       |
+| square                         | 0      | 1       |
+| square_info                    | 1      | 0       |
+| squares_data                   | 0      | 1       |
+| the_board                      | 0      | 1       |
+| tile                           | 0      | 1       |
++--------------------------------+--------+---------+

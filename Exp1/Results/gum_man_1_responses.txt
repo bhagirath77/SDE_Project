@@ -1,0 +1,15 @@
+﻿Gum
+Responses
+English [44]: What do you think the interface does?
+Hebrew [43]: מה לדעתך עושה הממשק?
++-------------------------------------------------------------------+--------+---------+
+|                                                                   | Hebrew | English |
++-------------------------------------------------------------------+--------+---------+
+| Defines employee's rate and required hours                        | 1      | 0       |
+| Either calculates payment or transfers payment                    | 1      | 0       |
+| Method of "Employee" class to transfer funds given hours and rate | 1      | 0       |
+| Returns amount to pay given hours and rate                        | 19     | 30      |
+| Transfers funds given hours and rate                              | 21     | 11      |
+| Transfers funds to all employees given hours and rate             | 0      | 1       |
+| Transfers salary                                                  | 0      | 2       |
++-------------------------------------------------------------------+--------+---------+

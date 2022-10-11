@@ -1,0 +1,13 @@
+﻿Benefits card
+Number of words
+English [55]: Name the variable holding the number of benefits the client is entitled to during the current month.
+Hebrew [44]: תנו שם משתנה למספר הפינוקים להם זכאי הלקוח בחודש הנוכחי.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 3      | 3       |
+| 2 | 21     | 23      |
+| 3 | 14     | 17      |
+| 4 | 5      | 11      |
+| 5 | 1      | 1       |
++---+--------+---------+

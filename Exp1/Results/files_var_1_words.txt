@@ -1,0 +1,12 @@
+﻿Files
+Number of words
+English [44]: The implementation contains a class which describes a file within the system. How would you name the field describing the file's size?
+Hebrew [56]: במימוש יש מחלקה המתארת קובץ במערכת. מה לדעתך יהיה שם השדה המתאר את גודל הקובץ?
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 27     | 22      |
+| 2 | 26     | 17      |
+| 3 | 2      | 5       |
+| 4 | 1      | 0       |
++---+--------+---------+

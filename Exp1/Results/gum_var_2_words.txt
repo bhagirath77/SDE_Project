@@ -1,0 +1,13 @@
+﻿Gum
+Number of words
+English [42]: Name the variable for the hourly wage during overtime pay:
+Hebrew [43]: תנו שם למשתנה עבור ערך השכר לשעה בשעות הנוספות:
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 4      | 1       |
+| 2 | 10     | 27      |
+| 3 | 20     | 10      |
+| 4 | 7      | 3       |
+| 5 | 2      | 1       |
++---+--------+---------+

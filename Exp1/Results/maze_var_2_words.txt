@@ -1,0 +1,13 @@
+﻿Maze
+Number of words
+English (Maze) [27]: How would you call the variable (or data structure) keeping track of where has he already visited?
+English (Labyrinth) [43]: How would you call the variable (or data structure) keeping track of where has he already visited?
+Hebrew [35]: איך תקרא למשתנה (או למבנה הנתונים) שעוקב אחרי איפה הוא כבר היה?
++---+--------+----------------+---------------------+
+|   | Hebrew | English (Maze) | English (Labyrinth) |
++---+--------+----------------+---------------------+
+| 1 | 9      | 9              | 14                  |
+| 2 | 19     | 16             | 25                  |
+| 3 | 7      | 2              | 3                   |
+| 4 | 0      | 0              | 1                   |
++---+--------+----------------+---------------------+

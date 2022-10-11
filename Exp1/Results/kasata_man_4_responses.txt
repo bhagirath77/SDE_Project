@@ -1,0 +1,11 @@
+﻿Kasata
+Responses
+English [38]: What is the purpose of the "price" parameter?
+Hebrew [44]: מה מציין פרמטר price?
++----------------------------+--------+---------+
+|                            | Hebrew | English |
++----------------------------+--------+---------+
+| Price per unit             | 0      | 15      |
+| Selling price per sandwich | 43     | 23      |
+| Toal selling price         | 1      | 0       |
++----------------------------+--------+---------+

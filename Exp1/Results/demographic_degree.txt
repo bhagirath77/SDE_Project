@@ -1,0 +1,9 @@
+﻿Demographic info
+Degree
++---------------------+-----+
+|                     |     |
++---------------------+-----+
+| Bachelor's Degree   | 110 |
+| Doctorate or higher | 13  |
+| Master's Degree     | 36  |
++---------------------+-----+

@@ -1,0 +1,28 @@
+﻿Minesweeper
+Number of characters
+English [45]: The game's level of difficulty depends on the grid size and the number of mines in it.
+Write a function signature for a function which receives the above parameters and returns the level of difficulty of the game.
+Hebrew [52]: דרגת קושי המשחק תלויה בממדי הלוח ובמספר המוקשים בו. כתוב חתימה לפונקציה שמקבלת את הפרמטרים הנ"ל ומחזירה את דרגת הקושי של המשחק.
++----+--------+---------+
+|    | Hebrew | English |
++----+--------+---------+
+| 4  | 1      | 0       |
+| 5  | 2      | 2       |
+| 8  | 5      | 0       |
+| 9  | 6      | 1       |
+| 10 | 7      | 8       |
+| 11 | 2      | 0       |
+| 12 | 3      | 0       |
+| 13 | 6      | 5       |
+| 14 | 5      | 9       |
+| 15 | 3      | 6       |
+| 16 | 2      | 4       |
+| 17 | 0      | 3       |
+| 18 | 2      | 3       |
+| 19 | 3      | 2       |
+| 20 | 2      | 0       |
+| 21 | 0      | 1       |
+| 23 | 1      | 0       |
+| 24 | 1      | 1       |
+| 26 | 1      | 0       |
++----+--------+---------+

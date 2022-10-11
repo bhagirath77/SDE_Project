@@ -1,0 +1,23 @@
+﻿Files
+Responses
+English [43]: What is its type?
+Hebrew [54]: מה טיפוסו?
++-----------------------------+--------+---------+
+|                             | Hebrew | English |
++-----------------------------+--------+---------+
+| Array                       | 2      | 2       |
+| File                        | 0      | 1       |
+| File object                 | 2      | 0       |
+| Files                       | 6      | 3       |
+| List of file names          | 3      | 2       |
+| List of file types          | 1      | 0       |
+| List of files               | 33     | 32      |
+| List of files (in-place)    | 0      | 1       |
+| List of files or file names | 2      | 0       |
+| List of files or in-place   | 1      | 0       |
+| List of objects             | 1      | 0       |
+| List of strings             | 0      | 2       |
+| Reference to files          | 1      | 0       |
+| String                      | 1      | 0       |
+| int                         | 1      | 0       |
++-----------------------------+--------+---------+

@@ -1,0 +1,45 @@
+﻿Tic-Tac-Toe
+Names
+English (Grid) [27]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters)
+English (Board) [40]: Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters)
+Hebrew [28]: כדי לשחק צריך להציג את הלוח למשתמש. הצע חתימה לפונקציה שעושה זאת (שם פונקציה + פרמטרים).
++------------------------------+--------+----------------+-----------------+
+|                              | Hebrew | English (Grid) | English (Board) |
++------------------------------+--------+----------------+-----------------+
+| board_display                | 0      | 0              | 1               |
+| disp_board                   | 0      | 0              | 1               |
+| display                      | 3      | 2              | 4               |
+| display_board                | 3      | 3              | 16              |
+| display_board_state          | 1      | 0              | 0               |
+| display_current_board_status | 1      | 0              | 0               |
+| display_game                 | 0      | 1              | 0               |
+| display_game_board           | 0      | 0              | 1               |
+| display_game_grid            | 0      | 1              | 0               |
+| display_grid                 | 0      | 4              | 0               |
+| display_matrix               | 0      | 0              | 1               |
+| display_state                | 0      | 0              | 2               |
+| draw                         | 0      | 1              | 2               |
+| draw_board                   | 1      | 0              | 2               |
+| draw_grid                    | 0      | 3              | 0               |
+| draw_state                   | 0      | 1              | 0               |
+| get_board                    | 2      | 0              | 2               |
+| get_board_state              | 1      | 0              | 0               |
+| plot                         | 0      | 0              | 1               |
+| print_board                  | 5      | 0              | 4               |
+| print_game                   | 0      | 2              | 0               |
+| print_grid                   | 0      | 1              | 0               |
+| print_mat_state              | 0      | 0              | 1               |
+| print_state                  | 0      | 1              | 0               |
+| print_table                  | 0      | 0              | 1               |
+| print_to_console             | 1      | 0              | 0               |
+| print_to_screen              | 1      | 0              | 0               |
+| see_board                    | 1      | 0              | 0               |
+| show                         | 1      | 0              | 0               |
+| show_board                   | 4      | 3              | 1               |
+| show_game_board              | 1      | 0              | 0               |
+| show_grid                    | 0      | 2              | 0               |
+| show_table                   | 0      | 1              | 0               |
+| to_string                    | 1      | 0              | 0               |
+| update_board_presentation    | 0      | 1              | 0               |
+| xo_play                      | 1      | 0              | 0               |
++------------------------------+--------+----------------+-----------------+

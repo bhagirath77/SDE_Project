@@ -1,0 +1,13 @@
+﻿Gum
+Number of words
+English [42]: Name the constant containing the value 45:
+Hebrew [43]: תנו שם לקבוע 45:
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 2      | 1       |
+| 2 | 7      | 13      |
+| 3 | 23     | 19      |
+| 4 | 11     | 8       |
+| 6 | 0      | 1       |
++---+--------+---------+

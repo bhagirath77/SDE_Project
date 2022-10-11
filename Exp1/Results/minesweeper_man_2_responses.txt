@@ -1,0 +1,40 @@
+﻿Minesweeper
+Responses
+English [43]: What do you think is the function of the following interface:
+expose(row, col)
+Hebrew [50]: מה לדעתך עושה הממשק הבא:
+(expose(row, col
++-------------------------------------------------------------------------------------+--------+---------+
+|                                                                                     | Hebrew | English |
++-------------------------------------------------------------------------------------+--------+---------+
+| Calculates the new board state after clicking on a tile                             | 1      | 0       |
+| Clicks on a tile                                                                    | 2      | 0       |
+| Don't know                                                                          | 0      | 1       |
+| Ends the game if there's a mine, otherwise exposes a tile                           | 4      | 2       |
+| Ends the game if there's a mine, otherwise exposes a tile and possibly nearby tiles | 0      | 2       |
+| Expose a tile according to game rules                                               | 0      | 1       |
+| Exposes a tile                                                                      | 27     | 22      |
+| Exposes a tile according to the game rules                                          | 0      | 4       |
+| Exposes a tile after clicking on it                                                 | 1      | 1       |
+| Exposes a tile and returns its value                                                | 1      | 0       |
+| Exposes a tile and returns whether there is a mine in it                            | 1      | 0       |
+| Exposes a tile and tiles around it                                                  | 2      | 0       |
+| Exposes a tile and updates adjacent cells if necessary                              | 1      | 0       |
+| Exposes a tile without win/lose logic                                               | 0      | 1       |
+| Exposes a tile, exposes also adjacent tiles if empty                                | 1      | 0       |
+| Exposes a tile, updates the grid and returns whether the player won                 | 0      | 1       |
+| Exposes a tile, whether clicked or as part of a group                               | 1      | 0       |
+| Exposes all mines in a certain row and column                                       | 1      | 0       |
+| Exposes whether there's a mine at a tile                                            | 0      | 1       |
+| Handles a mouse click on a tile                                                     | 1      | 1       |
+| Handles a mouse click on a tile then win/lose                                       | 0      | 1       |
+| Returns list of (coord, value) tuples where value is not 0 which enclose the tile   | 0      | 1       |
+| Returns the new grid, with cells exposed or all mines blown                         | 0      | 1       |
+| Returns the number of mines                                                         | 0      | 1       |
+| Returns the number of mines in a tile                                               | 1      | 0       |
+| Returns the numeric value of a time                                                 | 1      | 0       |
+| Returns the tile's value                                                            | 0      | 1       |
+| Returns whether there is a mine in a tile                                           | 2      | 0       |
+| Returns whether those coords have a mine                                            | 1      | 0       |
+| Updates GUI after clicking on a tile                                                | 1      | 1       |
++-------------------------------------------------------------------------------------+--------+---------+

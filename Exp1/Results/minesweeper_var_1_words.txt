@@ -1,0 +1,13 @@
+﻿Minesweeper
+Number of words
+English [47]: How would you call the variable which holds the game time?
+Hebrew [51]: איך תקרא למשתנה שמחזיק את זמן המשחק?
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 17     | 14      |
+| 2 | 28     | 28      |
+| 3 | 4      | 4       |
+| 4 | 1      | 1       |
+| 5 | 1      | 0       |
++---+--------+---------+
