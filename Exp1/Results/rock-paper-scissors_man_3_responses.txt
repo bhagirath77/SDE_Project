@@ -1,0 +1,18 @@
+﻿Rock Paper Scissors
+Responses
+Hebrew [89]: מה תפקידם של הפרמטרים?
++---------------------------------------------------------+--------+
+|                                                         | Hebrew |
++---------------------------------------------------------+--------+
+| Don't know                                              | 1      |
+| Indicates winner                                        | 2      |
+| Irrelevant since game is played by choices, not players | 1      |
+| Player names                                            | 4      |
+| Player objects                                          | 13     |
+| Player selections (R/P/C)                               | 55     |
+| Players                                                 | 6      |
+| Represent players                                       | 4      |
+| Simulate game on players A, B                           | 1      |
+| Update players with loss or victory                     | 1      |
+| User-readable results                                   | 1      |
++---------------------------------------------------------+--------+

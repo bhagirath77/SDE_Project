@@ -1,0 +1,12 @@
+﻿Kasata
+Responses
+English [37]: What is the purpose of the "cost" parameter?
+Hebrew [46]: מה מציין פרמטר cost?
++---------------------------------------+--------+---------+
+|                                       | Hebrew | English |
++---------------------------------------+--------+---------+
+| Cost per unit                         | 35     | 34      |
+| Manufacturing cost                    | 5      | 0       |
+| Not clear if it is unit or total cost | 1      | 1       |
+| Price of producing all sandwiches     | 5      | 2       |
++---------------------------------------+--------+---------+

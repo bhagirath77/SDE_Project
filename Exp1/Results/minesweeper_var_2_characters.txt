@@ -1,0 +1,28 @@
+﻿Minesweeper
+Number of characters
+English [43]: We will have a data structure which assigns a number to each square in the board as follows:
+• -1 if the square contains a mine
+• The number of mines in the adjacent squares otherwise
+How will you name this data structure?
+Hebrew [52]: נחזיק מבנה נתונים שמתאים לכל משבצת בלוח מספר באופן הבא:​ ​• 1- אם המשבצת מכילה מוקש. • מספר המוקשים במשבצות הצמודות אליה, אחרת.
+איזה שם תיתן בקוד שלך למבנה נתונים זה?
++----+--------+---------+
+|    | Hebrew | English |
++----+--------+---------+
+| 4  | 3      | 8       |
+| 5  | 6      | 4       |
+| 6  | 3      | 1       |
+| 7  | 2      | 1       |
+| 8  | 5      | 4       |
+| 9  | 12     | 5       |
+| 10 | 5      | 2       |
+| 11 | 4      | 5       |
+| 12 | 5      | 3       |
+| 13 | 0      | 4       |
+| 14 | 2      | 3       |
+| 15 | 2      | 0       |
+| 16 | 2      | 1       |
+| 17 | 0      | 1       |
+| 18 | 0      | 1       |
+| 26 | 1      | 0       |
++----+--------+---------+

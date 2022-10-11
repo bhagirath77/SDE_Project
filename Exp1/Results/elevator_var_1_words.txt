@@ -1,0 +1,11 @@
+﻿Elevator
+Number of words
+English [41]: Replace var1 with a name you would have used.
+Hebrew [49]: החלף var1 בשם בו אתה היית משתמש.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 6      | 5       |
+| 2 | 42     | 32      |
+| 3 | 1      | 4       |
++---+--------+---------+

@@ -1,0 +1,13 @@
+﻿Tic-Tac-Toe
+Number of words
+English (Grid) [26]: How would you name the variable (or data structure) describing the current state of the game grid?
+English (Board) [40]: How would you name the variable (or data structure) describing the current state of the game board?
+Hebrew [28]: מה יהיה שם המשתנה (או מבנה הנתונים) שמתאר/מחזיק את מצב לוח המשחק כרגע?
++---+--------+----------------+-----------------+
+|   | Hebrew | English (Grid) | English (Board) |
++---+--------+----------------+-----------------+
+| 1 | 17     | 9              | 11              |
+| 2 | 8      | 14             | 21              |
+| 3 | 3      | 2              | 6               |
+| 4 | 0      | 1              | 2               |
++---+--------+----------------+-----------------+

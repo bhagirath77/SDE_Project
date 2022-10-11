@@ -1,0 +1,28 @@
+﻿Rock Paper Scissors
+Responses
+Hebrew [84]: מה הערכים האפשריים שלהם?
++-------------------------------------------+--------+
+|                                           | Hebrew |
++-------------------------------------------+--------+
+| "Rock", "Paper", "Scissors"               | 5      |
+| 0, 1                                      | 4      |
+| 0, 1, 2                                   | 12     |
+| 1, 2                                      | 1      |
+| 1, 2, 3                                   | 4      |
+| 1...Number of players                     | 1      |
+| A', 'B'                                   | 1      |
+| Any valid string                          | 1      |
+| Choice history array                      | 1      |
+| Object                                    | 2      |
+| Player ID                                 | 1      |
+| Player object                             | 14     |
+| Player object containing choice           | 6      |
+| Player object containing choices          | 1      |
+| PlayerA, PlayerB, Tie (enum)              | 1      |
+| Rock, Paper, Scissors (enum)              | 16     |
+| Rock, Paper, Scissors (objects)           | 1      |
+| Rock, Paper, Scissors (unspecified type)  | 9      |
+| Rock, Player, Scissors (unspecified type) | 1      |
+| Unique player identifier                  | 1      |
+| Winner player object or null              | 1      |
++-------------------------------------------+--------+

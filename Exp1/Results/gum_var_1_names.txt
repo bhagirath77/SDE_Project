@@ -1,0 +1,76 @@
+﻿Gum
+Names
+English [42]: Name the constant containing the value 45:
+Hebrew [43]: תנו שם לקבוע 45:
++---------------------------------+--------+---------+
+|                                 | Hebrew | English |
++---------------------------------+--------+---------+
+| 45_extra                        | 1      | 0       |
+| additional_hours_threshold      | 1      | 0       |
+| base_hours_per_week             | 1      | 0       |
+| base_hours_weekly               | 1      | 0       |
+| base_rate                       | 1      | 1       |
+| base_salary_hours               | 0      | 1       |
+| base_weekly_hours               | 0      | 1       |
+| basic_time                      | 0      | 1       |
+| bonus_addition                  | 0      | 1       |
+| c_weekly_work_hours             | 0      | 1       |
+| cap_hours_count                 | 0      | 1       |
+| days_payment_threshold          | 0      | 1       |
+| f_full_schedule                 | 1      | 0       |
+| full_job_constant               | 1      | 0       |
+| full_job_hours                  | 4      | 0       |
+| full_position_threshold         | 1      | 0       |
+| full_time                       | 1      | 0       |
+| full_time_cap                   | 0      | 1       |
+| full_time_capacity              | 0      | 1       |
+| full_time_hours                 | 5      | 3       |
+| full_time_job                   | 0      | 1       |
+| full_time_job_hours             | 1      | 0       |
+| full_time_job_rate              | 1      | 0       |
+| full_time_position_hours        | 0      | 1       |
+| full_time_weekly_hours          | 0      | 3       |
+| fulltime                        | 1      | 0       |
+| fulltime_position               | 0      | 1       |
+| fulltime_weekly_work_hours      | 0      | 1       |
+| fulltimehours                   | 1      | 0       |
+| hourly_rate                     | 1      | 0       |
+| hourly_wage_pay_increase_thr_es | 0      | 1       |
+| hours_for_week                  | 1      | 0       |
+| hours_full_job                  | 1      | 0       |
+| hours_full_time                 | 0      | 2       |
+| hours_in_full_time              | 1      | 0       |
+| hours_per_week                  | 1      | 0       |
+| k_full_time_hours               | 0      | 1       |
+| max_hours_per_week              | 2      | 0       |
+| max_hours_without_overtime      | 0      | 1       |
+| max_monthly_work_hours          | 1      | 0       |
+| max_normal_rate_hours           | 1      | 0       |
+| max_weekly_hours                | 0      | 1       |
+| min_hour                        | 0      | 1       |
+| min_hours                       | 0      | 1       |
+| min_weekly_hours                | 0      | 1       |
+| n_weekly_hours                  | 0      | 1       |
+| normal_hours_per_week           | 1      | 0       |
+| normal_week_hours               | 0      | 1       |
+| overtime_boundry                | 1      | 0       |
+| overtime_hours_threshold        | 1      | 0       |
+| overtime_reached_threshold      | 1      | 0       |
+| overtime_thresh                 | 0      | 1       |
+| raise_infimum                   | 0      | 1       |
+| reg_rate                        | 0      | 1       |
+| regular_hours                   | 0      | 1       |
+| regular_rate                    | 1      | 0       |
+| regular_week_work_hours         | 1      | 0       |
+| required_hours                  | 0      | 1       |
+| required_work_hours             | 0      | 1       |
+| standard_pay_hours              | 0      | 1       |
+| val                             | 0      | 1       |
+| week_full_work                  | 1      | 0       |
+| weekly_hours                    | 1      | 2       |
+| weekly_hours_qouta              | 1      | 0       |
+| weekly_work_hours               | 0      | 1       |
+| work_hours_full_week            | 1      | 0       |
+| workhours_per_week              | 1      | 0       |
+| working_hours_full              | 1      | 0       |
++---------------------------------+--------+---------+

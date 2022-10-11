@@ -1,0 +1,16 @@
+﻿Files
+Responses
+English [45]: The implementation contains a function arrangeFilesByName(files)
+In your opinion, what does it do?
+Hebrew [55]: במימוש יש פונקציה arrangeFilesByName(files) למה לדעתך היא משמשת?
++------------------------------------------------------------------------------+--------+---------+
+|                                                                              | Hebrew | English |
++------------------------------------------------------------------------------+--------+---------+
+| Sorts in-place                                                               | 0      | 1       |
+| Unclear                                                                      | 1      | 0       |
+| returns an ordered list of the files                                         | 2      | 0       |
+| returns an ordered list of the files, ordered by name                        | 24     | 0       |
+| returns an ordered list of the files, ordered lexicography ascending by name | 4      | 6       |
+| returns an ordered list of the files, ordered lexicography by name           | 23     | 38      |
+| show list of files, sorted lexicographically by name                         | 1      | 0       |
++------------------------------------------------------------------------------+--------+---------+

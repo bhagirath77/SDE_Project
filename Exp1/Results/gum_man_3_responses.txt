@@ -1,0 +1,13 @@
+﻿Gum
+Responses
+English [38]: Implement the interface.
+Hebrew [42]: מה תפקידו של פרמטר rate?
++---------------------------------------+--------+---------+
+|                                       | Hebrew | English |
++---------------------------------------+--------+---------+
+| An employee hourly wage               | 41     | 0       |
+| An employee rank for wage calculation | 1      | 0       |
+| hours*cost                            | 0      | 1       |
+| hours*rate                            | 0      | 36      |
+| return hours*rate                     | 0      | 1       |
++---------------------------------------+--------+---------+

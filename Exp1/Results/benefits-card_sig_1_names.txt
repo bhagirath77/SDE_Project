@@ -1,0 +1,96 @@
+﻿Benefits card
+Names
+English [54]: When a customer wants to use a benefit, the system executes a function which works as follows:
+Input:
+
+ Number of benefits the customer is entitled to during the current month
+
+ Number of benefits the customer has used during the current month
+The function calculates the difference, and returns TRUE if the balance is positive.
+Write a function signature for this function.
+Hebrew [41]: כאשר משתמש רוצה לנצל פינוק, המערכת מפעילה פונקציה שפועלת כך:
+מקבלת:
+
+כמה פינוקים אותו הלקוח זכאי החודש
+
+כמה פינוקים אותו הלקוח ניצל החודש
+הפונקציה מחשבת את ההפרש. אם היתרה חיובית הפונקציה מחזירה TRUE.
+כתבו חתימה לפונקציה הזו.
++--------------------------------+--------+---------+
+|                                | Hebrew | English |
++--------------------------------+--------+---------+
+| allow_to_use_benefits          | 0      | 1       |
+| balance_calc                   | 0      | 1       |
+| benefits_current_balance       | 0      | 1       |
+| bool                           | 0      | 1       |
+| calc_benefit                   | 0      | 1       |
+| calc_benefits                  | 0      | 1       |
+| can_get_gifts                  | 1      | 0       |
+| can_get_pinuk                  | 1      | 0       |
+| can_unlock_pinuk               | 1      | 0       |
+| can_use_a_benefit              | 0      | 1       |
+| can_use_benefit                | 1      | 8       |
+| can_use_credit                 | 1      | 0       |
+| can_use_gift                   | 2      | 0       |
+| can_use_pinuk                  | 1      | 0       |
+| can_use_points                 | 1      | 0       |
+| canusepinook                   | 1      | 0       |
+| check_balance                  | 0      | 2       |
+| check_have_benefits            | 0      | 1       |
+| check_pinuk                    | 1      | 0       |
+| check_quota                    | 1      | 0       |
+| check_treats                   | 1      | 0       |
+| client_has_balance             | 0      | 1       |
+| difference                     | 1      | 1       |
+| does_user_has_more_benefits    | 0      | 1       |
+| elligible                      | 1      | 0       |
+| entitled_to_benefit            | 0      | 1       |
+| exists_valid_benefits          | 0      | 1       |
+| get_available_treats           | 1      | 0       |
+| get_benefit_balance            | 0      | 1       |
+| has_available_benefits         | 0      | 1       |
+| has_available_treats           | 1      | 0       |
+| has_benefits                   | 0      | 3       |
+| has_bonus                      | 1      | 0       |
+| has_bonuses_left               | 1      | 0       |
+| has_more_benefits              | 0      | 1       |
+| has_more_treats                | 1      | 0       |
+| has_pinuk                      | 1      | 0       |
+| has_positive_balance           | 1      | 0       |
+| has_remaining_benefits         | 0      | 1       |
+| has_sufficient_benefits        | 0      | 1       |
+| has_valid_benefits             | 1      | 0       |
+| have_remain                    | 0      | 1       |
+| is_bal_positive                | 0      | 1       |
+| is_balance                     | 0      | 1       |
+| is_balance_positive            | 1      | 3       |
+| is_benefits_available          | 0      | 1       |
+| is_bonus_available             | 1      | 0       |
+| is_can_user_use_benefit        | 0      | 1       |
+| is_eligible                    | 0      | 2       |
+| is_eligible_for_benefit        | 0      | 1       |
+| is_elligible                   | 1      | 0       |
+| is_elligible_for_perk          | 1      | 0       |
+| is_enough_benefits_left        | 0      | 1       |
+| is_entitled                    | 1      | 2       |
+| is_entitled_this_month         | 1      | 0       |
+| is_entitled_to_use             | 0      | 1       |
+| is_gifts_left                  | 1      | 0       |
+| is_have_pinukim                | 1      | 0       |
+| is_pinuk_allowed               | 1      | 0       |
+| is_pinuk_valid                 | 1      | 0       |
+| is_positive_balance            | 0      | 1       |
+| is_remaningt_treat             | 1      | 0       |
+| legable_for_benefit            | 0      | 1       |
+| num_of_benefits_is_bigger_than | 0      | 1       |
+| pinuk                          | 1      | 0       |
+| pinuk_available                | 1      | 0       |
+| prize_using_ability            | 1      | 0       |
+| still_has_benefits             | 0      | 1       |
+| treat_diff                     | 1      | 0       |
+| use_benefit                    | 0      | 3       |
+| use_gift                       | 1      | 0       |
+| use_pampers                    | 1      | 0       |
+| use_pinuk                      | 1      | 0       |
+| what                           | 0      | 1       |
++--------------------------------+--------+---------+

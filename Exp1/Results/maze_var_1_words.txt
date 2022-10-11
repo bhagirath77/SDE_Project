@@ -1,0 +1,13 @@
+﻿Maze
+Number of words
+English (Maze) [27]: How would you call the variable holding the location of the cheese today?
+English (Labyrinth) [44]: How would you call the variable holding the location of the cheese today?
+Hebrew [35]: איך תקרא למשתנה שמציין היכן הגבינה היום?
++---+--------+----------------+---------------------+
+|   | Hebrew | English (Maze) | English (Labyrinth) |
++---+--------+----------------+---------------------+
+| 1 | 3      | 1              | 1                   |
+| 2 | 15     | 19             | 29                  |
+| 3 | 16     | 7              | 12                  |
+| 4 | 1      | 0              | 2                   |
++---+--------+----------------+---------------------+

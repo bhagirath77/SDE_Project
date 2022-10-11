@@ -1,0 +1,15 @@
+﻿Files
+Number of words
+English [44]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
+Hebrew [54]: במימוש יש פונקציה שמקבלת קובץ, בכמה רוצים להגדיל אותו, ואת השטח הפנוי בדיסק, ובודקת האם יש מספיק מקום. הצע חתימה לפונקציה הזו.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 3      | 2       |
+| 2 | 14     | 13      |
+| 3 | 23     | 18      |
+| 4 | 11     | 6       |
+| 5 | 1      | 3       |
+| 6 | 2      | 1       |
+| 7 | 0      | 1       |
++---+--------+---------+

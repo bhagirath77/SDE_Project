@@ -1,0 +1,10 @@
+﻿Minesweeper
+Responses
+English [51]: Are you familiar with this game?
+Hebrew [54]: האם את מכיר את המשחק?
++-----+--------+---------+
+|     | Hebrew | English |
++-----+--------+---------+
+| No  | 1      | 1       |
+| Yes | 53     | 50      |
++-----+--------+---------+

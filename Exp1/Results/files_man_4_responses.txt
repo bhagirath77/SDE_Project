@@ -1,0 +1,35 @@
+﻿Files
+Responses
+English [44]: What do you think it returns?
+Hebrew [55]: מה לדעתך היא מחזירה?
++---------------------------------------------------------------+--------+---------+
+|                                                               | Hebrew | English |
++---------------------------------------------------------------+--------+---------+
+| Array                                                         | 1      | 1       |
+| Boolean value                                                 | 1      | 0       |
+| Either boolean or sorted list of files, depending on language | 1      | 0       |
+| Either list or void                                           | 1      | 0       |
+| Either sorted copy of input or void (in-place sorting)        | 1      | 0       |
+| Either sorted list of files or void (in-place sorting)        | 2      | 2       |
+| List of file names                                            | 0      | 1       |
+| List of files                                                 | 2      | 4       |
+| List of objects                                               | 1      | 0       |
+| Numeric return code                                           | 1      | 0       |
+| Ordered list of files                                         | 0      | 2       |
+| Sorted copy of input                                          | 5      | 3       |
+| Sorted copy or reference to input                             | 1      | 0       |
+| Sorted list                                                   | 1      | 2       |
+| Sorted list of file indices                                   | 1      | 0       |
+| Sorted list of file names                                     | 2      | 0       |
+| Sorted list of files                                          | 19     | 17      |
+| Sorted list of files or file names                            | 1      | 0       |
+| Sorted reference to input object, or void                     | 0      | 1       |
+| Text file with sorted names                                   | 1      | 0       |
+| True if succeeded sorting, false otherwise                    | 0      | 1       |
+| Unclear, maybe void                                           | 1      | 0       |
+| void                                                          | 4      | 5       |
+| void (in-place sorting)                                       | 6      | 4       |
+| void or result code                                           | 1      | 0       |
+| void or result code - number of files reordered               | 1      | 0       |
+| void or success/failure                                       | 0      | 1       |
++---------------------------------------------------------------+--------+---------+

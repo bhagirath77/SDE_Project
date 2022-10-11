@@ -1,0 +1,52 @@
+﻿Elevator
+Responses
+English [30]: Stav wants to check whether the code was properly corrected. She goes into the elevator on the 0 ground floor and presses all the buttons together. It is expected that the elevator will rise and open at each floor. Write a pseudo code loop that passes all the floors in ascending order from floor 0 and opens the door on each floor.
+Hebrew [33]: סתיו רוצה לבדוק אם תיקנה כמו שצריך את הקוד. היא נכנסת למעלית בקומה 0 התחתונה ולוחצת על כל הכפתורים יחדיו. הציפיה היא שהמעלית תעלה ותיפתח קומה קומה.
+כתבו פסאודו קוד של לולאה שעוברת על כל הקומות בסדר עולה החל מקומה 0 ופותחת את הדלת בכל קומה.
++-------------------------------------+--------+---------+
+|                                     | Hebrew | English |
++-------------------------------------+--------+---------+
+| b, buttons                          | 1      | 0       |
+| button_pressed                      | 0      | 1       |
+| cur_floor, max_floors               | 0      | 1       |
+| curr_floor, top_floor               | 1      | 0       |
+| current, max_floor                  | 1      | 0       |
+| current_floor                       | 0      | 1       |
+| current_floor, max_floor            | 0      | 1       |
+| current_floor, request_floor        | 0      | 1       |
+| current_floor, top_floor            | 0      | 2       |
+| current_level, top_level            | 1      | 0       |
+| current_story                       | 1      | 0       |
+| dest, pressed_floors, dest, curr    | 0      | 1       |
+| floor, end                          | 1      | 0       |
+| floor, floor_count                  | 1      | 0       |
+| floor, floors                       | 4      | 2       |
+| floor, max_floor                    | 0      | 4       |
+| floor, num_floors                   | 1      | 1       |
+| floor, number_of_floors             | 1      | 0       |
+| floor_idx, N                        | 1      | 0       |
+| floor_index, number_of_floors       | 1      | 0       |
+| floors, top_floor                   | 1      | 0       |
+| i, building_floors                  | 1      | 0       |
+| i, end                              | 0      | 1       |
+| i, floor_num                        | 1      | 0       |
+| i, floors                           | 1      | 2       |
+| i, highest_floor                    | 1      | 0       |
+| i, k_floor_count                    | 0      | 1       |
+| i, last floor                       | 1      | 0       |
+| i, last_floor                       | 0      | 1       |
+| i, length                           | 1      | 0       |
+| i, levels                           | 0      | 1       |
+| i, max_floor                        | 3      | 0       |
+| i, max_floors, current_pos          | 0      | 1       |
+| i, max_level                        | 0      | 1       |
+| i, n                                | 1      | 1       |
+| i, n, default_waiting_time, cur_pos | 1      | 0       |
+| i, num_floors                       | 1      | 2       |
+| i, num_of_floors                    | 0      | 1       |
+| i, top_floor                        | 3      | 1       |
+| i, total_floors                     | 1      | 0       |
+| start_floor, end_floor              | 0      | 1       |
+| target, num_floors                  | 1      | 0       |
+| top_floor                           | 0      | 1       |
++-------------------------------------+--------+---------+

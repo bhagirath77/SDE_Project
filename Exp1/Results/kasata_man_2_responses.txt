@@ -1,0 +1,16 @@
+﻿Kasata
+Responses
+English [36]: What is the purpose of the "units" parameter?
+Hebrew [47]: מה מציין פרמטר units?
++-------------------------------------------------+--------+---------+
+|                                                 | Hebrew | English |
++-------------------------------------------------+--------+---------+
+| Amount of each ingredient                       | 3      | 3       |
+| Number of items to buy and sell                 | 1      | 0       |
+| Number of sandwiches                            | 15     | 0       |
+| Number of sandwiches produced                   | 15     | 0       |
+| Number of sandwiches produced or sold           | 1      | 0       |
+| Number of sandwiches produced or to be produced | 1      | 0       |
+| Number of sandwiches to check profit            | 1      | 0       |
+| Number of sold sandwiches                       | 10     | 33      |
++-------------------------------------------------+--------+---------+

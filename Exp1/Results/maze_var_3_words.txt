@@ -1,0 +1,12 @@
+﻿Maze
+Number of words
+English (Maze) [27]: How would you call the data structure describing the maze?
+English (Labyrinth) [43]: How would you call the data structure describing the labyrinth?
+Hebrew [35]: איך תקרא למבנה הנתונים שמתאר את המבוך?
++---+--------+----------------+---------------------+
+|   | Hebrew | English (Maze) | English (Labyrinth) |
++---+--------+----------------+---------------------+
+| 1 | 32     | 21             | 31                  |
+| 2 | 3      | 6              | 11                  |
+| 3 | 0      | 0              | 1                   |
++---+--------+----------------+---------------------+

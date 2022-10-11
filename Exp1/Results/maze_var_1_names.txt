@@ -1,0 +1,60 @@
+﻿Maze
+Names
+English (Maze) [27]: How would you call the variable holding the location of the cheese today?
+English (Labyrinth) [44]: How would you call the variable holding the location of the cheese today?
+Hebrew [35]: איך תקרא למשתנה שמציין היכן הגבינה היום?
++---------------------------+--------+----------------+---------------------+
+|                           | Hebrew | English (Maze) | English (Labyrinth) |
++---------------------------+--------+----------------+---------------------+
+| cheese_coordinates        | 0      | 0              | 1                   |
+| cheese_coords             | 0      | 0              | 1                   |
+| cheese_curr_pos           | 1      | 0              | 0                   |
+| cheese_loc                | 5      | 2              | 6                   |
+| cheese_loc_today          | 1      | 0              | 0                   |
+| cheese_location           | 4      | 8              | 13                  |
+| cheese_place              | 2      | 0              | 0                   |
+| cheese_pos                | 1      | 0              | 1                   |
+| cheese_position           | 1      | 1              | 0                   |
+| cheese_room_index         | 0      | 0              | 1                   |
+| cheese_today              | 0      | 0              | 1                   |
+| cheesyplace               | 1      | 0              | 0                   |
+| cht                       | 1      | 0              | 0                   |
+| cizz_loc                  | 1      | 0              | 0                   |
+| coordinate_to_find        | 0      | 0              | 1                   |
+| cur_cheese_loc            | 0      | 1              | 0                   |
+| cur_cheese_location       | 0      | 1              | 0                   |
+| cur_loc                   | 0      | 1              | 0                   |
+| curr                      | 1      | 0              | 0                   |
+| curr_cheese_loc           | 0      | 0              | 2                   |
+| curr_cheese_location      | 2      | 0              | 0                   |
+| curr_cheese_pos           | 1      | 0              | 0                   |
+| curr_cheese_position      | 1      | 0              | 0                   |
+| curr_cheese_room          | 0      | 0              | 1                   |
+| curr_location             | 1      | 0              | 2                   |
+| curr_location_cheese      | 1      | 0              | 0                   |
+| curr_pos                  | 0      | 0              | 1                   |
+| current_cheese            | 0      | 1              | 0                   |
+| current_cheese_loc        | 1      | 0              | 0                   |
+| current_cheese_location   | 3      | 2              | 6                   |
+| current_location          | 0      | 1              | 1                   |
+| current_place             | 0      | 1              | 0                   |
+| current_target_room       | 1      | 0              | 0                   |
+| daily_cheese_ind          | 1      | 0              | 0                   |
+| daily_cheese_loc          | 1      | 0              | 0                   |
+| daily_cheese_location     | 1      | 0              | 0                   |
+| daily_location            | 0      | 1              | 0                   |
+| desire_plase              | 0      | 0              | 1                   |
+| get_today_cheese_location | 0      | 0              | 1                   |
+| last_room_cheese_located  | 1      | 0              | 0                   |
+| loc_cheese                | 0      | 0              | 1                   |
+| loc_cheese_location       | 0      | 1              | 0                   |
+| maze_cheese_pos           | 1      | 0              | 0                   |
+| objective_location        | 0      | 1              | 0                   |
+| rand_cheese_loc           | 0      | 0              | 1                   |
+| room_with_cheese          | 0      | 1              | 0                   |
+| target                    | 0      | 1              | 1                   |
+| target_location           | 0      | 1              | 0                   |
+| target_position           | 0      | 1              | 0                   |
+| today_cheese_location     | 0      | 1              | 0                   |
+| where_is_my_cheese        | 0      | 0              | 1                   |
++---------------------------+--------+----------------+---------------------+

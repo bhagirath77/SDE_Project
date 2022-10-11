@@ -1,0 +1,94 @@
+﻿Benefits card
+Names
+English [55]: Name the constant holding the value 2000 according to its purpose.
+Hebrew [44]: תנו שם לקבוע שמחזיק את המספר 2000 בהתאם לתפקידו.
++------------------------------+--------+---------+
+|                              | Hebrew | English |
++------------------------------+--------+---------+
+| account                      | 1      | 0       |
+| amount_needed_for_benefit    | 0      | 1       |
+| amount_per_benefit           | 1      | 2       |
+| amount_to_credit             | 1      | 0       |
+| benefit2000                  | 0      | 1       |
+| benefit_amount_ils           | 0      | 1       |
+| benefit_break                | 0      | 1       |
+| benefit_cost                 | 0      | 1       |
+| benefit_entitlement          | 0      | 1       |
+| benefit_rate                 | 0      | 2       |
+| benefit_start                | 1      | 0       |
+| benefit_threshold            | 0      | 3       |
+| benefit_to_ils               | 0      | 1       |
+| benefit_value                | 0      | 3       |
+| bill                         | 0      | 1       |
+| billed_amount_for_benefit    | 0      | 1       |
+| billed_for_benefit           | 0      | 1       |
+| billing_sum_for_benefit      | 0      | 1       |
+| bonus_spending_limit         | 1      | 0       |
+| bonus_step                   | 1      | 0       |
+| c_entitling_sum              | 0      | 1       |
+| credits_per_gift             | 1      | 0       |
+| entitlements_threshold       | 0      | 1       |
+| exchange_rate                | 0      | 1       |
+| expense                      | 0      | 1       |
+| expenses_treats_ratio        | 1      | 0       |
+| gift_cost                    | 1      | 0       |
+| gift_threshold               | 1      | 0       |
+| ils_for_benefit              | 0      | 1       |
+| ils_per_benefit              | 0      | 5       |
+| ils_to_benefit               | 0      | 1       |
+| ils_to_benefit_rate          | 0      | 1       |
+| ils_to_benefits              | 0      | 1       |
+| is_entitled_for_benefit      | 1      | 0       |
+| k_amount_per_benefit         | 0      | 1       |
+| last_month_credit            | 1      | 0       |
+| low_bound_ils                | 0      | 1       |
+| matana_threshold             | 1      | 0       |
+| max_benefit_value            | 0      | 1       |
+| max_income                   | 0      | 1       |
+| max_monthly_bonuses          | 1      | 0       |
+| min_accumulated_target       | 0      | 1       |
+| min_benefit_sum              | 0      | 1       |
+| min_billing_amount           | 0      | 1       |
+| min_cash_to_pinuk            | 1      | 0       |
+| min_many_for_pinuk           | 1      | 0       |
+| min_pay_for_pinuk            | 1      | 0       |
+| min_shekels                  | 0      | 1       |
+| min_spending_for_treat       | 1      | 0       |
+| minimal_benefit_expense      | 0      | 1       |
+| minmum_ils                   | 0      | 1       |
+| money                        | 0      | 1       |
+| money_for_benefit            | 0      | 1       |
+| money_for_prize              | 1      | 0       |
+| money_needed_for_point       | 1      | 0       |
+| money_per_pinuk              | 1      | 0       |
+| money_to_gift_threshold      | 1      | 0       |
+| money_to_pamper_ratio        | 1      | 0       |
+| monthly_bill_to_earn_benefit | 0      | 1       |
+| n_benefit_point              | 0      | 1       |
+| nis_per_treat                | 1      | 0       |
+| one_benefit                  | 0      | 1       |
+| payment_per_pinuk            | 1      | 0       |
+| perk_cost                    | 1      | 0       |
+| pinookcap                    | 1      | 0       |
+| pinuk                        | 1      | 0       |
+| pinuk_money                  | 1      | 0       |
+| pinuk_price                  | 1      | 0       |
+| pinuk_worth                  | 1      | 0       |
+| price_for_benefit            | 0      | 1       |
+| price_level                  | 0      | 1       |
+| price_rewards_pinuk          | 1      | 0       |
+| ratio_of_money_to_benefit    | 0      | 1       |
+| required_expenses_for_gift   | 1      | 0       |
+| reward_price                 | 1      | 0       |
+| shekel_per_benefit           | 0      | 1       |
+| shekels_per_pinuk            | 1      | 0       |
+| single_treat_charge          | 1      | 0       |
+| spending_increment           | 1      | 0       |
+| sum_to_benefit               | 0      | 1       |
+| thresh                       | 1      | 0       |
+| treat_cost                   | 2      | 0       |
+| treat_price                  | 2      | 0       |
+| treat_th                     | 1      | 0       |
+| triggering_amount            | 1      | 0       |
+| value_of_benefit             | 0      | 1       |
++------------------------------+--------+---------+

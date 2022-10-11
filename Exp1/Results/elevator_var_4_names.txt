@@ -1,0 +1,34 @@
+﻿Elevator
+Names
+English [40]: How would you call the variable describing the state of the elevator's door (open/closed)?
+Hebrew [49]: איך הייתם קוראים למשתנה שמתאר את מצב הדלת (פתוחה/סגורה)?
++-----------------------+--------+---------+
+|                       | Hebrew | English |
++-----------------------+--------+---------+
+| b_elevator_door_state | 0      | 1       |
+| b_is_door_open        | 0      | 1       |
+| curr_state            | 0      | 2       |
+| current_doors_state   | 0      | 1       |
+| door                  | 3      | 1       |
+| door_current_status   | 1      | 0       |
+| door_is_closed        | 1      | 0       |
+| door_is_open          | 1      | 0       |
+| door_open             | 0      | 3       |
+| door_stat             | 1      | 0       |
+| door_state            | 10     | 12      |
+| door_status           | 4      | 0       |
+| doorstate             | 1      | 1       |
+| elevator_door_state   | 1      | 1       |
+| elevator_state        | 0      | 1       |
+| is_closed             | 1      | 1       |
+| is_door_closed        | 2      | 1       |
+| is_door_open          | 11     | 3       |
+| is_door_opened        | 2      | 2       |
+| is_elevator_open      | 0      | 1       |
+| is_o_pen              | 1      | 0       |
+| is_open               | 7      | 5       |
+| is_opened             | 0      | 2       |
+| state                 | 0      | 1       |
+| status                | 1      | 0       |
+| status_of_door        | 1      | 0       |
++-----------------------+--------+---------+

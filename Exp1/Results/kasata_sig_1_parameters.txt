@@ -1,0 +1,19 @@
+﻿Kasata
+Parameters
+English [41]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
+Hebrew [47]: כתבו חתימה לממשק שיעזור לאורי לחשב, בהינתן כמויות המצרכים הבסיסים שבידיו, כמה קסטות יוכל להכין.
++-------------------------------------------------------------+--------+---------+
+|                                                             | Hebrew | English |
++-------------------------------------------------------------+--------+---------+
+| (no parameters)                                             | 6      | 5       |
+| biscuits, ice_cream, paper                                  | 17     | 15      |
+| biscuits, ice_cream, paper, recipe                          | 0      | 1       |
+| biscuits, ice_cream, paper_count                            | 3      | 6       |
+| biscuits, ice_cream, paper_count, paper_height, paper_width | 1      | 0       |
+| biscuits, ice_cream, paper_height, paper_width              | 6      | 5       |
+| biscuits, ice_cream, paper_length, paper_width              | 7      | 4       |
+| biscuits, ice_cream, paper_size                             | 5      | 4       |
+| ingredient_count                                            | 1      | 0       |
+| ingredient_count, ingredient_types                          | 0      | 1       |
+| inventory                                                   | 1      | 0       |
++-------------------------------------------------------------+--------+---------+

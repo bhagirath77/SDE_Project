@@ -1,0 +1,49 @@
+﻿Tic-Tac-Toe
+Names
+English (Grid) [26]: How would you name the variable (or data structure) describing the current state of the game grid?
+English (Board) [40]: How would you name the variable (or data structure) describing the current state of the game board?
+Hebrew [28]: מה יהיה שם המשתנה (או מבנה הנתונים) שמתאר/מחזיק את מצב לוח המשחק כרגע?
++----------------------+--------+----------------+-----------------+
+|                      | Hebrew | English (Grid) | English (Board) |
++----------------------+--------+----------------+-----------------+
+| b_is_triple_x        | 0      | 0              | 1               |
+| board                | 16     | 1              | 8               |
+| board_curr_state     | 0      | 0              | 1               |
+| board_state          | 2      | 2              | 3               |
+| board_status         | 1      | 0              | 1               |
+| c_state              | 0      | 0              | 1               |
+| corss_board          | 1      | 0              | 0               |
+| cur                  | 0      | 1              | 0               |
+| cur_board            | 0      | 1              | 0               |
+| curr_board           | 0      | 0              | 2               |
+| curr_board_stat      | 0      | 0              | 1               |
+| curr_board_state     | 0      | 0              | 1               |
+| curr_game            | 0      | 0              | 1               |
+| curr_game_board      | 0      | 0              | 1               |
+| curr_state           | 1      | 0              | 0               |
+| current_board        | 1      | 0              | 1               |
+| current_board_state  | 1      | 0              | 1               |
+| current_board_status | 1      | 1              | 0               |
+| current_game_board   | 0      | 0              | 1               |
+| current_game_state   | 0      | 1              | 0               |
+| current_state        | 1      | 0              | 3               |
+| game                 | 0      | 1              | 0               |
+| game_board           | 0      | 2              | 2               |
+| game_grid            | 0      | 1              | 0               |
+| game_node            | 0      | 0              | 1               |
+| game_screen          | 0      | 1              | 0               |
+| game_state           | 0      | 4              | 3               |
+| game_table           | 0      | 1              | 0               |
+| gameboard_state      | 0      | 0              | 1               |
+| grid                 | 0      | 4              | 0               |
+| grid_state           | 0      | 2              | 0               |
+| list                 | 1      | 0              | 0               |
+| m_board              | 0      | 0              | 1               |
+| mat_state            | 0      | 0              | 1               |
+| matrix               | 0      | 0              | 1               |
+| state                | 0      | 2              | 1               |
+| status               | 0      | 0              | 1               |
+| tic_tac_toe_board    | 0      | 1              | 1               |
+| ttt_board_state      | 1      | 0              | 0               |
+| xo_curr              | 1      | 0              | 0               |
++----------------------+--------+----------------+-----------------+

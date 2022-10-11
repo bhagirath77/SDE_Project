@@ -1,0 +1,13 @@
+﻿Gum
+Responses
+English [42]: What is the purpose of hours parameter?
+Hebrew [43]: מה תפקידו של פרמטר hours?
++---------------------------------------------------------+--------+---------+
+|                                                         | Hebrew | English |
++---------------------------------------------------------+--------+---------+
+| Number of work hours by an employee                     | 38     | 37      |
+| Number of work hours by an employee since last paid     | 0      | 1       |
+| Number of work hours in a month by an employee          | 3      | 2       |
+| Number of work hours in a payment period by an employee | 1      | 2       |
+| Number of work hours in a week by an employee           | 1      | 0       |
++---------------------------------------------------------+--------+---------+

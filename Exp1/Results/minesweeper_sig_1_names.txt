@@ -1,0 +1,52 @@
+﻿Minesweeper
+Names
+English [45]: The game's level of difficulty depends on the grid size and the number of mines in it.
+Write a function signature for a function which receives the above parameters and returns the level of difficulty of the game.
+Hebrew [52]: דרגת קושי המשחק תלויה בממדי הלוח ובמספר המוקשים בו. כתוב חתימה לפונקציה שמקבלת את הפרמטרים הנ"ל ומחזירה את דרגת הקושי של המשחק.
++-----------------------------+--------+---------+
+|                             | Hebrew | English |
++-----------------------------+--------+---------+
+| analyze_toughness           | 1      | 0       |
+| board_difficulty            | 0      | 1       |
+| calc_difficulty             | 0      | 3       |
+| calc_difficulty_level       | 0      | 1       |
+| calc_game_difficulty        | 0      | 1       |
+| calc_level                  | 0      | 1       |
+| calculate_difficulty        | 2      | 1       |
+| calculate_difficulty_level  | 1      | 0       |
+| calculate_game_difficulty   | 1      | 0       |
+| calculate_level             | 1      | 0       |
+| check_difficulty            | 0      | 1       |
+| check_game_difficulty       | 0      | 1       |
+| choose_difficulty           | 0      | 1       |
+| complexity_level            | 0      | 2       |
+| create_game                 | 1      | 0       |
+| determine_diff              | 0      | 1       |
+| difficult_level             | 0      | 1       |
+| difficulty                  | 6      | 8       |
+| difficulty_analize          | 0      | 1       |
+| difficulty_level            | 3      | 2       |
+| difficulty_of_board         | 0      | 1       |
+| evalue_difficulty           | 1      | 0       |
+| find_difficulty             | 0      | 2       |
+| game_difficulty             | 2      | 3       |
+| game_hardness               | 1      | 0       |
+| game_level                  | 5      | 0       |
+| get_board_difficulty        | 1      | 0       |
+| get_challenge_state         | 1      | 0       |
+| get_difficulty              | 7      | 5       |
+| get_difficulty_level        | 2      | 0       |
+| get_game_difficult          | 0      | 1       |
+| get_game_difficulty         | 1      | 2       |
+| get_game_difficulty_level   | 1      | 0       |
+| get_game_level              | 3      | 0       |
+| get_level                   | 5      | 0       |
+| get_mine_sweeper_difficulty | 0      | 1       |
+| how_difficult               | 0      | 1       |
+| how_hard                    | 1      | 0       |
+| level                       | 2      | 2       |
+| level_rate                  | 1      | 0       |
+| minesweeper                 | 1      | 0       |
+| rank                        | 1      | 0       |
+| whats_the_difficulty        | 0      | 1       |
++-----------------------------+--------+---------+
