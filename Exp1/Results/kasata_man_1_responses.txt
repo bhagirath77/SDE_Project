@@ -1,0 +1,16 @@
+﻿Kasata
+Responses
+English [41]: What do you think
+profit (units, cost, price)
+function does?
+Hebrew [48]: נתון הממשק:
+(profit(units, cost, price. מה לדעתכם עושה הממשק?
++---------------------------------------------+--------+---------+
+|                                             | Hebrew | English |
++---------------------------------------------+--------+---------+
+| Calculates profit from buying               | 1      | 0       |
+| Calculates profit of selling the sandwiches | 42     | 21      |
+| Returns total cost given unit cost          | 1      | 0       |
+| price-cost                                  | 0      | 1       |
+| units*(price-cost)                          | 4      | 19      |
++---------------------------------------------+--------+---------+

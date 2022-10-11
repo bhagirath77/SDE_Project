@@ -1,0 +1,19 @@
+﻿Rock Paper Scissors
+Responses
+Hebrew [85]: מה הטיפוסים שלהם?
++------------------------------+--------+
+|                              | Hebrew |
++------------------------------+--------+
+| Characters                   | 1      |
+| Choice history arrays        | 1      |
+| Enums                        | 19     |
+| Integer                      | 3      |
+| Integers                     | 23     |
+| Integers or player objects   | 1      |
+| Number of string             | 1      |
+| Objects                      | 4      |
+| Plater objects               | 1      |
+| Player objects               | 21     |
+| Player objects or player IDs | 1      |
+| Strings                      | 9      |
++------------------------------+--------+

@@ -1,0 +1,27 @@
+﻿Resize
+Responses
+Hebrew [105]: מה לדעתך הפונקציה עושה?
++------------------------------------------------+--------+
+|                                                | Hebrew |
++------------------------------------------------+--------+
+| Calculates new image size                      | 1      |
+| Changes pixel values                           | 1      |
+| Changes the image's factor                     | 1      |
+| Enarges the image by factor in each dimension  | 1      |
+| Enlarges the image by factor                   | 25     |
+| Enlarges the image by factor in each dimension | 6      |
+| Rearranges the array with different dimensions | 1      |
+| Resize the factor                              | 2      |
+| Resize the image by factor                     | 2      |
+| Resizes                                        | 2      |
+| Resizes something by factor                    | 2      |
+| Resizes the image                              | 12     |
+| Resizes the image area by factor               | 1      |
+| Resizes the image by factor                    | 40     |
+| Resizes the image by factor in each dimension  | 2      |
+| Resizes the image by factor in each dimesion   | 1      |
+| Resizes the window                             | 1      |
+| Returns a resized copy of the image            | 1      |
+| Shrinks the image                              | 1      |
+| Shrinks the image by factor                    | 2      |
++------------------------------------------------+--------+

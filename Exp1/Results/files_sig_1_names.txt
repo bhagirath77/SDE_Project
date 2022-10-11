@@ -1,0 +1,85 @@
+﻿Files
+Names
+English [44]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
+Hebrew [54]: במימוש יש פונקציה שמקבלת קובץ, בכמה רוצים להגדיל אותו, ואת השטח הפנוי בדיסק, ובודקת האם יש מספיק מקום. הצע חתימה לפונקציה הזו.
++---------------------------------------+--------+---------+
+|                                       | Hebrew | English |
++---------------------------------------+--------+---------+
+| add_to_file                           | 1      | 0       |
+| attempt_to_increase                   | 0      | 1       |
+| can_add                               | 0      | 1       |
+| can_add_to_file                       | 1      | 0       |
+| can_allocate_extra_disk               | 0      | 1       |
+| can_enlarge                           | 2      | 0       |
+| can_enlarge_file                      | 2      | 0       |
+| can_file_be_enlarged                  | 0      | 1       |
+| can_file_be_enlraged                  | 1      | 0       |
+| can_file_size_be_increased            | 0      | 1       |
+| can_increase                          | 0      | 3       |
+| can_increase_file                     | 0      | 2       |
+| can_increase_file_size                | 0      | 1       |
+| can_increase_size                     | 1      | 0       |
+| can_resize                            | 1      | 0       |
+| can_resize_file                       | 1      | 0       |
+| canwritefile                          | 1      | 0       |
+| check_availability                    | 0      | 1       |
+| check_available_size                  | 0      | 1       |
+| check_available_space                 | 1      | 2       |
+| check_disk_space                      | 1      | 0       |
+| check_enough_memory                   | 1      | 0       |
+| check_enough_space                    | 1      | 0       |
+| check_expansion_legality              | 0      | 1       |
+| check_file_allocation                 | 1      | 0       |
+| check_file_expansion                  | 1      | 0       |
+| check_file_increase                   | 0      | 1       |
+| check_file_size                       | 1      | 0       |
+| check_for_space                       | 2      | 0       |
+| check_if_available_space              | 1      | 0       |
+| check_if_extending_file_is_possible   | 1      | 0       |
+| check_if_file_can_be_enlarge          | 1      | 0       |
+| check_if_increase_possible            | 0      | 1       |
+| check_resizing                        | 1      | 0       |
+| check_size_available                  | 1      | 0       |
+| check_space                           | 0      | 2       |
+| check_space_for_file                  | 1      | 0       |
+| enlarge_file                          | 0      | 1       |
+| enough_space_left                     | 0      | 1       |
+| enough_space_to_expand                | 1      | 0       |
+| expand_file                           | 1      | 1       |
+| has_enough_space_to_increase          | 0      | 1       |
+| has_space                             | 1      | 0       |
+| increase                              | 0      | 2       |
+| increase_file_size                    | 1      | 1       |
+| increase_file_size_by                 | 1      | 0       |
+| increase_size                         | 0      | 1       |
+| is_available                          | 2      | 1       |
+| is_enlarge_file_possible              | 1      | 0       |
+| is_enough_space                       | 3      | 4       |
+| is_enough_space_for_file_enlarge      | 0      | 1       |
+| is_enough_space_to_increase_file_size | 0      | 1       |
+| is_expandable                         | 2      | 0       |
+| is_file_enlarge_possible              | 1      | 0       |
+| is_increasing_available               | 1      | 0       |
+| is_possible_to_enlarge_file           | 1      | 0       |
+| is_realloc_ok                         | 0      | 1       |
+| is_resizeable                         | 1      | 0       |
+| is_room_for_file                      | 1      | 0       |
+| is_space_available                    | 1      | 0       |
+| is_space_enough                       | 1      | 0       |
+| is_there_enough_space                 | 1      | 0       |
+| is_valid_increase                     | 0      | 1       |
+| is_valid_size_increase                | 0      | 1       |
+| memory_vacancy_test                   | 1      | 0       |
+| possible_to_increase_file_size        | 0      | 1       |
+| reallocate                            | 1      | 0       |
+| reallocate_file                       | 1      | 0       |
+| resize_file                           | 1      | 0       |
+| resize_helper                         | 1      | 0       |
+| space                                 | 1      | 0       |
+| space_check                           | 0      | 1       |
+| test_available_space                  | 0      | 1       |
+| there_are_enough_space                | 1      | 0       |
+| try_to_increase_file                  | 0      | 1       |
+| update_file                           | 0      | 1       |
+| verify_file_enhancement               | 0      | 1       |
++---------------------------------------+--------+---------+

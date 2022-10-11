@@ -1,0 +1,24 @@
+﻿Rock Paper Scissors
+Responses
+Hebrew [100]: מה לדעתך טיפוסו של הערך המוחזר?
++-------------------------+--------+
+|                         | Hebrew |
++-------------------------+--------+
+| Binary                  | 2      |
+| Boolean                 | 16     |
+| Character               | 2      |
+| Enum                    | 11     |
+| Integer                 | 34     |
+| Integer or string       | 1      |
+| MatchResult object      | 1      |
+| Number                  | 2      |
+| Player ID               | 1      |
+| Player base class       | 1      |
+| Player object           | 16     |
+| Player object or enum   | 1      |
+| Player object or number | 1      |
+| Same as input           | 2      |
+| Same as input type      | 3      |
+| String                  | 5      |
+| var                     | 1      |
++-------------------------+--------+

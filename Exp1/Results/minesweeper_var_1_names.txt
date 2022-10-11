@@ -1,0 +1,48 @@
+﻿Minesweeper
+Names
+English [47]: How would you call the variable which holds the game time?
+Hebrew [51]: איך תקרא למשתנה שמחזיק את זמן המשחק?
++--------------------------+--------+---------+
+|                          | Hebrew | English |
++--------------------------+--------+---------+
+| clock                    | 1      | 1       |
+| curr_time                | 2      | 0       |
+| current_game_time        | 1      | 0       |
+| current_game_time_passed | 0      | 1       |
+| current_time             | 0      | 1       |
+| dur                      | 1      | 0       |
+| duration                 | 1      | 0       |
+| elapsed_time             | 3      | 3       |
+| elapsed_time_in_sec      | 1      | 0       |
+| g_t                      | 0      | 1       |
+| game_clock               | 0      | 1       |
+| game_duration            | 3      | 3       |
+| game_length              | 2      | 0       |
+| game_time                | 5      | 11      |
+| game_time_counter        | 0      | 1       |
+| game_timer               | 1      | 2       |
+| game_timestamp           | 2      | 0       |
+| gametime                 | 0      | 1       |
+| get_elapsed_time         | 1      | 0       |
+| life_time                | 1      | 0       |
+| mgame_elapsed_time       | 1      | 0       |
+| play_time                | 1      | 1       |
+| remaining_time           | 1      | 0       |
+| seconds_played           | 1      | 0       |
+| seconds_since_start      | 1      | 0       |
+| session_time             | 0      | 1       |
+| started_time             | 1      | 0       |
+| t                        | 1      | 1       |
+| time                     | 5      | 7       |
+| time_accumulated         | 1      | 0       |
+| time_counter             | 0      | 1       |
+| time_elapsed             | 1      | 1       |
+| time_from_beginning      | 0      | 1       |
+| time_left                | 1      | 2       |
+| time_of_game             | 0      | 1       |
+| time_of_game_so_far      | 1      | 0       |
+| time_since_start         | 0      | 1       |
+| timer                    | 7      | 4       |
+| total_time               | 2      | 0       |
+| turn                     | 1      | 0       |
++--------------------------+--------+---------+

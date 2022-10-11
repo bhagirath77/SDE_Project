@@ -1,0 +1,14 @@
+﻿Kasata
+Number of words
+English [41]: Write an API function signature to help Ori calculate, given the quantities of ingredients he has, how many sandwiches he can produce.
+Hebrew [47]: כתבו חתימה לממשק שיעזור לאורי לחשב, בהינתן כמויות המצרכים הבסיסים שבידיו, כמה קסטות יוכל להכין.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 6      | 2       |
+| 2 | 12     | 15      |
+| 3 | 19     | 13      |
+| 4 | 8      | 7       |
+| 5 | 2      | 3       |
+| 6 | 0      | 1       |
++---+--------+---------+

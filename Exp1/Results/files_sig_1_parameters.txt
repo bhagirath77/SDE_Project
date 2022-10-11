@@ -1,0 +1,34 @@
+﻿Files
+Parameters
+English [44]: The implementation includes a function that receives a file, by how much we want to increase it, and the available space on the disk, and checks whether there is enough space. Suggest a signature for this function.
+Hebrew [54]: במימוש יש פונקציה שמקבלת קובץ, בכמה רוצים להגדיל אותו, ואת השטח הפנוי בדיסק, ובודקת האם יש מספיק מקום. הצע חתימה לפונקציה הזו.
++---------------------------------------------+--------+---------+
+|                                             | Hebrew | English |
++---------------------------------------------+--------+---------+
+| (no parameters)                             | 12     | 6       |
+| amount, available_space, file               | 0      | 1       |
+| available_space                             | 1      | 0       |
+| available_space, factor, file               | 1      | 0       |
+| available_space, file                       | 1      | 2       |
+| available_space, file, required_size        | 0      | 1       |
+| available_space, file, resize               | 1      | 0       |
+| available_space, file, size                 | 11     | 2       |
+| available_space, file, size_difference      | 15     | 18      |
+| available_space, file, size_to_check        | 1      | 0       |
+| available_space, file, update_size          | 0      | 1       |
+| available_space, file_name, size            | 1      | 0       |
+| available_space, file_name, size_difference | 1      | 0       |
+| available_space, size                       | 0      | 1       |
+| available_space, size_difference            | 1      | 1       |
+| disk_capacity, file, size_difference        | 0      | 1       |
+| disk_capacity, size                         | 1      | 0       |
+| file                                        | 3      | 2       |
+| file, file_system, size                     | 0      | 1       |
+| file, int                                   | 1      | 0       |
+| file, size                                  | 1      | 2       |
+| file, size, space                           | 0      | 1       |
+| file, size_difference                       | 1      | 2       |
+| file, size_difference, system               | 1      | 0       |
+| size                                        | 0      | 1       |
+| size_difference                             | 0      | 1       |
++---------------------------------------------+--------+---------+

@@ -1,0 +1,12 @@
+﻿Elevator
+Responses
+English [41]: What does this code do?
+Hebrew [50]: מה עושה קטע קוד זה?
++------------------------------------------------------------------------------+--------+---------+
+|                                                                              | Hebrew | English |
++------------------------------------------------------------------------------+--------+---------+
+| Determines the direction of the elevator                                     | 9      | 6       |
+| Determines the direction of the elevator then travels to the requested floor | 38     | 33      |
+| Operates an elevator                                                         | 2      | 2       |
+| Travels to the requested floor                                               | 1      | 0       |
++------------------------------------------------------------------------------+--------+---------+

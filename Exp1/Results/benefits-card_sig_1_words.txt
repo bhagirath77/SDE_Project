@@ -1,0 +1,28 @@
+﻿Benefits card
+Number of words
+English [54]: When a customer wants to use a benefit, the system executes a function which works as follows:
+Input:
+
+ Number of benefits the customer is entitled to during the current month
+
+ Number of benefits the customer has used during the current month
+The function calculates the difference, and returns TRUE if the balance is positive.
+Write a function signature for this function.
+Hebrew [41]: כאשר משתמש רוצה לנצל פינוק, המערכת מפעילה פונקציה שפועלת כך:
+מקבלת:
+
+כמה פינוקים אותו הלקוח זכאי החודש
+
+כמה פינוקים אותו הלקוח ניצל החודש
+הפונקציה מחשבת את ההפרש. אם היתרה חיובית הפונקציה מחזירה TRUE.
+כתבו חתימה לפונקציה הזו.
++---+--------+---------+
+|   | Hebrew | English |
++---+--------+---------+
+| 1 | 4      | 3       |
+| 2 | 12     | 17      |
+| 3 | 23     | 26      |
+| 4 | 2      | 5       |
+| 5 | 0      | 2       |
+| 6 | 0      | 1       |
++---+--------+---------+

@@ -1,0 +1,16 @@
+﻿Files
+Responses
+English [26]: What is the role of the parameter?
+Hebrew [26]: מה תפקיד הפרמטר?
++-------------------------+--------+---------+
+|                         | Hebrew | English |
++-------------------------+--------+---------+
+| Files                   | 1      | 0       |
+| Files to sort           | 19     | 21      |
+| Input files             | 1      | 2       |
+| List of files           | 1      | 1       |
+| Pass reference to files | 1      | 2       |
+| Path of files           | 1      | 0       |
+| Represents files        | 1      | 0       |
+| Specify file sizes      | 1      | 0       |
++-------------------------+--------+---------+

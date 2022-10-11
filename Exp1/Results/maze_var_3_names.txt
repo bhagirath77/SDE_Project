@@ -1,0 +1,41 @@
+﻿Maze
+Names
+English (Maze) [27]: How would you call the data structure describing the maze?
+English (Labyrinth) [43]: How would you call the data structure describing the labyrinth?
+Hebrew [35]: איך תקרא למבנה הנתונים שמתאר את המבוך?
++-----------------------+--------+----------------+---------------------+
+|                       | Hebrew | English (Maze) | English (Labyrinth) |
++-----------------------+--------+----------------+---------------------+
+| all_coordinates       | 0      | 0              | 1                   |
+| array                 | 0      | 1              | 0                   |
+| available_locations   | 0      | 0              | 1                   |
+| board                 | 0      | 0              | 1                   |
+| cheese_tree           | 0      | 0              | 1                   |
+| graph                 | 0      | 0              | 1                   |
+| lab                   | 1      | 0              | 0                   |
+| lab_data              | 0      | 0              | 1                   |
+| lab_desc              | 0      | 0              | 1                   |
+| labirint              | 1      | 0              | 0                   |
+| labyrinth             | 0      | 0              | 21                  |
+| labyrinth_areas_graph | 0      | 0              | 1                   |
+| labyrinth_data        | 0      | 0              | 2                   |
+| labyrinth_graph       | 0      | 0              | 1                   |
+| labyrinth_structure   | 0      | 0              | 1                   |
+| labyrinth_tree        | 0      | 0              | 1                   |
+| location              | 0      | 1              | 0                   |
+| map                   | 1      | 0              | 0                   |
+| matrix                | 0      | 1              | 0                   |
+| mavoh                 | 1      | 0              | 0                   |
+| maze                  | 28     | 17             | 7                   |
+| maze_board            | 0      | 0              | 1                   |
+| maze_coards           | 1      | 0              | 0                   |
+| maze_descriptor       | 0      | 2              | 0                   |
+| maze_info             | 0      | 1              | 0                   |
+| maze_map              | 0      | 1              | 0                   |
+| maze_room             | 1      | 0              | 0                   |
+| mz_maze               | 0      | 1              | 0                   |
+| rooms                 | 0      | 0              | 1                   |
+| rooms_graph           | 1      | 0              | 0                   |
+| total_locations       | 0      | 1              | 0                   |
+| universe              | 0      | 1              | 0                   |
++-----------------------+--------+----------------+---------------------+

@@ -1,0 +1,54 @@
+﻿Elevator
+Names
+English [41]: Replace var1 with a name you would have used.
+Hebrew [49]: החלף var1 בשם בו אתה היית משתמש.
++----------------------+--------+---------+
+|                      | Hebrew | English |
++----------------------+--------+---------+
+| button_floor         | 1      | 0       |
+| choosen_floor        | 1      | 0       |
+| curfloor             | 1      | 0       |
+| curr_floor           | 3      | 0       |
+| curr_pose            | 1      | 0       |
+| current_floor        | 0      | 1       |
+| currentlevel         | 1      | 0       |
+| currfloor            | 0      | 1       |
+| designated_floor     | 0      | 1       |
+| desirable_floor      | 0      | 1       |
+| desired_floor        | 3      | 1       |
+| dest                 | 2      | 2       |
+| dest_floor           | 4      | 3       |
+| destination          | 1      | 0       |
+| destination_floor    | 5      | 6       |
+| destination_story    | 1      | 0       |
+| dir1                 | 0      | 1       |
+| dst_floor            | 1      | 0       |
+| enterd_floor         | 1      | 0       |
+| floor_pressed        | 1      | 0       |
+| floor_to             | 0      | 1       |
+| floor_to_reach       | 0      | 1       |
+| go_to_floor          | 0      | 1       |
+| i_dest_floor         | 0      | 1       |
+| input_floor          | 0      | 2       |
+| location             | 0      | 1       |
+| n_dstfloor           | 0      | 1       |
+| new_floor            | 1      | 2       |
+| new_location         | 1      | 0       |
+| next                 | 1      | 0       |
+| original_floor_index | 1      | 0       |
+| press_buttom_level1  | 0      | 1       |
+| pressed_floor        | 0      | 2       |
+| request_floor        | 1      | 0       |
+| requested_floor      | 2      | 3       |
+| requested_level      | 1      | 0       |
+| requested_pos        | 0      | 1       |
+| required_floor       | 0      | 1       |
+| selected_floor       | 0      | 1       |
+| target_floor         | 8      | 3       |
+| target_level         | 1      | 1       |
+| to_floor             | 2      | 0       |
+| u_pfloors            | 1      | 0       |
+| up_buttons           | 0      | 1       |
+| up_threshold         | 1      | 0       |
+| wanted_floor         | 1      | 0       |
++----------------------+--------+---------+

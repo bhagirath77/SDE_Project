@@ -1,0 +1,64 @@
+﻿Elevator
+Names
+English [41]: Replace var3 with a name you would have used.
+Hebrew [49]: החלף var3 בשם בו אתה היית משתמש.
++---------------------------+--------+---------+
+|                           | Hebrew | English |
++---------------------------+--------+---------+
+| amount_floors             | 1      | 0       |
+| delta                     | 1      | 0       |
+| delta_floors              | 1      | 0       |
+| delta_of_floors           | 1      | 0       |
+| delta_pos                 | 0      | 1       |
+| delta_request_vs_current  | 0      | 1       |
+| deltafloors               | 0      | 1       |
+| dest_floor                | 0      | 1       |
+| destination_offset        | 1      | 0       |
+| diff                      | 2      | 0       |
+| diff_floor                | 1      | 0       |
+| diff_floors               | 1      | 2       |
+| difference_floors         | 0      | 1       |
+| different_between         | 0      | 1       |
+| direction                 | 1      | 1       |
+| dist                      | 1      | 0       |
+| distance                  | 1      | 3       |
+| down_floors               | 1      | 0       |
+| floor_delta               | 3      | 1       |
+| floor_diff                | 1      | 5       |
+| floor_difference          | 1      | 0       |
+| floor_distance            | 0      | 1       |
+| floor_num                 | 1      | 1       |
+| floors                    | 1      | 0       |
+| floors_change             | 1      | 0       |
+| floors_delta              | 0      | 1       |
+| floors_diff               | 1      | 2       |
+| floors_difference         | 0      | 1       |
+| floors_num                | 0      | 1       |
+| floors_shift              | 1      | 0       |
+| floors_to_climb           | 0      | 1       |
+| floors_to_dest            | 0      | 1       |
+| floors_to_go              | 1      | 0       |
+| floors_to_move            | 5      | 4       |
+| floors_to_travel          | 2      | 0       |
+| gap                       | 2      | 0       |
+| gap_thres                 | 1      | 0       |
+| how_many_to_move          | 1      | 0       |
+| i_delta_floor             | 0      | 1       |
+| level_difference          | 1      | 0       |
+| levels_to_travel          | 1      | 0       |
+| move_floors               | 1      | 0       |
+| move_level_amount         | 0      | 1       |
+| n_num_of_floors_to_move   | 0      | 1       |
+| num_floors_to_move        | 2      | 1       |
+| num_of_flights            | 0      | 1       |
+| num_of_floor_to_move      | 0      | 1       |
+| num_of_floors             | 2      | 0       |
+| num_of_floors_to_go       | 1      | 1       |
+| num_of_stories_to_go      | 1      | 0       |
+| number_of_floor_to_go     | 1      | 0       |
+| number_of_floors          | 0      | 2       |
+| number_of_floors_to_climb | 0      | 1       |
+| number_of_floors_to_move  | 2      | 0       |
+| steps                     | 1      | 0       |
+| velocity                  | 1      | 0       |
++---------------------------+--------+---------+

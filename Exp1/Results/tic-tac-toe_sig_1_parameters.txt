@@ -1,0 +1,25 @@
+﻿Tic-Tac-Toe
+Parameters
+English (Grid) [27]: Playing requires displaying the grid to the user. Propose a function signature for this purpose (function name + parameters)
+English (Board) [40]: Playing requires displaying the board to the user. Propose a function signature for this purpose (function name + parameters)
+Hebrew [28]: כדי לשחק צריך להציג את הלוח למשתמש. הצע חתימה לפונקציה שעושה זאת (שם פונקציה + פרמטרים).
++----------------------------------+--------+----------------+-----------------+
+|                                  | Hebrew | English (Grid) | English (Board) |
++----------------------------------+--------+----------------+-----------------+
+| (no parameters)                  | 12     | 9              | 11              |
+| board                            | 10     | 10             | 15              |
+| board, board_height, board_width | 0      | 0              | 1               |
+| board, player                    | 1      | 0              | 0               |
+| board, player1, player2          | 0      | 0              | 1               |
+| board, user_output               | 0      | 0              | 1               |
+| board_size                       | 1      | 0              | 0               |
+| game_node                        | 0      | 0              | 1               |
+| game_state                       | 1      | 5              | 8               |
+| game_state, player               | 1      | 0              | 0               |
+| game_state, step                 | 0      | 1              | 0               |
+| list                             | 1      | 0              | 0               |
+| player                           | 1      | 1              | 0               |
+| self                             | 0      | 0              | 1               |
+| step                             | 0      | 0              | 1               |
+| x_locations, y_locations         | 0      | 1              | 0               |
++----------------------------------+--------+----------------+-----------------+

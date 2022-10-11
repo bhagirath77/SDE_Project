@@ -1,0 +1,40 @@
+﻿Elevator
+Names
+English [41]: Replace var2 with a name you would have used.
+Hebrew [49]: החלף var2 בשם בו אתה היית משתמש.
++------------------------+--------+---------+
+|                        | Hebrew | English |
++------------------------+--------+---------+
+| curr                   | 2      | 1       |
+| curr_floor             | 7      | 5       |
+| curr_level             | 0      | 1       |
+| current                | 1      | 0       |
+| current_f_floor        | 1      | 0       |
+| current_floor          | 21     | 21      |
+| current_level          | 2      | 0       |
+| current_location       | 1      | 0       |
+| current_place          | 0      | 1       |
+| current_pos            | 0      | 1       |
+| designated_floor       | 1      | 0       |
+| designated_floor_index | 1      | 0       |
+| dest_floor             | 2      | 0       |
+| destfloor              | 0      | 1       |
+| destination            | 0      | 1       |
+| destination_floor      | 0      | 1       |
+| dir2                   | 0      | 1       |
+| down_buttons           | 0      | 1       |
+| down_tresh             | 1      | 0       |
+| elevator_floor         | 1      | 0       |
+| floor_from             | 0      | 1       |
+| from_floor             | 2      | 0       |
+| goal                   | 1      | 0       |
+| i_src_floor            | 0      | 1       |
+| initial_story          | 1      | 0       |
+| inputlevel             | 1      | 0       |
+| location               | 1      | 0       |
+| n_current_floor        | 0      | 1       |
+| nextfloor              | 1      | 0       |
+| org_floor              | 0      | 1       |
+| press_button_level2    | 0      | 1       |
+| src_floor              | 1      | 1       |
++------------------------+--------+---------+
