@@ -1,0 +1,117 @@
+﻿Cell,Type,Reason,Data
+N4,Variable name,"Special character: ""(""",getTodayCheeseLoation
+AN7,Function signature,Pattern mismatch,
+AN10,Function signature,Long name,"int calculateICSQuantityFromIngredients(int chocolateBiscuitQuantity, float vanillaCups, int paperWidth, int paperHeight, int paperQuantity);"
+AF14,Variable name,"Special character: "" """,hours_in_full_time
+AG14,Variable name,"Special character: ""=""",overtime_bonus
+AK15,Function signature,Pattern mismatch,"is_file_enlarge_possible(file, enlarge, free_space)"
+AO15,Function signature,Pattern mismatch,"calc_difficulty(grid_size, num_mines)"
+AN16,Function signature,Pattern mismatch,
+AK17,Function signature,Pattern mismatch,"public boolean canIncreaseSize(file, int increaseBy, int availableSpace)"
+AT17,Function signature,"Special character: ""<""",getBoard()
+AM18,Function signature,"Special character: ""/""",
+AQ18,Function signature,"Special character: "">""",
+AO21,Function signature,Pattern mismatch,"International  calc_dfficulty(size,num_of_mines)"
+AL22,Function signature,Pattern mismatch,"can_increase(file, by, available_dosk_space)"
+AO22,Function signature,Pattern mismatch,"difficulty(grid_size, num_mines)"
+AN23,Function signature,Special character,
+T30,Variable name,"Special character: "",""",timer
+O40,Variable name,"Special character: "" """,visited_map
+P40,Variable name,"Special character: "" """,
+N41,Variable name,Long name,cheeseLocation
+O41,Variable name,Long name,visitedLocation
+P41,Variable name,Long name,labyrinth
+AM42,Function signature,Long name,"int calculatePotentialSandwiches(int numBiscuits, float numVanillaCups, long paperLengthCm, long paperWidthCm)"
+A51,Variable name,"Special character: "" """,_fileSize
+V51,Variable name,"Special character: "" """,_elapsedTime
+AR55,Function signature,"Special character: "">""","def is_balance_positive (nBenefits_Month,nBenefits_Used)"
+AC56,Variable name,Long name,benefits_entitlement_current_month
+AM56,Function signature,Long name,"number_of_sandwiches (int number_of_biscuits, int cups_of_ice_cream, int wrapping_paper_in_square_meters)"
+J62,Variable name,"Special character: "" """,door_open
+Q62,Variable name,"Special character: "".""",maze.cheese_pos
+R62,Variable name,"Special character: "".""",mouse.track
+J65,Variable name,Long name,isOpened
+AK65,Function signature,Long name,hasSpace(space)
+AN65,Function signature,Pattern mismatch,"integer max_kasatas(integer biscuits, integer iceCream, intger papaer)"
+AL69,Function signature,"Special character: ""@""","can_increase_file(file, size_to_add, availabl_space)"
+V70,Variable name,"Special character: "" """,timer
+W70,Variable name,"Special character: "" """,GameSquareMinesInProximity
+O71,Variable name,Long name,rooms_visited
+G72,Variable name,"Special character: ""=""",designatedFloor
+H72,Variable name,"Special character: ""=""",currentFloor
+I72,Variable name,"Special character: ""=""",numOfFloorsToGo
+J74,Variable name,"Special character: "" """,door_open
+T75,Variable name,"Special character: "":""",GameTime
+AO75,Function signature,Pattern mismatch,
+AQ75,Function signature,Pattern mismatch,"get_available_treats(current_number_of_treats, used_treats)"
+AQ76,Function signature,Pattern mismatch,boolean canGetPinuk(num)
+AT79,Function signature,Pattern mismatch,display_board(int board)
+F82,Variable name,"Special character: "" """,isOpen
+V82,Variable name,"Special character: "" """,duration
+W82,Variable name,"Special character: "" """,mineOrAdjCount
+AM82,Function signature,Pattern mismatch,"Int calcQuantity(int numBiscuits, int numVaillaCups,  int paperLength, int paperWidth)"
+AN83,Function signature,Special character,
+AM84,Function signature,Pattern mismatch,"how_many_sandwiches(biscuits,cups_of_ice_cream, height_paper, width_paper)"
+I87,Variable name,Long name,nNumOfFloorsToMove
+AL87,Function signature,Long name,"CanFileBeEnlarged(cFile, nAdditionalFileSize, nAvailableDiskSpace)"
+AT92,Function signature,Pattern mismatch,"Bool draw(Board b, unsigned int N, unsigned int M)"
+L106,Variable name,Long name,lstVisitedRooms
+M106,Variable name,Long name,mzMaze
+AJ106,Variable name,Long name,
+AL106,Function signature,Long name,"bool IsEnoughSpaceForFileEnlarge(File file, double dNewSize, FileSystem fsFileSystem)"
+AU106,Function signature,Long name,updateBoardPresentation(matrix)
+N107,Variable name,"Special character: ""-""",coordinate-to-find
+O107,Variable name,"Special character: ""-""",visited-coordinates
+P107,Variable name,"Special character: ""-""",all-coordinates
+AM110,Function signature,Long name,"int getNumOfSandwiches(int biscuits, int iceCreamCups, int wrappingPaperWidth, int wrappingPaperHeight)"
+AP116,Function signature,Special character,Int get_level(int size)
+AN120,Function signature,Long name,"calcAmountOfPossibleCasatot(int biscuits, double iceCreamGlasses, int wrappingHeight, int wrappingWidth)"
+AH122,Variable name,"Special character: "" """,
+AO129,Function signature,Pattern mismatch,
+AU132,Function signature,Pattern mismatch,grid.draw()
+AH133,Variable name,"Special character: "" """,Board
+AS133,Function signature,Special character,Show_board
+AM136,Function signature,Pattern mismatch,"int numSandwitchesPossible(int biacuits,int iceCream,int wrapWidth, int wrapLength)"
+AO139,Function signature,Pattern mismatch,"ComplexityLevel(squareArea, numOfMines)"
+AA141,Variable name,Long name,MAX_BENEFITS_PER_MONTH
+AB141,Variable name,Long name,MONEY_FOR_BEFIT
+AC141,Variable name,Long name,currentMonthBenefitsNum
+AM144,Function signature,Pattern mismatch,"calculate_max_sandwitches_for_ingredients(num_biscuits, vanilla_ice_cream_cups, num_wrapping_papers)"
+AP154,Function signature,Pattern mismatch,"Def gameLevel(boardSize, numOfBombs)"
+AP155,Function signature,Pattern mismatch,"getDifficulty(width, height, numOfMines)"
+AM159,Function signature,Pattern mismatch,"Public int calculation(int ingredientAmount, obString ingredientTypes)"
+U160,Variable name,"Special character: "" """,
+AN160,Function signature,"Special character: ""{""","int numOfIcecreams(int biscuits,int iceream,int wrap)"
+AT161,Function signature,Pattern mismatch,"display_board(Board board, Player player1, Player player2) "
+AL167,Function signature,Pattern mismatch,"checkAvailableSpace (File file, long add)"
+AP167,Function signature,Pattern mismatch,"difficultyLevel(int boardSize, int numMines)"
+AR167,Function signature,Pattern mismatch,"canUseBenefit(int numEntitlesBenefits, int usedBenefits)"
+B168,Variable name,"Special character: "".""",.size
+U169,Variable name,"Special character: ""[""",BoardGame
+AK169,Function signature,Pattern mismatch,"There_are_enough_space(File file, size_t size ,size_t avilbie_siz)"
+AT169,Function signature,Pattern mismatch,"Display_game_Board(Board game_Board, UserOutput userOutput)"
+AR170,Function signature,Pattern mismatch,UseBenefit(benefitsEntitlrd)
+AM175,Function signature,Pattern mismatch,"howMany(recipe, biscuits, ice_cream, wrap_paper)"
+AR175,Function signature,Pattern mismatch,"boolean isBalancePositive(int current_month_benefits, int used_benefits )"
+J182,Variable name,"Special character: "" """,doorstate
+AM185,Function signature,Pattern mismatch,"sandwich_potential(biscuits, ice_cream_cups, wrap_h, wrap_w)"
+J187,Variable name,Long name,isDoorOpen
+AA189,Variable name,Special character,
+AB189,Variable name,Special character,
+AC189,Variable name,Special character,
+AD189,Variable name,"Special character: "" """,Weekly houres
+AE189,Variable name,"Special character: "" """,Hourly wage
+AR189,Function signature,Special character,
+AA191,Variable name,"Special character: "" """,Max number of benefits
+AB191,Variable name,"Special character: "" """,ratio of money to benefit
+AC191,Variable name,"Special character: "" """,available benefit
+V198,Variable name,Long name,startedTime
+N199,Variable name,"Special character: "" """,curCheeseRoom
+O199,Variable name,"Special character: "" """,visited
+P199,Variable name,"Special character: ""[""",Rooms
+AQ212,Function signature,Pattern mismatch,"ABool can_use_credit(int used_credit , int availble_credit)"
+P224,Variable name,Long name,labyrinthData
+AO226,Function signature,Pattern mismatch,"findDiffuclty(int mines, int gridSize)"
+A230,Variable name,"Special character: "" """,File size
+AK230,Function signature,Pattern mismatch,memory_vacancy_test
+AQ232,Function signature,Pattern mismatch,"Public boolean Can_use_benefit(int canget, int used)"
